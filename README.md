@@ -38,10 +38,10 @@ It also provides the following hashes:
 
 ## TODO
 
-[ ] Find out the 5 incorrect Municipalities
-[ ] Add baranggays
-[ ] Create a zip-code suggestion feature based on data from `nadarei/philippines`
-[ ] Add additional information about regions and provinces
+* Find out the 5 incorrect Municipalities
+* Add baranggays
+* Create a zip-code suggestion feature based on data from `nadarei/philippines`
+* Add additional information about regions and provinces
 
 ## Contributing
 
