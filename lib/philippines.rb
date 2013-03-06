@@ -1,4 +1,5 @@
 require "philippines/version"
+require "yaml"
 
 module Philippines
   
