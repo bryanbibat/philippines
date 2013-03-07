@@ -1653,7 +1653,7 @@ Samar:
     - Zumarraga
 
 Sarangani:
-  cities:
+  cities: []
   municipalities:
     - Alabel
     - Glan
@@ -1664,7 +1664,7 @@ Sarangani:
     - Malungon
 
 Siquijor:
-  cities:
+  cities: []
   municipalities:
     - Enrique Villanueva
     - Larena
