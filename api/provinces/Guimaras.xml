@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Guimaras</name>
+  <cities type="array"/>
+  <municipalities type="array">
+    <municipality>Buenavista</municipality>
+    <municipality>Jordan</municipality>
+    <municipality>Nueva Valencia</municipality>
+    <municipality>San Lorenzo</municipality>
+    <municipality>Sibunag</municipality>
+  </municipalities>
+</hash>

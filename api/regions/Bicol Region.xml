@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Bicol Region</name>
+  <designation>Region V</designation>
+  <provinces type="array">
+    <province>Albay</province>
+    <province>Camarines Norte</province>
+    <province>Camarines Sur</province>
+    <province>Catanduanes</province>
+    <province>Masbate</province>
+    <province>Sorsogon</province>
+  </provinces>
+</hash>

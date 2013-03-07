@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Ilocos Norte</name>
+  <cities type="array">
+    <city>Batac City</city>
+    <city>Laoag City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Adams</municipality>
+    <municipality>Bacarra</municipality>
+    <municipality>Badoc</municipality>
+    <municipality>Bangui</municipality>
+    <municipality>Banna</municipality>
+    <municipality>Burgos</municipality>
+    <municipality>Carasi</municipality>
+    <municipality>Currimao</municipality>
+    <municipality>Dingras</municipality>
+    <municipality>Dumalneg</municipality>
+    <municipality>Marcos</municipality>
+    <municipality>Nueva Era</municipality>
+    <municipality>Pagudpud</municipality>
+    <municipality>Paoay</municipality>
+    <municipality>Pasuquin</municipality>
+    <municipality>Piddig</municipality>
+    <municipality>Pinili</municipality>
+    <municipality>San Nicolas</municipality>
+    <municipality>Sarrat</municipality>
+    <municipality>Solsona</municipality>
+    <municipality>Vintar</municipality>
+  </municipalities>
+</hash>

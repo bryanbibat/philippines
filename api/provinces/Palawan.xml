@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Palawan</name>
+  <cities type="array">
+    <city>Puerto Princesa City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Aborlan</municipality>
+    <municipality>Agutaya</municipality>
+    <municipality>Araceli</municipality>
+    <municipality>Balabac</municipality>
+    <municipality>Bataraza</municipality>
+    <municipality>Brooke's Point</municipality>
+    <municipality>Busuanga</municipality>
+    <municipality>Cagayancillo</municipality>
+    <municipality>Coron</municipality>
+    <municipality>Culion</municipality>
+    <municipality>Cuyo</municipality>
+    <municipality>Dumaran</municipality>
+    <municipality>El Nido</municipality>
+    <municipality>Kalayaan</municipality>
+    <municipality>Linapacan</municipality>
+    <municipality>Magsaysay</municipality>
+    <municipality>Narra</municipality>
+    <municipality>Quezon</municipality>
+    <municipality>Rizal</municipality>
+    <municipality>Roxas</municipality>
+    <municipality>San Vicente</municipality>
+    <municipality>Sofronio Española</municipality>
+    <municipality>Taytay</municipality>
+  </municipalities>
+</hash>

@@ -1,0 +1,1 @@
+["Isabela City","Lamitan City","Akbar","Al-Barka","Hadji Mohammad Ajul","Hadji Muhtamad","Lantawan","Maluso","Sumisip","Tabuan-Lasa","Tipo-Tipo","Tuburan","Ungkaya Pukan"]

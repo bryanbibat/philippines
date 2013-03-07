@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Central Luzon</name>
+  <designation>Region III</designation>
+  <provinces type="array">
+    <province>Aurora</province>
+    <province>Bataan</province>
+    <province>Bulacan</province>
+    <province>Nueva Ecija</province>
+    <province>Pampanga</province>
+    <province>Tarlac</province>
+    <province>Zambales</province>
+  </provinces>
+</hash>

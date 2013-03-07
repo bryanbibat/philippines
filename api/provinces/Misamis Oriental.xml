@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Misamis Oriental</name>
+  <cities type="array">
+    <city>Cagayan de Oro</city>
+    <city>El Salvador City</city>
+    <city>Gingoog City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Alubijid</municipality>
+    <municipality>Balingasag</municipality>
+    <municipality>Balingoan</municipality>
+    <municipality>Binuangan</municipality>
+    <municipality>Claveria</municipality>
+    <municipality>Gitagum</municipality>
+    <municipality>Initao</municipality>
+    <municipality>Jasaan</municipality>
+    <municipality>Kinoguitan</municipality>
+    <municipality>Lagonglong</municipality>
+    <municipality>Laguindingan</municipality>
+    <municipality>Libertad</municipality>
+    <municipality>Lugait</municipality>
+    <municipality>Magsaysay</municipality>
+    <municipality>Manticao</municipality>
+    <municipality>Medina</municipality>
+    <municipality>Naawan</municipality>
+    <municipality>Opol</municipality>
+    <municipality>Salay</municipality>
+    <municipality>Sugbongcogon</municipality>
+    <municipality>Tagoloan</municipality>
+    <municipality>Talisayan</municipality>
+    <municipality>Villanueva</municipality>
+  </municipalities>
+</hash>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Rizal</name>
+  <cities type="array">
+    <city>Antipolo City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Angono</municipality>
+    <municipality>Baras</municipality>
+    <municipality>Binangonan</municipality>
+    <municipality>Cainta</municipality>
+    <municipality>Cardona</municipality>
+    <municipality>Jalajala</municipality>
+    <municipality>Morong</municipality>
+    <municipality>Pililla</municipality>
+    <municipality>Rodriguez</municipality>
+    <municipality>San Mateo</municipality>
+    <municipality>Tanay</municipality>
+    <municipality>Taytay</municipality>
+    <municipality>Teresa</municipality>
+  </municipalities>
+</hash>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Northern Midnanao</name>
+  <designation>Region X</designation>
+  <provinces type="array">
+    <province>Bukidnon</province>
+    <province>Camiguin</province>
+    <province>Lanao del Norte</province>
+    <province>Misamis Occidental</province>
+    <province>Misamis Oriental</province>
+  </provinces>
+</hash>

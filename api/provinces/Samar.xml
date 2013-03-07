@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Samar</name>
+  <cities type="array">
+    <city>Calbayog City</city>
+    <city>Catbalogan City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Almagro</municipality>
+    <municipality>Basey</municipality>
+    <municipality>Calbiga</municipality>
+    <municipality>Daram</municipality>
+    <municipality>Gandara</municipality>
+    <municipality>Hinabangan</municipality>
+    <municipality>Jiabong</municipality>
+    <municipality>Marabut</municipality>
+    <municipality>Matuguinao</municipality>
+    <municipality>Motiong</municipality>
+    <municipality>Pagsanghan</municipality>
+    <municipality>Paranas</municipality>
+    <municipality>Pinabacdao</municipality>
+    <municipality>San Jorge</municipality>
+    <municipality>San Jose De Buan</municipality>
+    <municipality>San Sebastian</municipality>
+    <municipality>Santa Margarita</municipality>
+    <municipality>Santa Rita</municipality>
+    <municipality>Santo Niño</municipality>
+    <municipality>Tagapul-an</municipality>
+    <municipality>Talalora</municipality>
+    <municipality>Tarangnan</municipality>
+    <municipality>Villareal</municipality>
+    <municipality>Zumarraga</municipality>
+  </municipalities>
+</hash>

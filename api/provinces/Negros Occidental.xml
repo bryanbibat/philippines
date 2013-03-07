@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Negros Occidental</name>
+  <cities type="array">
+    <city>Bacolod City</city>
+    <city>Bago City</city>
+    <city>Cadiz City</city>
+    <city>Escalante City</city>
+    <city>Himamaylan City</city>
+    <city>Kabankalan City</city>
+    <city>La Carlota City</city>
+    <city>Sagay City</city>
+    <city>San Carlos City</city>
+    <city>Silay City</city>
+    <city>Sipalay City</city>
+    <city>Talisay City</city>
+    <city>Victorias City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Binalbagan</municipality>
+    <municipality>Calatrava</municipality>
+    <municipality>Candoni</municipality>
+    <municipality>Cauayan</municipality>
+    <municipality>Enrique B. Magalona</municipality>
+    <municipality>Hinigaran</municipality>
+    <municipality>Hinoba-an</municipality>
+    <municipality>Ilog</municipality>
+    <municipality>Isabela</municipality>
+    <municipality>La Castellana</municipality>
+    <municipality>Manapla</municipality>
+    <municipality>Moises Padilla</municipality>
+    <municipality>Murcia</municipality>
+    <municipality>Pontevedra</municipality>
+    <municipality>Pulupandan</municipality>
+    <municipality>Salvador Benedicto</municipality>
+    <municipality>San Enrique</municipality>
+    <municipality>Toboso</municipality>
+    <municipality>Valladolid</municipality>
+  </municipalities>
+</hash>

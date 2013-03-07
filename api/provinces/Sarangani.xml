@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Sarangani</name>
+  <cities nil="true"/>
+  <municipalities type="array">
+    <municipality>Alabel</municipality>
+    <municipality>Glan</municipality>
+    <municipality>Kiamba</municipality>
+    <municipality>Maasim</municipality>
+    <municipality>Maitum</municipality>
+    <municipality>Malapatan</municipality>
+    <municipality>Malungon</municipality>
+  </municipalities>
+</hash>

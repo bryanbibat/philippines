@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Metro Manila</name>
+  <cities type="array">
+    <city>City of Manila</city>
+    <city>Caloocan</city>
+    <city>Las Piñas</city>
+    <city>Makati</city>
+    <city>Malabon</city>
+    <city>Mandaluyong</city>
+    <city>Marikina</city>
+    <city>Muntinlupa</city>
+    <city>Navotas</city>
+    <city>Parañaque</city>
+    <city>Pasay</city>
+    <city>Pasig</city>
+    <city>Quezon City</city>
+    <city>San Juan City</city>
+    <city>Taguig</city>
+    <city>Valenzuela City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Pateros</municipality>
+  </municipalities>
+</hash>

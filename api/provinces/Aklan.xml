@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Aklan</name>
+  <cities type="array"/>
+  <municipalities type="array">
+    <municipality>Altavas</municipality>
+    <municipality>Balete</municipality>
+    <municipality>Banga</municipality>
+    <municipality>Batan</municipality>
+    <municipality>Buruanga</municipality>
+    <municipality>Ibajay</municipality>
+    <municipality>Kalibo</municipality>
+    <municipality>Lezo</municipality>
+    <municipality>Libacao</municipality>
+    <municipality>Madalag</municipality>
+    <municipality>Makato</municipality>
+    <municipality>Malay</municipality>
+    <municipality>Malinao</municipality>
+    <municipality>Nabas</municipality>
+    <municipality>New Washington</municipality>
+    <municipality>Numancia</municipality>
+    <municipality>Tangalan</municipality>
+  </municipalities>
+</hash>

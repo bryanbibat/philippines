@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Zamboanga Peninsula</name>
+  <designation>Region IX</designation>
+  <provinces type="array">
+    <province>Zamboanga del Norte</province>
+    <province>Zamboanga del Sur</province>
+    <province>Zamboanga Sibugay</province>
+  </provinces>
+</hash>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Bulacan</name>
+  <cities type="array">
+    <city>Malolos City</city>
+    <city>Meycauayan City</city>
+    <city>San Jose del Monte City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Angat</municipality>
+    <municipality>Balagtas</municipality>
+    <municipality>Baliuag</municipality>
+    <municipality>Bocaue</municipality>
+    <municipality>Bulacan</municipality>
+    <municipality>Bustos</municipality>
+    <municipality>Calumpit</municipality>
+    <municipality>Doña Remedios Trinidad</municipality>
+    <municipality>Guiguinto</municipality>
+    <municipality>Hagonoy</municipality>
+    <municipality>Marilao</municipality>
+    <municipality>Norzagaray</municipality>
+    <municipality>Obando</municipality>
+    <municipality>Pandi</municipality>
+    <municipality>Paombong</municipality>
+    <municipality>Plaridel</municipality>
+    <municipality>Pulilan</municipality>
+    <municipality>San Ildefonso</municipality>
+    <municipality>San Miguel</municipality>
+    <municipality>San Rafael</municipality>
+    <municipality>Santa Maria</municipality>
+  </municipalities>
+</hash>

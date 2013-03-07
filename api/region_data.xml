@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <National-Capital-Region>
+    <designation>NCR</designation>
+    <provinces type="array">
+      <province>Metro Manila</province>
+    </provinces>
+  </National-Capital-Region>
+  <Cordillera-Administrative-Region>
+    <designation>CAR</designation>
+    <provinces type="array">
+      <province>Abra</province>
+      <province>Apayao</province>
+      <province>Benguet</province>
+      <province>Ifugao</province>
+      <province>Kalinga</province>
+      <province>Mountain Province</province>
+    </provinces>
+  </Cordillera-Administrative-Region>
+  <Ilocos-Region>
+    <designation>Region I</designation>
+    <provinces type="array">
+      <province>Ilocos Norte</province>
+      <province>Ilocos Sur</province>
+      <province>La Union</province>
+      <province>Pangasinan</province>
+    </provinces>
+  </Ilocos-Region>
+  <Cagayan-Valley>
+    <designation>Region II</designation>
+    <provinces type="array">
+      <province>Batanes</province>
+      <province>Cagayan</province>
+      <province>Isabela</province>
+      <province>Nueva Vizcaya</province>
+      <province>Quirino</province>
+    </provinces>
+  </Cagayan-Valley>
+  <Central-Luzon>
+    <designation>Region III</designation>
+    <provinces type="array">
+      <province>Aurora</province>
+      <province>Bataan</province>
+      <province>Bulacan</province>
+      <province>Nueva Ecija</province>
+      <province>Pampanga</province>
+      <province>Tarlac</province>
+      <province>Zambales</province>
+    </provinces>
+  </Central-Luzon>
+  <CALABARZON>
+    <designation>Region IV-A</designation>
+    <provinces type="array">
+      <province>Batangas</province>
+      <province>Cavite</province>
+      <province>Laguna</province>
+      <province>Quezon</province>
+      <province>Rizal</province>
+    </provinces>
+  </CALABARZON>
+  <MIMAROPA>
+    <designation>Region IV-B</designation>
+    <provinces type="array">
+      <province>Marinduque</province>
+      <province>Occidental Mindoro</province>
+      <province>Oriental Mindoro</province>
+      <province>Palawan</province>
+      <province>Romblon</province>
+    </provinces>
+  </MIMAROPA>
+  <Bicol-Region>
+    <designation>Region V</designation>
+    <provinces type="array">
+      <province>Albay</province>
+      <province>Camarines Norte</province>
+      <province>Camarines Sur</province>
+      <province>Catanduanes</province>
+      <province>Masbate</province>
+      <province>Sorsogon</province>
+    </provinces>
+  </Bicol-Region>
+  <Western-Visayas>
+    <designation>Region VI</designation>
+    <provinces type="array">
+      <province>Aklan</province>
+      <province>Antique</province>
+      <province>Capiz</province>
+      <province>Guimaras</province>
+      <province>Iloilo</province>
+      <province>Negros Occidental</province>
+    </provinces>
+  </Western-Visayas>
+  <Central-Visayas>
+    <designation>Region VII</designation>
+    <provinces type="array">
+      <province>Bohol</province>
+      <province>Cebu</province>
+      <province>Negros Oriental</province>
+      <province>Siquijor</province>
+    </provinces>
+  </Central-Visayas>
+  <Eastern-Visayas>
+    <designation>Region VIII</designation>
+    <provinces type="array">
+      <province>Biliran</province>
+      <province>Eastern Samar</province>
+      <province>Leyte</province>
+      <province>Northern Samar</province>
+      <province>Samar</province>
+      <province>Southern Leyte</province>
+    </provinces>
+  </Eastern-Visayas>
+  <Zamboanga-Peninsula>
+    <designation>Region IX</designation>
+    <provinces type="array">
+      <province>Zamboanga del Norte</province>
+      <province>Zamboanga del Sur</province>
+      <province>Zamboanga Sibugay</province>
+    </provinces>
+  </Zamboanga-Peninsula>
+  <Northern-Midnanao>
+    <designation>Region X</designation>
+    <provinces type="array">
+      <province>Bukidnon</province>
+      <province>Camiguin</province>
+      <province>Lanao del Norte</province>
+      <province>Misamis Occidental</province>
+      <province>Misamis Oriental</province>
+    </provinces>
+  </Northern-Midnanao>
+  <Davao-Region>
+    <designation>Region XI</designation>
+    <provinces type="array">
+      <province>Compostela Valley</province>
+      <province>Davao del Norte</province>
+      <province>Davao del Sur</province>
+      <province>Davao Oriental</province>
+    </provinces>
+  </Davao-Region>
+  <SOCCSKSARGEN>
+    <designation>Region XIII</designation>
+    <provinces type="array">
+      <province>Cotabato</province>
+      <province>Sarangani</province>
+      <province>South Cotabato</province>
+      <province>Sultan Kudarat</province>
+    </provinces>
+  </SOCCSKSARGEN>
+  <Caraga-Region>
+    <designation>Region XIII</designation>
+    <provinces type="array">
+      <province>Agusan del Norte</province>
+      <province>Agusan del Sur</province>
+      <province>Dinagat Islands</province>
+      <province>Surigao del Norte</province>
+      <province>Surigao del Sur</province>
+    </provinces>
+  </Caraga-Region>
+  <Autonomous-Region-in-Muslim-Mindanao>
+    <designation>ARMM</designation>
+    <provinces type="array">
+      <province>Basilan</province>
+      <province>Lanao del Sur</province>
+      <province>Maguindanao</province>
+      <province>Sulu</province>
+      <province>Tawi-Tawi</province>
+    </provinces>
+  </Autonomous-Region-in-Muslim-Mindanao>
+</hash>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Camiguin</name>
+  <cities type="array"/>
+  <municipalities type="array">
+    <municipality>Catarman</municipality>
+    <municipality>Guinsiliban</municipality>
+    <municipality>Mahinog</municipality>
+    <municipality>Mambajao</municipality>
+    <municipality>Sagay</municipality>
+  </municipalities>
+</hash>

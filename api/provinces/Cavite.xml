@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Cavite</name>
+  <cities type="array">
+    <city>Bacoor City</city>
+    <city>Cavite City</city>
+    <city>Dasmariñas City</city>
+    <city>Imus City</city>
+    <city>Tagaytay City</city>
+    <city>Trece Martires City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Alfonso</municipality>
+    <municipality>Amadeo</municipality>
+    <municipality>Carmona</municipality>
+    <municipality>General Mariano Alvarez</municipality>
+    <municipality>General Emilio Aguinaldo</municipality>
+    <municipality>General Trias</municipality>
+    <municipality>Indang</municipality>
+    <municipality>Kawit</municipality>
+    <municipality>Magallanes</municipality>
+    <municipality>Maragondon</municipality>
+    <municipality>Mendez</municipality>
+    <municipality>Naic</municipality>
+    <municipality>Noveleta</municipality>
+    <municipality>Rosario</municipality>
+    <municipality>Silang</municipality>
+    <municipality>Tanza</municipality>
+    <municipality>Ternate</municipality>
+  </municipalities>
+</hash>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Occidental Mindoro</name>
+  <cities type="array"/>
+  <municipalities type="array">
+    <municipality>Abra de Ilog</municipality>
+    <municipality>Calintaan</municipality>
+    <municipality>Looc</municipality>
+    <municipality>Lubang</municipality>
+    <municipality>Magsaysay</municipality>
+    <municipality>Mamburao</municipality>
+    <municipality>Paluan</municipality>
+    <municipality>Rizal</municipality>
+    <municipality>Sablayan</municipality>
+    <municipality>San Jose</municipality>
+    <municipality>Santa Cruz</municipality>
+  </municipalities>
+</hash>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Ifugao</name>
+  <cities type="array"/>
+  <municipalities type="array">
+    <municipality>Aguinaldo</municipality>
+    <municipality>Alfonso Lista</municipality>
+    <municipality>Asipulo</municipality>
+    <municipality>Banaue</municipality>
+    <municipality>Hingyon</municipality>
+    <municipality>Hungduan</municipality>
+    <municipality>Kiangan</municipality>
+    <municipality>Lagawe</municipality>
+    <municipality>Lamut</municipality>
+    <municipality>Mayoyao</municipality>
+    <municipality>Tinoc</municipality>
+  </municipalities>
+</hash>

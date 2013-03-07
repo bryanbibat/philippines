@@ -1,0 +1,2104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <Abra>
+    <cities type="array"/>
+    <municipalities type="array">
+      <municipality>Bangued</municipality>
+      <municipality>Boliney</municipality>
+      <municipality>Bucay</municipality>
+      <municipality>Bucloc</municipality>
+      <municipality>Daguioman</municipality>
+      <municipality>Danglas</municipality>
+      <municipality>Dolores</municipality>
+      <municipality>La Paz</municipality>
+      <municipality>Lacub</municipality>
+      <municipality>Lagangilang</municipality>
+      <municipality>Lagayan</municipality>
+      <municipality>Langiden</municipality>
+      <municipality>Licuan-Baay</municipality>
+      <municipality>Luba</municipality>
+      <municipality>Malibcong</municipality>
+      <municipality>Manabo</municipality>
+      <municipality>Peñarrubia</municipality>
+      <municipality>Pidigan</municipality>
+      <municipality>Pilar</municipality>
+      <municipality>Sallapadan</municipality>
+      <municipality>San Isidro</municipality>
+      <municipality>San Juan</municipality>
+      <municipality>San Quintin</municipality>
+      <municipality>Tayum</municipality>
+      <municipality>Tineg</municipality>
+      <municipality>Tubo</municipality>
+      <municipality>Villaviciosa</municipality>
+    </municipalities>
+  </Abra>
+  <Agusan-del-Norte>
+    <cities type="array">
+      <city>Butuan City</city>
+      <city>Cabadbaran City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Buenavista</municipality>
+      <municipality>Carmen</municipality>
+      <municipality>Jabonga</municipality>
+      <municipality>Kitcharao</municipality>
+      <municipality>Las Nieves</municipality>
+      <municipality>Magallanes</municipality>
+      <municipality>Nasipit</municipality>
+      <municipality>Remedios T. Romualdez</municipality>
+      <municipality>Santiago</municipality>
+      <municipality>Tubay</municipality>
+    </municipalities>
+  </Agusan-del-Norte>
+  <Agusan-del-Sur>
+    <cities type="array">
+      <city>Bayugan City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Bunawan</municipality>
+      <municipality>Esperanza</municipality>
+      <municipality>La Paz</municipality>
+      <municipality>Loreto</municipality>
+      <municipality>Prosperidad</municipality>
+      <municipality>Rosario</municipality>
+      <municipality>San Francisco</municipality>
+      <municipality>San Luis</municipality>
+      <municipality>Santa Josefa</municipality>
+      <municipality>Sibagat</municipality>
+      <municipality>Talacogon</municipality>
+      <municipality>Trento</municipality>
+      <municipality>Veruela</municipality>
+    </municipalities>
+  </Agusan-del-Sur>
+  <Aklan>
+    <cities type="array"/>
+    <municipalities type="array">
+      <municipality>Altavas</municipality>
+      <municipality>Balete</municipality>
+      <municipality>Banga</municipality>
+      <municipality>Batan</municipality>
+      <municipality>Buruanga</municipality>
+      <municipality>Ibajay</municipality>
+      <municipality>Kalibo</municipality>
+      <municipality>Lezo</municipality>
+      <municipality>Libacao</municipality>
+      <municipality>Madalag</municipality>
+      <municipality>Makato</municipality>
+      <municipality>Malay</municipality>
+      <municipality>Malinao</municipality>
+      <municipality>Nabas</municipality>
+      <municipality>New Washington</municipality>
+      <municipality>Numancia</municipality>
+      <municipality>Tangalan</municipality>
+    </municipalities>
+  </Aklan>
+  <Albay>
+    <cities type="array">
+      <city>Legazpi City</city>
+      <city>Ligao City</city>
+      <city>Tabaco City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Bacacay</municipality>
+      <municipality>Camalig</municipality>
+      <municipality>Daraga</municipality>
+      <municipality>Guinobatan</municipality>
+      <municipality>Jovellar</municipality>
+      <municipality>Libon</municipality>
+      <municipality>Malilipot</municipality>
+      <municipality>Malinao</municipality>
+      <municipality>Manito</municipality>
+      <municipality>Oas</municipality>
+      <municipality>Pio Duran</municipality>
+      <municipality>Polangui</municipality>
+      <municipality>Rapu-Rapu</municipality>
+      <municipality>Santo Domingo</municipality>
+      <municipality>Tiwi</municipality>
+    </municipalities>
+  </Albay>
+  <Antique>
+    <cities type="array"/>
+    <municipalities type="array">
+      <municipality>Anini-y</municipality>
+      <municipality>Barbaza</municipality>
+      <municipality>Belison</municipality>
+      <municipality>Bugasong</municipality>
+      <municipality>Caluya</municipality>
+      <municipality>Culasi</municipality>
+      <municipality>Hamtic</municipality>
+      <municipality>Laua-an</municipality>
+      <municipality>Libertad</municipality>
+      <municipality>Pandan</municipality>
+      <municipality>Patnongon</municipality>
+      <municipality>San Jose</municipality>
+      <municipality>San Remigio</municipality>
+      <municipality>Sebaste</municipality>
+      <municipality>Sibalom</municipality>
+      <municipality>Tibiao</municipality>
+      <municipality>Tobias Fornier</municipality>
+      <municipality>Valderrama</municipality>
+    </municipalities>
+  </Antique>
+  <Apayao>
+    <cities type="array"/>
+    <municipalities type="array">
+      <municipality>Calanasan</municipality>
+      <municipality>Conner</municipality>
+      <municipality>Flora</municipality>
+      <municipality>Kabugao</municipality>
+      <municipality>Luna</municipality>
+      <municipality>Pudtol</municipality>
+      <municipality>Santa Marcela</municipality>
+    </municipalities>
+  </Apayao>
+  <Aurora>
+    <cities type="array"/>
+    <municipalities type="array">
+      <municipality>Baler</municipality>
+      <municipality>Casiguran</municipality>
+      <municipality>Dilasag</municipality>
+      <municipality>Dinalungan</municipality>
+      <municipality>Dingalan</municipality>
+      <municipality>Dipaculao</municipality>
+      <municipality>Maria Aurora</municipality>
+      <municipality>San Luis</municipality>
+    </municipalities>
+  </Aurora>
+  <Basilan>
+    <cities type="array">
+      <city>Isabela City</city>
+      <city>Lamitan City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Akbar</municipality>
+      <municipality>Al-Barka</municipality>
+      <municipality>Hadji Mohammad Ajul</municipality>
+      <municipality>Hadji Muhtamad</municipality>
+      <municipality>Lantawan</municipality>
+      <municipality>Maluso</municipality>
+      <municipality>Sumisip</municipality>
+      <municipality>Tabuan-Lasa</municipality>
+      <municipality>Tipo-Tipo</municipality>
+      <municipality>Tuburan</municipality>
+      <municipality>Ungkaya Pukan</municipality>
+    </municipalities>
+  </Basilan>
+  <Bataan>
+    <cities type="array">
+      <city>Balanga City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Abucay</municipality>
+      <municipality>Bagac</municipality>
+      <municipality>Dinalupihan</municipality>
+      <municipality>Hermosa</municipality>
+      <municipality>Limay</municipality>
+      <municipality>Mariveles</municipality>
+      <municipality>Morong</municipality>
+      <municipality>Orani</municipality>
+      <municipality>Orion</municipality>
+      <municipality>Pilar</municipality>
+      <municipality>Samal</municipality>
+    </municipalities>
+  </Bataan>
+  <Batanes>
+    <cities type="array"/>
+    <municipalities type="array">
+      <municipality>Basco</municipality>
+      <municipality>Itbayat</municipality>
+      <municipality>Ivana</municipality>
+      <municipality>Mahatao</municipality>
+      <municipality>Sabtang</municipality>
+      <municipality>Uyugan</municipality>
+    </municipalities>
+  </Batanes>
+  <Batangas>
+    <cities type="array">
+      <city>Batangas City</city>
+      <city>Lipa City</city>
+      <city>Tanauan City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Agoncillo</municipality>
+      <municipality>Alitagtag</municipality>
+      <municipality>Balayan</municipality>
+      <municipality>Balete</municipality>
+      <municipality>Bauan</municipality>
+      <municipality>Calaca</municipality>
+      <municipality>Calatagan</municipality>
+      <municipality>Cuenca</municipality>
+      <municipality>Ibaan</municipality>
+      <municipality>Laurel</municipality>
+      <municipality>Lemery</municipality>
+      <municipality>Lian</municipality>
+      <municipality>Lobo</municipality>
+      <municipality>Mabini</municipality>
+      <municipality>Malvar</municipality>
+      <municipality>Mataas na Kahoy</municipality>
+      <municipality>Nasugbu</municipality>
+      <municipality>Padre Garcia</municipality>
+      <municipality>Rosario</municipality>
+      <municipality>San Jose</municipality>
+      <municipality>San Juan</municipality>
+      <municipality>San Luis</municipality>
+      <municipality>San Nicolas</municipality>
+      <municipality>San Pascual</municipality>
+      <municipality>Santa Teresita</municipality>
+      <municipality>Santo Tomas</municipality>
+      <municipality>Taal</municipality>
+      <municipality>Talisay</municipality>
+      <municipality>Taysan</municipality>
+      <municipality>Tingloy</municipality>
+      <municipality>Tuy</municipality>
+    </municipalities>
+  </Batangas>
+  <Benguet>
+    <cities type="array">
+      <city>Baguio City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Atok</municipality>
+      <municipality>Bakun</municipality>
+      <municipality>Bokod</municipality>
+      <municipality>Buguias</municipality>
+      <municipality>Itogon</municipality>
+      <municipality>Kabayan</municipality>
+      <municipality>Kapangan</municipality>
+      <municipality>Kibungan</municipality>
+      <municipality>La Trinidad</municipality>
+      <municipality>Mankayan</municipality>
+      <municipality>Sablan</municipality>
+      <municipality>Tuba</municipality>
+      <municipality>Tublay</municipality>
+    </municipalities>
+  </Benguet>
+  <Biliran>
+    <cities type="array"/>
+    <municipalities type="array">
+      <municipality>Almeria</municipality>
+      <municipality>Biliran</municipality>
+      <municipality>Cabucgayan</municipality>
+      <municipality>Caibiran</municipality>
+      <municipality>Culaba</municipality>
+      <municipality>Kawayan</municipality>
+      <municipality>Maripipi</municipality>
+      <municipality>Naval</municipality>
+    </municipalities>
+  </Biliran>
+  <Bohol>
+    <cities type="array">
+      <city>Tagbilaran City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Alburquerque</municipality>
+      <municipality>Alicia</municipality>
+      <municipality>Anda</municipality>
+      <municipality>Antequera</municipality>
+      <municipality>Baclayon</municipality>
+      <municipality>Balilihan</municipality>
+      <municipality>Batuan</municipality>
+      <municipality>Bien Unido</municipality>
+      <municipality>Bilar</municipality>
+      <municipality>Buenavista</municipality>
+      <municipality>Calape</municipality>
+      <municipality>Candijay</municipality>
+      <municipality>Carmen</municipality>
+      <municipality>Catigbian</municipality>
+      <municipality>Clarin</municipality>
+      <municipality>Corella</municipality>
+      <municipality>Cortes</municipality>
+      <municipality>Dagohoy</municipality>
+      <municipality>Danao</municipality>
+      <municipality>Dauis</municipality>
+      <municipality>Dimiao</municipality>
+      <municipality>Duero</municipality>
+      <municipality>Garcia Hernandez</municipality>
+      <municipality>Getafe</municipality>
+      <municipality>Guindulman</municipality>
+      <municipality>Inabanga</municipality>
+      <municipality>Jagna</municipality>
+      <municipality>Lila</municipality>
+      <municipality>Loay</municipality>
+      <municipality>Loboc</municipality>
+      <municipality>Loon</municipality>
+      <municipality>Mabini</municipality>
+      <municipality>Maribojoc</municipality>
+      <municipality>Panglao</municipality>
+      <municipality>Pilar</municipality>
+      <municipality>President Carlos P. Garcia</municipality>
+      <municipality>Sagbayan</municipality>
+      <municipality>San Isidro</municipality>
+      <municipality>San Miguel</municipality>
+      <municipality>Sevilla</municipality>
+      <municipality>Sierra Bullones</municipality>
+      <municipality>Sikatuna</municipality>
+      <municipality>Talibon</municipality>
+      <municipality>Trinidad</municipality>
+      <municipality>Tubigon</municipality>
+      <municipality>Ubay</municipality>
+      <municipality>Valencia</municipality>
+    </municipalities>
+  </Bohol>
+  <Bukidnon>
+    <cities type="array">
+      <city>Malaybalay City</city>
+      <city>Valencia City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Baungon</municipality>
+      <municipality>Cabanglasan</municipality>
+      <municipality>Damulog</municipality>
+      <municipality>Dangcagan</municipality>
+      <municipality>Don Carlos</municipality>
+      <municipality>Impasug-ong</municipality>
+      <municipality>Kadingilan</municipality>
+      <municipality>Kalilangan</municipality>
+      <municipality>Kibawe</municipality>
+      <municipality>Kitaotao</municipality>
+      <municipality>Lantapan</municipality>
+      <municipality>Libona</municipality>
+      <municipality>Malitbog</municipality>
+      <municipality>Manolo Fortich</municipality>
+      <municipality>Maramag</municipality>
+      <municipality>Pangantucan</municipality>
+      <municipality>Quezon</municipality>
+      <municipality>San Fernando</municipality>
+      <municipality>Sumilao</municipality>
+      <municipality>Talakag</municipality>
+    </municipalities>
+  </Bukidnon>
+  <Bulacan>
+    <cities type="array">
+      <city>Malolos City</city>
+      <city>Meycauayan City</city>
+      <city>San Jose del Monte City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Angat</municipality>
+      <municipality>Balagtas</municipality>
+      <municipality>Baliuag</municipality>
+      <municipality>Bocaue</municipality>
+      <municipality>Bulacan</municipality>
+      <municipality>Bustos</municipality>
+      <municipality>Calumpit</municipality>
+      <municipality>Doña Remedios Trinidad</municipality>
+      <municipality>Guiguinto</municipality>
+      <municipality>Hagonoy</municipality>
+      <municipality>Marilao</municipality>
+      <municipality>Norzagaray</municipality>
+      <municipality>Obando</municipality>
+      <municipality>Pandi</municipality>
+      <municipality>Paombong</municipality>
+      <municipality>Plaridel</municipality>
+      <municipality>Pulilan</municipality>
+      <municipality>San Ildefonso</municipality>
+      <municipality>San Miguel</municipality>
+      <municipality>San Rafael</municipality>
+      <municipality>Santa Maria</municipality>
+    </municipalities>
+  </Bulacan>
+  <Cagayan>
+    <cities type="array">
+      <city>Tugegarao City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Abulug</municipality>
+      <municipality>Alcala</municipality>
+      <municipality>Allacapan</municipality>
+      <municipality>Amulung</municipality>
+      <municipality>Aparri</municipality>
+      <municipality>Baggao</municipality>
+      <municipality>Ballesteros</municipality>
+      <municipality>Buguey</municipality>
+      <municipality>Calayan</municipality>
+      <municipality>Camalaniugan</municipality>
+      <municipality>Claveria</municipality>
+      <municipality>Enrile</municipality>
+      <municipality>Gattaran</municipality>
+      <municipality>Gonzaga</municipality>
+      <municipality>Iguig</municipality>
+      <municipality>Lal-lo</municipality>
+      <municipality>Lasam</municipality>
+      <municipality>Pamplona</municipality>
+      <municipality>Peñablanca</municipality>
+      <municipality>Piat</municipality>
+      <municipality>Rizal</municipality>
+      <municipality>Sanchez-Mira</municipality>
+      <municipality>Santa Ana</municipality>
+      <municipality>Santa Praxedes</municipality>
+      <municipality>Santa Teresita</municipality>
+      <municipality>Santo Niño</municipality>
+      <municipality>Solana</municipality>
+      <municipality>Tuao</municipality>
+    </municipalities>
+  </Cagayan>
+  <Camarines-Norte>
+    <cities type="array"/>
+    <municipalities type="array">
+      <municipality>Basud</municipality>
+      <municipality>Capalonga</municipality>
+      <municipality>Daet</municipality>
+      <municipality>Jose Panganiban</municipality>
+      <municipality>Labo</municipality>
+      <municipality>Mercedes</municipality>
+      <municipality>Paracale</municipality>
+      <municipality>San Lorenzo Ruiz</municipality>
+      <municipality>San Vicente</municipality>
+      <municipality>Santa Elena</municipality>
+      <municipality>Talisay</municipality>
+      <municipality>Vinzons</municipality>
+    </municipalities>
+  </Camarines-Norte>
+  <Camarines-Sur>
+    <cities type="array">
+      <city>Iriga City</city>
+      <city>Naga City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Baao</municipality>
+      <municipality>Balatan</municipality>
+      <municipality>Bato</municipality>
+      <municipality>Bombon</municipality>
+      <municipality>Buhi</municipality>
+      <municipality>Bula</municipality>
+      <municipality>Cabusao</municipality>
+      <municipality>Calabanga</municipality>
+      <municipality>Camaligan</municipality>
+      <municipality>Canaman</municipality>
+      <municipality>Caramoan</municipality>
+      <municipality>Del Gallego</municipality>
+      <municipality>Gainza</municipality>
+      <municipality>Garchitorena</municipality>
+      <municipality>Goa</municipality>
+      <municipality>Lagonoy</municipality>
+      <municipality>Libmanan</municipality>
+      <municipality>Lupi</municipality>
+      <municipality>Magarao</municipality>
+      <municipality>Milaor</municipality>
+      <municipality>Minalabac</municipality>
+      <municipality>Nabua</municipality>
+      <municipality>Ocampo</municipality>
+      <municipality>Pamplona</municipality>
+      <municipality>Pasacao</municipality>
+      <municipality>Pili</municipality>
+      <municipality>Presentacion</municipality>
+      <municipality>Ragay</municipality>
+      <municipality>Sagñay</municipality>
+      <municipality>San Fernando</municipality>
+      <municipality>San Jose</municipality>
+      <municipality>Sipocot</municipality>
+      <municipality>Siruma</municipality>
+      <municipality>Tigaon</municipality>
+      <municipality>Tinambac</municipality>
+    </municipalities>
+  </Camarines-Sur>
+  <Camiguin>
+    <cities type="array"/>
+    <municipalities type="array">
+      <municipality>Catarman</municipality>
+      <municipality>Guinsiliban</municipality>
+      <municipality>Mahinog</municipality>
+      <municipality>Mambajao</municipality>
+      <municipality>Sagay</municipality>
+    </municipalities>
+  </Camiguin>
+  <Capiz>
+    <cities type="array">
+      <city>Roxas City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Cuartero</municipality>
+      <municipality>Dao</municipality>
+      <municipality>Dumalag</municipality>
+      <municipality>Dumarao</municipality>
+      <municipality>Ivisan</municipality>
+      <municipality>Jamindan</municipality>
+      <municipality>Ma-ayon</municipality>
+      <municipality>Mambusao</municipality>
+      <municipality>Panay</municipality>
+      <municipality>Panitan</municipality>
+      <municipality>Pilar</municipality>
+      <municipality>Pontevedra</municipality>
+      <municipality>President Roxas</municipality>
+      <municipality>Sapi-an</municipality>
+      <municipality>Sigma</municipality>
+      <municipality>Tapaz</municipality>
+    </municipalities>
+  </Capiz>
+  <Catanduanes>
+    <cities type="array"/>
+    <municipalities type="array">
+      <municipality>Bagamanoc</municipality>
+      <municipality>Baras</municipality>
+      <municipality>Bato</municipality>
+      <municipality>Caramoran</municipality>
+      <municipality>Gigmoto</municipality>
+      <municipality>Pandan</municipality>
+      <municipality>Panganiban</municipality>
+      <municipality>San Andres</municipality>
+      <municipality>San Miguel</municipality>
+      <municipality>Viga</municipality>
+      <municipality>Virac</municipality>
+    </municipalities>
+  </Catanduanes>
+  <Cavite>
+    <cities type="array">
+      <city>Bacoor City</city>
+      <city>Cavite City</city>
+      <city>Dasmariñas City</city>
+      <city>Imus City</city>
+      <city>Tagaytay City</city>
+      <city>Trece Martires City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Alfonso</municipality>
+      <municipality>Amadeo</municipality>
+      <municipality>Carmona</municipality>
+      <municipality>General Mariano Alvarez</municipality>
+      <municipality>General Emilio Aguinaldo</municipality>
+      <municipality>General Trias</municipality>
+      <municipality>Indang</municipality>
+      <municipality>Kawit</municipality>
+      <municipality>Magallanes</municipality>
+      <municipality>Maragondon</municipality>
+      <municipality>Mendez</municipality>
+      <municipality>Naic</municipality>
+      <municipality>Noveleta</municipality>
+      <municipality>Rosario</municipality>
+      <municipality>Silang</municipality>
+      <municipality>Tanza</municipality>
+      <municipality>Ternate</municipality>
+    </municipalities>
+  </Cavite>
+  <Cebu>
+    <cities type="array">
+      <city>Bogo City</city>
+      <city>Cebu City</city>
+      <city>Carcar City</city>
+      <city>Danao City</city>
+      <city>Lapu-Lapu City</city>
+      <city>Mandaue City</city>
+      <city>Naga City</city>
+      <city>Talisay City</city>
+      <city>Toledo City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Alcantara</municipality>
+      <municipality>Alcoy</municipality>
+      <municipality>Alegria</municipality>
+      <municipality>Aloguinsan</municipality>
+      <municipality>Argao</municipality>
+      <municipality>Asturias</municipality>
+      <municipality>Badian</municipality>
+      <municipality>Balamban</municipality>
+      <municipality>Bantayan</municipality>
+      <municipality>Barili</municipality>
+      <municipality>Boljoon</municipality>
+      <municipality>Borbon</municipality>
+      <municipality>Carmen</municipality>
+      <municipality>Catmon</municipality>
+      <municipality>Compostela</municipality>
+      <municipality>Consolacion</municipality>
+      <municipality>Cordoba</municipality>
+      <municipality>Daanbantayan</municipality>
+      <municipality>Dalaguete</municipality>
+      <municipality>Dumanjug</municipality>
+      <municipality>Ginatilan</municipality>
+      <municipality>Liloan</municipality>
+      <municipality>Madridejos</municipality>
+      <municipality>Malabuyoc</municipality>
+      <municipality>Medellin</municipality>
+      <municipality>Minglanilla</municipality>
+      <municipality>Moalboal</municipality>
+      <municipality>Oslob</municipality>
+      <municipality>Pilar</municipality>
+      <municipality>Pinamungahan</municipality>
+      <municipality>Poro</municipality>
+      <municipality>Ronda</municipality>
+      <municipality>Samboan</municipality>
+      <municipality>San Fernando</municipality>
+      <municipality>San Francisco</municipality>
+      <municipality>San Remigio</municipality>
+      <municipality>Santa Fe</municipality>
+      <municipality>Santander</municipality>
+      <municipality>Sibonga</municipality>
+      <municipality>Sogod</municipality>
+      <municipality>Tabogon</municipality>
+      <municipality>Tabuelan</municipality>
+      <municipality>Tuburan</municipality>
+      <municipality>Tudela</municipality>
+    </municipalities>
+  </Cebu>
+  <Compostela-Valley>
+    <cities type="array"/>
+    <municipalities type="array">
+      <municipality>Compostela</municipality>
+      <municipality>Laak</municipality>
+      <municipality>Mabini</municipality>
+      <municipality>Maco</municipality>
+      <municipality>Maragusan</municipality>
+      <municipality>Mawab</municipality>
+      <municipality>Monkayo</municipality>
+      <municipality>Montevista</municipality>
+      <municipality>Nabunturan</municipality>
+      <municipality>New Bataan</municipality>
+      <municipality>Pantukan</municipality>
+    </municipalities>
+  </Compostela-Valley>
+  <Cotabato>
+    <cities type="array">
+      <city>Kidapawan City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Alamada</municipality>
+      <municipality>Aleosan</municipality>
+      <municipality>Antipas</municipality>
+      <municipality>Arakan</municipality>
+      <municipality>Banisilan</municipality>
+      <municipality>Carmen</municipality>
+      <municipality>Kabacan</municipality>
+      <municipality>Libungan</municipality>
+      <municipality>M'lang</municipality>
+      <municipality>Magpet</municipality>
+      <municipality>Makilala</municipality>
+      <municipality>Matalam</municipality>
+      <municipality>Midsayap</municipality>
+      <municipality>Pigkawayan</municipality>
+      <municipality>Pikit</municipality>
+      <municipality>President Roxas</municipality>
+      <municipality>Tulunan</municipality>
+    </municipalities>
+  </Cotabato>
+  <Davao-del-Norte>
+    <cities type="array">
+      <city>Panabo City</city>
+      <city>Samal City</city>
+      <city>Tagum City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Asuncion</municipality>
+      <municipality>Braulio E. Dujali</municipality>
+      <municipality>Carmen</municipality>
+      <municipality>Kapalong</municipality>
+      <municipality>New Corella</municipality>
+      <municipality>San Isidro</municipality>
+      <municipality>Santo Tomas</municipality>
+      <municipality>Talaingod</municipality>
+    </municipalities>
+  </Davao-del-Norte>
+  <Davao-del-Sur>
+    <cities type="array">
+      <city>Davao City</city>
+      <city>Digos City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Bansalan</municipality>
+      <municipality>Don Marcelino</municipality>
+      <municipality>Hagonoy</municipality>
+      <municipality>Jose Abad Santos</municipality>
+      <municipality>Kiblawan</municipality>
+      <municipality>Magsaysay</municipality>
+      <municipality>Malalag</municipality>
+      <municipality>Malita</municipality>
+      <municipality>Matanao</municipality>
+      <municipality>Padada</municipality>
+      <municipality>Santa Cruz</municipality>
+      <municipality>Santa Maria</municipality>
+      <municipality>Sarangani</municipality>
+      <municipality>Sulop</municipality>
+    </municipalities>
+  </Davao-del-Sur>
+  <Davao-Oriental>
+    <cities type="array">
+      <city>Mati City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Baganga</municipality>
+      <municipality>Banaybanay</municipality>
+      <municipality>Boston</municipality>
+      <municipality>Caraga</municipality>
+      <municipality>Cateel</municipality>
+      <municipality>Governor Generoso</municipality>
+      <municipality>Lupon</municipality>
+      <municipality>Manay</municipality>
+      <municipality>San Isidro</municipality>
+      <municipality>Tarragona</municipality>
+    </municipalities>
+  </Davao-Oriental>
+  <Dinagat-Islands>
+    <cities type="array"/>
+    <municipalities type="array">
+      <municipality>Basilisa (Rizal)</municipality>
+      <municipality>Cagdianao</municipality>
+      <municipality>Dinagat</municipality>
+      <municipality>Libjo (Albor)</municipality>
+      <municipality>Loreto</municipality>
+      <municipality>San Jose</municipality>
+      <municipality>Tubajon</municipality>
+    </municipalities>
+  </Dinagat-Islands>
+  <Eastern-Samar>
+    <cities type="array">
+      <city>Borongan City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Arteche</municipality>
+      <municipality>Balangiga</municipality>
+      <municipality>Balangkayan</municipality>
+      <municipality>Can-avid</municipality>
+      <municipality>Dolores</municipality>
+      <municipality>General MacArthur</municipality>
+      <municipality>Giporlos</municipality>
+      <municipality>Guiuan</municipality>
+      <municipality>Hernani</municipality>
+      <municipality>Jipapad</municipality>
+      <municipality>Lawaan</municipality>
+      <municipality>Llorente</municipality>
+      <municipality>Maslog</municipality>
+      <municipality>Maydolong</municipality>
+      <municipality>Mercedes</municipality>
+      <municipality>Oras</municipality>
+      <municipality>Quinapondan</municipality>
+      <municipality>Salcedo</municipality>
+      <municipality>San Julian</municipality>
+      <municipality>San Policarpo</municipality>
+      <municipality>Sulat</municipality>
+      <municipality>Taft</municipality>
+    </municipalities>
+  </Eastern-Samar>
+  <Guimaras>
+    <cities type="array"/>
+    <municipalities type="array">
+      <municipality>Buenavista</municipality>
+      <municipality>Jordan</municipality>
+      <municipality>Nueva Valencia</municipality>
+      <municipality>San Lorenzo</municipality>
+      <municipality>Sibunag</municipality>
+    </municipalities>
+  </Guimaras>
+  <Ifugao>
+    <cities type="array"/>
+    <municipalities type="array">
+      <municipality>Aguinaldo</municipality>
+      <municipality>Alfonso Lista</municipality>
+      <municipality>Asipulo</municipality>
+      <municipality>Banaue</municipality>
+      <municipality>Hingyon</municipality>
+      <municipality>Hungduan</municipality>
+      <municipality>Kiangan</municipality>
+      <municipality>Lagawe</municipality>
+      <municipality>Lamut</municipality>
+      <municipality>Mayoyao</municipality>
+      <municipality>Tinoc</municipality>
+    </municipalities>
+  </Ifugao>
+  <Ilocos-Norte>
+    <cities type="array">
+      <city>Batac City</city>
+      <city>Laoag City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Adams</municipality>
+      <municipality>Bacarra</municipality>
+      <municipality>Badoc</municipality>
+      <municipality>Bangui</municipality>
+      <municipality>Banna</municipality>
+      <municipality>Burgos</municipality>
+      <municipality>Carasi</municipality>
+      <municipality>Currimao</municipality>
+      <municipality>Dingras</municipality>
+      <municipality>Dumalneg</municipality>
+      <municipality>Marcos</municipality>
+      <municipality>Nueva Era</municipality>
+      <municipality>Pagudpud</municipality>
+      <municipality>Paoay</municipality>
+      <municipality>Pasuquin</municipality>
+      <municipality>Piddig</municipality>
+      <municipality>Pinili</municipality>
+      <municipality>San Nicolas</municipality>
+      <municipality>Sarrat</municipality>
+      <municipality>Solsona</municipality>
+      <municipality>Vintar</municipality>
+    </municipalities>
+  </Ilocos-Norte>
+  <Ilocos-Sur>
+    <cities type="array">
+      <city>Candon City</city>
+      <city>Vigan City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Alilem</municipality>
+      <municipality>Banayoyo</municipality>
+      <municipality>Bantay</municipality>
+      <municipality>Burgos</municipality>
+      <municipality>Cabugao</municipality>
+      <municipality>Caoayan</municipality>
+      <municipality>Cervantes</municipality>
+      <municipality>Galimuyod</municipality>
+      <municipality>Gregorio Del Pilar</municipality>
+      <municipality>Lidlidda</municipality>
+      <municipality>Magsingal</municipality>
+      <municipality>Nagbukel</municipality>
+      <municipality>Narvacan</municipality>
+      <municipality>Quirino</municipality>
+      <municipality>Salcedo</municipality>
+      <municipality>San Emilio</municipality>
+      <municipality>San Esteban</municipality>
+      <municipality>San Ildefonso</municipality>
+      <municipality>San Juan</municipality>
+      <municipality>San Vicente</municipality>
+      <municipality>Santa</municipality>
+      <municipality>Santa Catalina</municipality>
+      <municipality>Santa Cruz</municipality>
+      <municipality>Santa Lucia</municipality>
+      <municipality>Santa Maria</municipality>
+      <municipality>Santiago</municipality>
+      <municipality>Santo Domingo</municipality>
+      <municipality>Sigay</municipality>
+      <municipality>Sinait</municipality>
+      <municipality>Sugpon</municipality>
+      <municipality>Suyo</municipality>
+      <municipality>Tagudin</municipality>
+    </municipalities>
+  </Ilocos-Sur>
+  <Iloilo>
+    <cities type="array">
+      <city>Iloilo City</city>
+      <city>Passi City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Ajuy</municipality>
+      <municipality>Alimodian</municipality>
+      <municipality>Anilao</municipality>
+      <municipality>Badiangan</municipality>
+      <municipality>Balasan</municipality>
+      <municipality>Banate</municipality>
+      <municipality>Barotac Nuevo</municipality>
+      <municipality>Barotac Viejo</municipality>
+      <municipality>Batad</municipality>
+      <municipality>Bingawan</municipality>
+      <municipality>Cabatuan</municipality>
+      <municipality>Calinog</municipality>
+      <municipality>Carles</municipality>
+      <municipality>Concepcion</municipality>
+      <municipality>Dingle</municipality>
+      <municipality>Dueñas</municipality>
+      <municipality>Dumangas</municipality>
+      <municipality>Estancia</municipality>
+      <municipality>Guimbal</municipality>
+      <municipality>Igbaras</municipality>
+      <municipality>Janiuay</municipality>
+      <municipality>Lambunao</municipality>
+      <municipality>Leganes</municipality>
+      <municipality>Lemery</municipality>
+      <municipality>Leon</municipality>
+      <municipality>Maasin</municipality>
+      <municipality>Miagao</municipality>
+      <municipality>Mina</municipality>
+      <municipality>New Lucena</municipality>
+      <municipality>Oton</municipality>
+      <municipality>Pavia</municipality>
+      <municipality>Pototan</municipality>
+      <municipality>San Dionisio</municipality>
+      <municipality>San Enrique</municipality>
+      <municipality>San Joaquin</municipality>
+      <municipality>San Miguel</municipality>
+      <municipality>San Rafael</municipality>
+      <municipality>Santa Barbara</municipality>
+      <municipality>Sara</municipality>
+      <municipality>Tigbauan</municipality>
+      <municipality>Tubungan</municipality>
+      <municipality>Zarraga</municipality>
+    </municipalities>
+  </Iloilo>
+  <Isabela>
+    <cities type="array">
+      <city>Cauayan City</city>
+      <city>Ilagan City</city>
+      <city>Santiago City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Alicia</municipality>
+      <municipality>Angadanan</municipality>
+      <municipality>Aurora</municipality>
+      <municipality>Benito Soliven</municipality>
+      <municipality>Burgos</municipality>
+      <municipality>Cabagan</municipality>
+      <municipality>Cabatuan</municipality>
+      <municipality>Cordon</municipality>
+      <municipality>Delfin Albano</municipality>
+      <municipality>Dinapigue</municipality>
+      <municipality>Divilacan</municipality>
+      <municipality>Echague</municipality>
+      <municipality>Gamu</municipality>
+      <municipality>Jones</municipality>
+      <municipality>Luna</municipality>
+      <municipality>Maconacon</municipality>
+      <municipality>Mallig</municipality>
+      <municipality>Naguilian</municipality>
+      <municipality>Palanan</municipality>
+      <municipality>Quezon</municipality>
+      <municipality>Quirino</municipality>
+      <municipality>Ramon</municipality>
+      <municipality>Reina Mercedes</municipality>
+      <municipality>Roxas</municipality>
+      <municipality>San Agustin</municipality>
+      <municipality>San Guillermo</municipality>
+      <municipality>San Isidro</municipality>
+      <municipality>San Manuel</municipality>
+      <municipality>San Mariano</municipality>
+      <municipality>San Mateo</municipality>
+      <municipality>San Pablo</municipality>
+      <municipality>Santa Maria</municipality>
+      <municipality>Santo Tomas</municipality>
+      <municipality>Tumauini</municipality>
+    </municipalities>
+  </Isabela>
+  <Kalinga>
+    <cities type="array">
+      <city>Tabuk City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Balbalan</municipality>
+      <municipality>Lubuagan</municipality>
+      <municipality>Pasil</municipality>
+      <municipality>Pinukpuk</municipality>
+      <municipality>Rizal</municipality>
+      <municipality>Tanudan</municipality>
+      <municipality>Tinglayan</municipality>
+    </municipalities>
+  </Kalinga>
+  <La-Union>
+    <cities type="array">
+      <city>San Fernando City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Agoo</municipality>
+      <municipality>Aringay</municipality>
+      <municipality>Bacnotan</municipality>
+      <municipality>Bagulin</municipality>
+      <municipality>Balaoan</municipality>
+      <municipality>Bangar</municipality>
+      <municipality>Bauang</municipality>
+      <municipality>Burgos</municipality>
+      <municipality>Caba</municipality>
+      <municipality>Luna</municipality>
+      <municipality>Naguilian</municipality>
+      <municipality>Pugo</municipality>
+      <municipality>Rosario</municipality>
+      <municipality>San Gabriel</municipality>
+      <municipality>San Juan</municipality>
+      <municipality>Santo Tomas</municipality>
+      <municipality>Santol</municipality>
+      <municipality>Sudipen</municipality>
+      <municipality>Tubao</municipality>
+    </municipalities>
+  </La-Union>
+  <Laguna>
+    <cities type="array">
+      <city>Biñan City</city>
+      <city>Cabuyao City</city>
+      <city>Calamba City</city>
+      <city>San Pablo City</city>
+      <city>Santa Rosa City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Alaminos</municipality>
+      <municipality>Bay</municipality>
+      <municipality>Calauan</municipality>
+      <municipality>Cavinti</municipality>
+      <municipality>Famy</municipality>
+      <municipality>Kalayaan</municipality>
+      <municipality>Liliw</municipality>
+      <municipality>Luisiana</municipality>
+      <municipality>Los Baños</municipality>
+      <municipality>Lumban</municipality>
+      <municipality>Mabitac</municipality>
+      <municipality>Magdalena</municipality>
+      <municipality>Majayjay</municipality>
+      <municipality>Nagcarlan</municipality>
+      <municipality>Paete</municipality>
+      <municipality>Pagsanjan</municipality>
+      <municipality>Pakil</municipality>
+      <municipality>Pangil</municipality>
+      <municipality>Pila</municipality>
+      <municipality>Rizal</municipality>
+      <municipality>San Pedro</municipality>
+      <municipality>Santa Cruz</municipality>
+      <municipality>Santa Maria</municipality>
+      <municipality>Siniloan</municipality>
+      <municipality>Victoria</municipality>
+    </municipalities>
+  </Laguna>
+  <Lanao-del-Norte>
+    <cities type="array">
+      <city>Iligan City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Bacolod</municipality>
+      <municipality>Baloi</municipality>
+      <municipality>Baroy</municipality>
+      <municipality>Kapatagan</municipality>
+      <municipality>Kauswagan</municipality>
+      <municipality>Kolambugan</municipality>
+      <municipality>Lala</municipality>
+      <municipality>Linamon</municipality>
+      <municipality>Magsaysay</municipality>
+      <municipality>Maigo</municipality>
+      <municipality>Matungao</municipality>
+      <municipality>Munai</municipality>
+      <municipality>Nunungan</municipality>
+      <municipality>Pantao Ragat</municipality>
+      <municipality>Pantar</municipality>
+      <municipality>Poona Piagapo</municipality>
+      <municipality>Salvador</municipality>
+      <municipality>Sapad</municipality>
+      <municipality>Sultan Naga Dimaporo</municipality>
+      <municipality>Tagoloan</municipality>
+      <municipality>Tangcal</municipality>
+      <municipality>Tubod</municipality>
+    </municipalities>
+  </Lanao-del-Norte>
+  <Lanao-del-Sur>
+    <cities type="array">
+      <city>Marawi City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Bacolod-Kalawi</municipality>
+      <municipality>Balabagan</municipality>
+      <municipality>Balindong</municipality>
+      <municipality>Bayang</municipality>
+      <municipality>Binidayan</municipality>
+      <municipality>Buadiposo-Buntong</municipality>
+      <municipality>Bubong</municipality>
+      <municipality>Bumbaran</municipality>
+      <municipality>Butig</municipality>
+      <municipality>Calanogas</municipality>
+      <municipality>Ditsaan-Ramain</municipality>
+      <municipality>Ganassi</municipality>
+      <municipality>Kapai</municipality>
+      <municipality>Kapatagan</municipality>
+      <municipality>Lumba-Bayabao</municipality>
+      <municipality>Lumbaca-Unayan</municipality>
+      <municipality>Lumbatan</municipality>
+      <municipality>Lumbayanague</municipality>
+      <municipality>Madalum</municipality>
+      <municipality>Madamba</municipality>
+      <municipality>Maguing</municipality>
+      <municipality>Malabang</municipality>
+      <municipality>Marantao</municipality>
+      <municipality>Marogong</municipality>
+      <municipality>Masiu</municipality>
+      <municipality>Mulondo</municipality>
+      <municipality>Pagayawan</municipality>
+      <municipality>Piagapo</municipality>
+      <municipality>Poona Bayabao</municipality>
+      <municipality>Pualas</municipality>
+      <municipality>Saguiaran</municipality>
+      <municipality>Sultan Dumalondong</municipality>
+      <municipality>Picong</municipality>
+      <municipality>Tagoloan II</municipality>
+      <municipality>Tamparan</municipality>
+      <municipality>Taraka</municipality>
+      <municipality>Tubaran</municipality>
+      <municipality>Tugaya</municipality>
+      <municipality>Wao</municipality>
+    </municipalities>
+  </Lanao-del-Sur>
+  <Leyte>
+    <cities type="array">
+      <city>Baybay City</city>
+      <city>Ormoc City</city>
+      <city>Tacloban City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Abuyog</municipality>
+      <municipality>Alangalang</municipality>
+      <municipality>Albuera</municipality>
+      <municipality>Babatngon</municipality>
+      <municipality>Barugo</municipality>
+      <municipality>Bato</municipality>
+      <municipality>Burauen</municipality>
+      <municipality>Calubian</municipality>
+      <municipality>Capoocan</municipality>
+      <municipality>Carigara</municipality>
+      <municipality>Dagami</municipality>
+      <municipality>Dulag</municipality>
+      <municipality>Hilongos</municipality>
+      <municipality>Hindang</municipality>
+      <municipality>Inopacan</municipality>
+      <municipality>Isabel</municipality>
+      <municipality>Jaro</municipality>
+      <municipality>Javier</municipality>
+      <municipality>Julita</municipality>
+      <municipality>Kananga</municipality>
+      <municipality>La Paz</municipality>
+      <municipality>Leyte</municipality>
+      <municipality>MacArthur</municipality>
+      <municipality>Mahaplag</municipality>
+      <municipality>Matag-ob</municipality>
+      <municipality>Matalom</municipality>
+      <municipality>Mayorga</municipality>
+      <municipality>Merida</municipality>
+      <municipality>Palo</municipality>
+      <municipality>Palompon</municipality>
+      <municipality>Pastrana</municipality>
+      <municipality>San Isidro</municipality>
+      <municipality>San Miguel</municipality>
+      <municipality>Santa Fe</municipality>
+      <municipality>Tabango</municipality>
+      <municipality>Tabontabon</municipality>
+      <municipality>Tanauan</municipality>
+      <municipality>Tolosa</municipality>
+      <municipality>Tunga</municipality>
+      <municipality>Villaba</municipality>
+    </municipalities>
+  </Leyte>
+  <Maguindanao>
+    <cities type="array">
+      <city>Cotabato City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Ampatuan</municipality>
+      <municipality>Barira</municipality>
+      <municipality>Buldon</municipality>
+      <municipality>Buluan</municipality>
+      <municipality>Datu Abdullah Sangki</municipality>
+      <municipality>Datu Anggal Midtimbang</municipality>
+      <municipality>Datu Blah T. Sinsuat</municipality>
+      <municipality>Datu Hoffer Ampatuan</municipality>
+      <municipality>Datu Montawal</municipality>
+      <municipality>Datu Odin Sinsuat</municipality>
+      <municipality>Datu Paglas</municipality>
+      <municipality>Datu Piang</municipality>
+      <municipality>Datu Salibo</municipality>
+      <municipality>Datu Saudi-Ampatuan</municipality>
+      <municipality>Datu Unsay</municipality>
+      <municipality>General Salipada K. Pendatun</municipality>
+      <municipality>Guindulungan</municipality>
+      <municipality>Kabuntalan</municipality>
+      <municipality>Mamasapano</municipality>
+      <municipality>Mangudadatu</municipality>
+      <municipality>Matanog</municipality>
+      <municipality>Northern Kabuntalan</municipality>
+      <municipality>Pagalungan</municipality>
+      <municipality>Paglat</municipality>
+      <municipality>Pandag</municipality>
+      <municipality>Parang</municipality>
+      <municipality>Rajah Buayan</municipality>
+      <municipality>Shariff Aguak</municipality>
+      <municipality>Shariff Saydona Mustapha</municipality>
+      <municipality>South Upi</municipality>
+      <municipality>Sultan Kudarat</municipality>
+      <municipality>Sultan Mastura</municipality>
+      <municipality>Sultan sa Barongis</municipality>
+      <municipality>Talayan</municipality>
+      <municipality>Talitay</municipality>
+      <municipality>Upi</municipality>
+    </municipalities>
+  </Maguindanao>
+  <Marinduque>
+    <cities type="array"/>
+    <municipalities type="array">
+      <municipality>Boac</municipality>
+      <municipality>Buenavista</municipality>
+      <municipality>Gasan</municipality>
+      <municipality>Mogpog</municipality>
+      <municipality>Santa Cruz</municipality>
+      <municipality>Torrijos</municipality>
+    </municipalities>
+  </Marinduque>
+  <Masbate>
+    <cities type="array">
+      <city>Masbate City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Aroroy</municipality>
+      <municipality>Baleno</municipality>
+      <municipality>Balud</municipality>
+      <municipality>Batuan</municipality>
+      <municipality>Cataingan</municipality>
+      <municipality>Cawayan</municipality>
+      <municipality>Claveria</municipality>
+      <municipality>Dimasalang</municipality>
+      <municipality>Esperanza</municipality>
+      <municipality>Mandaon</municipality>
+      <municipality>Milagros</municipality>
+      <municipality>Mobo</municipality>
+      <municipality>Monreal</municipality>
+      <municipality>Palanas</municipality>
+      <municipality>Pio V. Corpuz</municipality>
+      <municipality>Placer</municipality>
+      <municipality>San Fernando</municipality>
+      <municipality>San Jacinto</municipality>
+      <municipality>San Pascual</municipality>
+      <municipality>Uson</municipality>
+    </municipalities>
+  </Masbate>
+  <Metro-Manila>
+    <cities type="array">
+      <city>City of Manila</city>
+      <city>Caloocan</city>
+      <city>Las Piñas</city>
+      <city>Makati</city>
+      <city>Malabon</city>
+      <city>Mandaluyong</city>
+      <city>Marikina</city>
+      <city>Muntinlupa</city>
+      <city>Navotas</city>
+      <city>Parañaque</city>
+      <city>Pasay</city>
+      <city>Pasig</city>
+      <city>Quezon City</city>
+      <city>San Juan City</city>
+      <city>Taguig</city>
+      <city>Valenzuela City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Pateros</municipality>
+    </municipalities>
+  </Metro-Manila>
+  <Misamis-Occidental>
+    <cities type="array">
+      <city>Oroquieta City</city>
+      <city>Ozamiz City</city>
+      <city>Tangub City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Aloran</municipality>
+      <municipality>Baliangao</municipality>
+      <municipality>Bonifacio</municipality>
+      <municipality>Calamba</municipality>
+      <municipality>Clarin</municipality>
+      <municipality>Concepcion</municipality>
+      <municipality>Don Victoriano Chiongbian</municipality>
+      <municipality>Jimenez</municipality>
+      <municipality>Lopez Jaena</municipality>
+      <municipality>Panaon</municipality>
+      <municipality>Plaridel</municipality>
+      <municipality>Sapang Dalaga</municipality>
+      <municipality>Sinacaban</municipality>
+      <municipality>Tudela</municipality>
+    </municipalities>
+  </Misamis-Occidental>
+  <Misamis-Oriental>
+    <cities type="array">
+      <city>Cagayan de Oro</city>
+      <city>El Salvador City</city>
+      <city>Gingoog City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Alubijid</municipality>
+      <municipality>Balingasag</municipality>
+      <municipality>Balingoan</municipality>
+      <municipality>Binuangan</municipality>
+      <municipality>Claveria</municipality>
+      <municipality>Gitagum</municipality>
+      <municipality>Initao</municipality>
+      <municipality>Jasaan</municipality>
+      <municipality>Kinoguitan</municipality>
+      <municipality>Lagonglong</municipality>
+      <municipality>Laguindingan</municipality>
+      <municipality>Libertad</municipality>
+      <municipality>Lugait</municipality>
+      <municipality>Magsaysay</municipality>
+      <municipality>Manticao</municipality>
+      <municipality>Medina</municipality>
+      <municipality>Naawan</municipality>
+      <municipality>Opol</municipality>
+      <municipality>Salay</municipality>
+      <municipality>Sugbongcogon</municipality>
+      <municipality>Tagoloan</municipality>
+      <municipality>Talisayan</municipality>
+      <municipality>Villanueva</municipality>
+    </municipalities>
+  </Misamis-Oriental>
+  <Mountain-Province>
+    <cities type="array"/>
+    <municipalities type="array">
+      <municipality>Barlig</municipality>
+      <municipality>Bauko</municipality>
+      <municipality>Besao</municipality>
+      <municipality>Bontoc</municipality>
+      <municipality>Natonin</municipality>
+      <municipality>Paracelis</municipality>
+      <municipality>Sabangan</municipality>
+      <municipality>Sadanga</municipality>
+      <municipality>Sagada</municipality>
+      <municipality>Tadian</municipality>
+    </municipalities>
+  </Mountain-Province>
+  <Negros-Occidental>
+    <cities type="array">
+      <city>Bacolod City</city>
+      <city>Bago City</city>
+      <city>Cadiz City</city>
+      <city>Escalante City</city>
+      <city>Himamaylan City</city>
+      <city>Kabankalan City</city>
+      <city>La Carlota City</city>
+      <city>Sagay City</city>
+      <city>San Carlos City</city>
+      <city>Silay City</city>
+      <city>Sipalay City</city>
+      <city>Talisay City</city>
+      <city>Victorias City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Binalbagan</municipality>
+      <municipality>Calatrava</municipality>
+      <municipality>Candoni</municipality>
+      <municipality>Cauayan</municipality>
+      <municipality>Enrique B. Magalona</municipality>
+      <municipality>Hinigaran</municipality>
+      <municipality>Hinoba-an</municipality>
+      <municipality>Ilog</municipality>
+      <municipality>Isabela</municipality>
+      <municipality>La Castellana</municipality>
+      <municipality>Manapla</municipality>
+      <municipality>Moises Padilla</municipality>
+      <municipality>Murcia</municipality>
+      <municipality>Pontevedra</municipality>
+      <municipality>Pulupandan</municipality>
+      <municipality>Salvador Benedicto</municipality>
+      <municipality>San Enrique</municipality>
+      <municipality>Toboso</municipality>
+      <municipality>Valladolid</municipality>
+    </municipalities>
+  </Negros-Occidental>
+  <Negros-Oriental>
+    <cities type="array">
+      <city>Bais City</city>
+      <city>Bayawan City</city>
+      <city>Canlaon City</city>
+      <city>Guihulngan City</city>
+      <city>Dumaguete City</city>
+      <city>Tanjay City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Amlan</municipality>
+      <municipality>Ayungon</municipality>
+      <municipality>Bacong</municipality>
+      <municipality>Basay</municipality>
+      <municipality>Bindoy</municipality>
+      <municipality>Dauin</municipality>
+      <municipality>Jimalalud</municipality>
+      <municipality>La Libertad</municipality>
+      <municipality>Mabinay</municipality>
+      <municipality>Manjuyod</municipality>
+      <municipality>Pamplona</municipality>
+      <municipality>San Jose</municipality>
+      <municipality>Santa Catalina</municipality>
+      <municipality>Siaton</municipality>
+      <municipality>Sibulan</municipality>
+      <municipality>Tayasan</municipality>
+      <municipality>Valencia</municipality>
+      <municipality>Vallehermoso</municipality>
+      <municipality>Zamboanguita</municipality>
+    </municipalities>
+  </Negros-Oriental>
+  <Northern-Samar>
+    <cities type="array"/>
+    <municipalities type="array">
+      <municipality>Allen</municipality>
+      <municipality>Biri</municipality>
+      <municipality>Bobon</municipality>
+      <municipality>Capul</municipality>
+      <municipality>Catarman</municipality>
+      <municipality>Catubig</municipality>
+      <municipality>Gamay</municipality>
+      <municipality>Laoang</municipality>
+      <municipality>Lapinig</municipality>
+      <municipality>Las Navas</municipality>
+      <municipality>Lavezares</municipality>
+      <municipality>Lope de Vega</municipality>
+      <municipality>Mapanas</municipality>
+      <municipality>Mondragon</municipality>
+      <municipality>Palapag</municipality>
+      <municipality>Pambujan</municipality>
+      <municipality>Rosario</municipality>
+      <municipality>San Antonio</municipality>
+      <municipality>San Isidro</municipality>
+      <municipality>San Jose</municipality>
+      <municipality>San Roque</municipality>
+      <municipality>San Vicente</municipality>
+      <municipality>Silvino Lobos</municipality>
+      <municipality>Victoria</municipality>
+    </municipalities>
+  </Northern-Samar>
+  <Nueva-Ecija>
+    <cities type="array">
+      <city>Cabanatuan City</city>
+      <city>Gapan City</city>
+      <city>Palayan City</city>
+      <city>San Jose City</city>
+      <city>Science City of Muñoz</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Aliaga</municipality>
+      <municipality>Bongabon</municipality>
+      <municipality>Cabiao</municipality>
+      <municipality>Carranglan</municipality>
+      <municipality>Cuyapo</municipality>
+      <municipality>Gabaldon</municipality>
+      <municipality>General Mamerto Natividad</municipality>
+      <municipality>General Tinio</municipality>
+      <municipality>Guimba</municipality>
+      <municipality>Jaen</municipality>
+      <municipality>Laur</municipality>
+      <municipality>Licab</municipality>
+      <municipality>Llanera</municipality>
+      <municipality>Lupao</municipality>
+      <municipality>Nampicuan</municipality>
+      <municipality>Pantabangan</municipality>
+      <municipality>Peñaranda</municipality>
+      <municipality>Quezon</municipality>
+      <municipality>Rizal</municipality>
+      <municipality>San Antonio</municipality>
+      <municipality>San Isidro</municipality>
+      <municipality>San Leonardo</municipality>
+      <municipality>Santa Rosa</municipality>
+      <municipality>Santo Domingo</municipality>
+      <municipality>Talavera</municipality>
+      <municipality>Talugtug</municipality>
+      <municipality>Zaragoza</municipality>
+    </municipalities>
+  </Nueva-Ecija>
+  <Nueva-Vizcaya>
+    <cities type="array"/>
+    <municipalities type="array">
+      <municipality>Alfonso Castaneda</municipality>
+      <municipality>Ambaguio</municipality>
+      <municipality>Aritao</municipality>
+      <municipality>Bagabag</municipality>
+      <municipality>Bambang</municipality>
+      <municipality>Bayombong</municipality>
+      <municipality>Diadi</municipality>
+      <municipality>Dupax del Norte</municipality>
+      <municipality>Dupax del Sur</municipality>
+      <municipality>Kasibu</municipality>
+      <municipality>Kayapa</municipality>
+      <municipality>Quezon</municipality>
+      <municipality>Santa Fe</municipality>
+      <municipality>Solano</municipality>
+      <municipality>Villaverde</municipality>
+    </municipalities>
+  </Nueva-Vizcaya>
+  <Occidental-Mindoro>
+    <cities type="array"/>
+    <municipalities type="array">
+      <municipality>Abra de Ilog</municipality>
+      <municipality>Calintaan</municipality>
+      <municipality>Looc</municipality>
+      <municipality>Lubang</municipality>
+      <municipality>Magsaysay</municipality>
+      <municipality>Mamburao</municipality>
+      <municipality>Paluan</municipality>
+      <municipality>Rizal</municipality>
+      <municipality>Sablayan</municipality>
+      <municipality>San Jose</municipality>
+      <municipality>Santa Cruz</municipality>
+    </municipalities>
+  </Occidental-Mindoro>
+  <Oriental-Mindoro>
+    <cities type="array">
+      <city>Calapan City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Baco</municipality>
+      <municipality>Bansud</municipality>
+      <municipality>Bongabong</municipality>
+      <municipality>Bulalacao</municipality>
+      <municipality>Gloria</municipality>
+      <municipality>Mansalay</municipality>
+      <municipality>Naujan</municipality>
+      <municipality>Pinamalayan</municipality>
+      <municipality>Pola</municipality>
+      <municipality>Puerto Galera</municipality>
+      <municipality>Roxas</municipality>
+      <municipality>San Teodoro</municipality>
+      <municipality>Socorro</municipality>
+      <municipality>Victoria</municipality>
+    </municipalities>
+  </Oriental-Mindoro>
+  <Palawan>
+    <cities type="array">
+      <city>Puerto Princesa City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Aborlan</municipality>
+      <municipality>Agutaya</municipality>
+      <municipality>Araceli</municipality>
+      <municipality>Balabac</municipality>
+      <municipality>Bataraza</municipality>
+      <municipality>Brooke's Point</municipality>
+      <municipality>Busuanga</municipality>
+      <municipality>Cagayancillo</municipality>
+      <municipality>Coron</municipality>
+      <municipality>Culion</municipality>
+      <municipality>Cuyo</municipality>
+      <municipality>Dumaran</municipality>
+      <municipality>El Nido</municipality>
+      <municipality>Kalayaan</municipality>
+      <municipality>Linapacan</municipality>
+      <municipality>Magsaysay</municipality>
+      <municipality>Narra</municipality>
+      <municipality>Quezon</municipality>
+      <municipality>Rizal</municipality>
+      <municipality>Roxas</municipality>
+      <municipality>San Vicente</municipality>
+      <municipality>Sofronio Española</municipality>
+      <municipality>Taytay</municipality>
+    </municipalities>
+  </Palawan>
+  <Pampanga>
+    <cities type="array">
+      <city>Angeles City</city>
+      <city>City of San Fernando</city>
+      <city>Mabalacat City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Apalit</municipality>
+      <municipality>Arayat</municipality>
+      <municipality>Bacolor</municipality>
+      <municipality>Candaba</municipality>
+      <municipality>Floridablanca</municipality>
+      <municipality>Guagua</municipality>
+      <municipality>Lubao</municipality>
+      <municipality>Macabebe</municipality>
+      <municipality>Magalang</municipality>
+      <municipality>Masantol</municipality>
+      <municipality>Mexico</municipality>
+      <municipality>Minalin</municipality>
+      <municipality>Porac</municipality>
+      <municipality>San Luis</municipality>
+      <municipality>San Simon</municipality>
+      <municipality>Santa Ana</municipality>
+      <municipality>Santa Rita</municipality>
+      <municipality>Santo Tomas</municipality>
+      <municipality>Sasmuan</municipality>
+    </municipalities>
+  </Pampanga>
+  <Pangasinan>
+    <cities type="array">
+      <city>Alaminos City</city>
+      <city>Dagupan City</city>
+      <city>San Carlos City</city>
+      <city>Urdaneta City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Agno</municipality>
+      <municipality>Aguilar</municipality>
+      <municipality>Alcala</municipality>
+      <municipality>Anda</municipality>
+      <municipality>Asingan</municipality>
+      <municipality>Balungao</municipality>
+      <municipality>Bani</municipality>
+      <municipality>Basista</municipality>
+      <municipality>Bautista</municipality>
+      <municipality>Bayambang</municipality>
+      <municipality>Binalonan</municipality>
+      <municipality>Binmaley</municipality>
+      <municipality>Bolinao</municipality>
+      <municipality>Bugallon</municipality>
+      <municipality>Burgos</municipality>
+      <municipality>Calasiao</municipality>
+      <municipality>Dasol</municipality>
+      <municipality>Infanta</municipality>
+      <municipality>Labrador</municipality>
+      <municipality>Laoac</municipality>
+      <municipality>Lingayen</municipality>
+      <municipality>Mabini</municipality>
+      <municipality>Malasiqui</municipality>
+      <municipality>Manaoag</municipality>
+      <municipality>Mangaldan</municipality>
+      <municipality>Mangatarem</municipality>
+      <municipality>Mapandan</municipality>
+      <municipality>Natividad</municipality>
+      <municipality>Pozzorubio</municipality>
+      <municipality>Rosales</municipality>
+      <municipality>San Fabian</municipality>
+      <municipality>San Jacinto</municipality>
+      <municipality>San Manuel</municipality>
+      <municipality>San Nicolas</municipality>
+      <municipality>San Quintin</municipality>
+      <municipality>Santa Barbara</municipality>
+      <municipality>Santa Maria</municipality>
+      <municipality>Santo Tomas</municipality>
+      <municipality>Sison</municipality>
+      <municipality>Sual</municipality>
+      <municipality>Tayug</municipality>
+      <municipality>Umingan</municipality>
+      <municipality>Urbiztondo</municipality>
+      <municipality>Villasis</municipality>
+    </municipalities>
+  </Pangasinan>
+  <Quezon>
+    <cities type="array">
+      <city>Lucena City</city>
+      <city>Tayabas City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Agdangan</municipality>
+      <municipality>Alabat</municipality>
+      <municipality>Atimonan</municipality>
+      <municipality>Buenavista</municipality>
+      <municipality>Burdeos</municipality>
+      <municipality>Calauag</municipality>
+      <municipality>Candelaria</municipality>
+      <municipality>Catanauan</municipality>
+      <municipality>Dolores</municipality>
+      <municipality>General Luna</municipality>
+      <municipality>General Nakar</municipality>
+      <municipality>Guinayangan</municipality>
+      <municipality>Gumaca</municipality>
+      <municipality>Infanta</municipality>
+      <municipality>Jomalig</municipality>
+      <municipality>Lopez</municipality>
+      <municipality>Lucban</municipality>
+      <municipality>Macalelon</municipality>
+      <municipality>Mauban</municipality>
+      <municipality>Mulanay</municipality>
+      <municipality>Padre Burgos</municipality>
+      <municipality>Pagbilao</municipality>
+      <municipality>Panukulan</municipality>
+      <municipality>Patnanungan</municipality>
+      <municipality>Perez</municipality>
+      <municipality>Pitogo</municipality>
+      <municipality>Plaridel</municipality>
+      <municipality>Polillo</municipality>
+      <municipality>Quezon</municipality>
+      <municipality>Real</municipality>
+      <municipality>Sampaloc</municipality>
+      <municipality>San Andres</municipality>
+      <municipality>San Antonio</municipality>
+      <municipality>San Francisco</municipality>
+      <municipality>San Narciso</municipality>
+      <municipality>Sariaya</municipality>
+      <municipality>Tagkawayan</municipality>
+      <municipality>Tiaong</municipality>
+      <municipality>Unisan</municipality>
+    </municipalities>
+  </Quezon>
+  <Quirino>
+    <cities type="array"/>
+    <municipalities type="array">
+      <municipality>Aglipay</municipality>
+      <municipality>Cabarroguis</municipality>
+      <municipality>Diffun</municipality>
+      <municipality>Maddela</municipality>
+      <municipality>Nagtipunan</municipality>
+      <municipality>Saguday</municipality>
+    </municipalities>
+  </Quirino>
+  <Rizal>
+    <cities type="array">
+      <city>Antipolo City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Angono</municipality>
+      <municipality>Baras</municipality>
+      <municipality>Binangonan</municipality>
+      <municipality>Cainta</municipality>
+      <municipality>Cardona</municipality>
+      <municipality>Jalajala</municipality>
+      <municipality>Morong</municipality>
+      <municipality>Pililla</municipality>
+      <municipality>Rodriguez</municipality>
+      <municipality>San Mateo</municipality>
+      <municipality>Tanay</municipality>
+      <municipality>Taytay</municipality>
+      <municipality>Teresa</municipality>
+    </municipalities>
+  </Rizal>
+  <Romblon>
+    <cities type="array"/>
+    <municipalities type="array">
+      <municipality>Alcantara</municipality>
+      <municipality>Banton</municipality>
+      <municipality>Cajidiocan</municipality>
+      <municipality>Calatrava</municipality>
+      <municipality>Concepcion</municipality>
+      <municipality>Corcuera</municipality>
+      <municipality>Ferrol</municipality>
+      <municipality>Looc</municipality>
+      <municipality>Magdiwang</municipality>
+      <municipality>Odiongan</municipality>
+      <municipality>Romblon</municipality>
+      <municipality>San Agustin</municipality>
+      <municipality>San Andres</municipality>
+      <municipality>San Fernando</municipality>
+      <municipality>San Jose</municipality>
+      <municipality>Santa Fe</municipality>
+      <municipality>Santa Maria</municipality>
+    </municipalities>
+  </Romblon>
+  <Samar>
+    <cities type="array">
+      <city>Calbayog City</city>
+      <city>Catbalogan City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Almagro</municipality>
+      <municipality>Basey</municipality>
+      <municipality>Calbiga</municipality>
+      <municipality>Daram</municipality>
+      <municipality>Gandara</municipality>
+      <municipality>Hinabangan</municipality>
+      <municipality>Jiabong</municipality>
+      <municipality>Marabut</municipality>
+      <municipality>Matuguinao</municipality>
+      <municipality>Motiong</municipality>
+      <municipality>Pagsanghan</municipality>
+      <municipality>Paranas</municipality>
+      <municipality>Pinabacdao</municipality>
+      <municipality>San Jorge</municipality>
+      <municipality>San Jose De Buan</municipality>
+      <municipality>San Sebastian</municipality>
+      <municipality>Santa Margarita</municipality>
+      <municipality>Santa Rita</municipality>
+      <municipality>Santo Niño</municipality>
+      <municipality>Tagapul-an</municipality>
+      <municipality>Talalora</municipality>
+      <municipality>Tarangnan</municipality>
+      <municipality>Villareal</municipality>
+      <municipality>Zumarraga</municipality>
+    </municipalities>
+  </Samar>
+  <Sarangani>
+    <cities nil="true"/>
+    <municipalities type="array">
+      <municipality>Alabel</municipality>
+      <municipality>Glan</municipality>
+      <municipality>Kiamba</municipality>
+      <municipality>Maasim</municipality>
+      <municipality>Maitum</municipality>
+      <municipality>Malapatan</municipality>
+      <municipality>Malungon</municipality>
+    </municipalities>
+  </Sarangani>
+  <Siquijor>
+    <cities nil="true"/>
+    <municipalities type="array">
+      <municipality>Enrique Villanueva</municipality>
+      <municipality>Larena</municipality>
+      <municipality>Lazi</municipality>
+      <municipality>Maria</municipality>
+      <municipality>San Juan</municipality>
+      <municipality>Siquijor</municipality>
+    </municipalities>
+  </Siquijor>
+  <Sorsogon>
+    <cities type="array">
+      <city>Sorsogon City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Barcelona</municipality>
+      <municipality>Bulan</municipality>
+      <municipality>Bulusan</municipality>
+      <municipality>Casiguran</municipality>
+      <municipality>Castilla</municipality>
+      <municipality>Donsol</municipality>
+      <municipality>Gubat</municipality>
+      <municipality>Irosin</municipality>
+      <municipality>Juban</municipality>
+      <municipality>Magallanes</municipality>
+      <municipality>Matnog</municipality>
+      <municipality>Pilar</municipality>
+      <municipality>Prieto Diaz</municipality>
+      <municipality>Santa Magdalena</municipality>
+    </municipalities>
+  </Sorsogon>
+  <South-Cotabato>
+    <cities type="array">
+      <city>General Santos City</city>
+      <city>Koronadal City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Banga</municipality>
+      <municipality>Lake Sebu</municipality>
+      <municipality>Norala</municipality>
+      <municipality>Polomolok</municipality>
+      <municipality>Santo Niño</municipality>
+      <municipality>Surallah</municipality>
+      <municipality>T'boli</municipality>
+      <municipality>Tampakan</municipality>
+      <municipality>Tantangan</municipality>
+      <municipality>Tupi</municipality>
+    </municipalities>
+  </South-Cotabato>
+  <Southern-Leyte>
+    <cities type="array">
+      <city>Maasin City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Anahawan</municipality>
+      <municipality>Bontoc</municipality>
+      <municipality>Hinunangan</municipality>
+      <municipality>Hinundayan</municipality>
+      <municipality>Libagon</municipality>
+      <municipality>Liloan</municipality>
+      <municipality>Limasawa</municipality>
+      <municipality>Macrohon</municipality>
+      <municipality>Malitbog</municipality>
+      <municipality>Padre Burgos</municipality>
+      <municipality>Pintuyan</municipality>
+      <municipality>Saint Bernard</municipality>
+      <municipality>San Francisco</municipality>
+      <municipality>San Juan</municipality>
+      <municipality>San Ricardo</municipality>
+      <municipality>Silago</municipality>
+      <municipality>Sogod</municipality>
+      <municipality>Tomas Oppus</municipality>
+    </municipalities>
+  </Southern-Leyte>
+  <Sultan-Kudarat>
+    <cities type="array">
+      <city>Tacurong City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Bagumbayan</municipality>
+      <municipality>Columbio</municipality>
+      <municipality>Esperanza</municipality>
+      <municipality>Isulan</municipality>
+      <municipality>Kalamansig</municipality>
+      <municipality>Lambayong</municipality>
+      <municipality>Lebak</municipality>
+      <municipality>Lutayan</municipality>
+      <municipality>Palimbang</municipality>
+      <municipality>President Quirino</municipality>
+      <municipality>Senator Ninoy Aquino</municipality>
+    </municipalities>
+  </Sultan-Kudarat>
+  <Sulu>
+    <cities type="array"/>
+    <municipalities type="array">
+      <municipality>Banguingui</municipality>
+      <municipality>Hadji Panglima Tahil</municipality>
+      <municipality>Indanan</municipality>
+      <municipality>Jolo</municipality>
+      <municipality>Kalingalan Caluang</municipality>
+      <municipality>Lugus</municipality>
+      <municipality>Luuk</municipality>
+      <municipality>Maimbung</municipality>
+      <municipality>Old Panamao</municipality>
+      <municipality>Omar</municipality>
+      <municipality>Pandami</municipality>
+      <municipality>Panglima Estino</municipality>
+      <municipality>Pangutaran</municipality>
+      <municipality>Parang</municipality>
+      <municipality>Pata</municipality>
+      <municipality>Patikul</municipality>
+      <municipality>Siasi</municipality>
+      <municipality>Talipao</municipality>
+      <municipality>Tapul</municipality>
+    </municipalities>
+  </Sulu>
+  <Surigao-del-Norte>
+    <cities type="array">
+      <city>Surigao City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Alegria</municipality>
+      <municipality>Bacuag</municipality>
+      <municipality>Basilisa</municipality>
+      <municipality>Burgos</municipality>
+      <municipality>Cagdianao</municipality>
+      <municipality>Claver</municipality>
+      <municipality>Dapa</municipality>
+      <municipality>Del Carmen</municipality>
+      <municipality>Dinagat</municipality>
+      <municipality>General Luna</municipality>
+      <municipality>Gigaquit</municipality>
+      <municipality>Libjo</municipality>
+      <municipality>Loreto</municipality>
+      <municipality>Mainit</municipality>
+      <municipality>Malimono</municipality>
+      <municipality>Pilar</municipality>
+      <municipality>Placer</municipality>
+      <municipality>San Benito</municipality>
+      <municipality>San Francisco</municipality>
+      <municipality>San Isidro</municipality>
+      <municipality>San Jose</municipality>
+      <municipality>Santa Monica</municipality>
+      <municipality>Sison</municipality>
+      <municipality>Socorro</municipality>
+      <municipality>Tagana-an</municipality>
+      <municipality>Tubajon</municipality>
+      <municipality>Tubod</municipality>
+    </municipalities>
+  </Surigao-del-Norte>
+  <Surigao-del-Sur>
+    <cities type="array">
+      <city>Bislig City</city>
+      <city>Tandag City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Barobo</municipality>
+      <municipality>Bayabas</municipality>
+      <municipality>Cagwait</municipality>
+      <municipality>Cantilan</municipality>
+      <municipality>Carmen</municipality>
+      <municipality>Carrascal</municipality>
+      <municipality>Cortes</municipality>
+      <municipality>Hinatuan</municipality>
+      <municipality>Lanuza</municipality>
+      <municipality>Lianga</municipality>
+      <municipality>Lingig</municipality>
+      <municipality>Madrid</municipality>
+      <municipality>Marihatag</municipality>
+      <municipality>San Agustin</municipality>
+      <municipality>San Miguel</municipality>
+      <municipality>Tagbina</municipality>
+      <municipality>Tago</municipality>
+    </municipalities>
+  </Surigao-del-Sur>
+  <Tarlac>
+    <cities type="array">
+      <city>Tarlac City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Anao</municipality>
+      <municipality>Bamban</municipality>
+      <municipality>Camiling</municipality>
+      <municipality>Capas</municipality>
+      <municipality>Concepcion</municipality>
+      <municipality>Gerona</municipality>
+      <municipality>La Paz</municipality>
+      <municipality>Mayantoc</municipality>
+      <municipality>Moncada</municipality>
+      <municipality>Paniqui</municipality>
+      <municipality>Pura</municipality>
+      <municipality>Ramos</municipality>
+      <municipality>San Clemente</municipality>
+      <municipality>San Jose</municipality>
+      <municipality>San Manuel</municipality>
+      <municipality>Santa Ignacia</municipality>
+      <municipality>Victoria</municipality>
+    </municipalities>
+  </Tarlac>
+  <Tawi-Tawi>
+    <cities type="array"/>
+    <municipalities type="array">
+      <municipality>Bongao</municipality>
+      <municipality>Languyan</municipality>
+      <municipality>Mapun</municipality>
+      <municipality>Panglima Sugala</municipality>
+      <municipality>Sapa-Sapa</municipality>
+      <municipality>Sibutu</municipality>
+      <municipality>Simunul</municipality>
+      <municipality>Sitangkai</municipality>
+      <municipality>South Ubian</municipality>
+      <municipality>Tandubas</municipality>
+      <municipality>Turtle Islands</municipality>
+    </municipalities>
+  </Tawi-Tawi>
+  <Zambales>
+    <cities type="array">
+      <city>Olongapo City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Botolan</municipality>
+      <municipality>Cabangan</municipality>
+      <municipality>Candelaria</municipality>
+      <municipality>Castillejos</municipality>
+      <municipality>Iba</municipality>
+      <municipality>Masinloc</municipality>
+      <municipality>Palauig</municipality>
+      <municipality>San Antonio</municipality>
+      <municipality>San Felipe</municipality>
+      <municipality>San Marcelino</municipality>
+      <municipality>San Narciso</municipality>
+      <municipality>Santa Cruz</municipality>
+      <municipality>Subic</municipality>
+    </municipalities>
+  </Zambales>
+  <Zamboanga-del-Norte>
+    <cities type="array">
+      <city>Dapitan City</city>
+      <city>Dipolog City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Bacungan</municipality>
+      <municipality>Baliguian</municipality>
+      <municipality>Godod</municipality>
+      <municipality>Gutalac</municipality>
+      <municipality>Jose Dalman</municipality>
+      <municipality>Kalawit</municipality>
+      <municipality>Katipunan</municipality>
+      <municipality>La Libertad</municipality>
+      <municipality>Labason</municipality>
+      <municipality>Liloy</municipality>
+      <municipality>Manukan</municipality>
+      <municipality>Mutia</municipality>
+      <municipality>Piñan</municipality>
+      <municipality>Polanco</municipality>
+      <municipality>President Manuel A. Roxas</municipality>
+      <municipality>Rizal</municipality>
+      <municipality>Salug</municipality>
+      <municipality>Sergio Osmeña Sr.</municipality>
+      <municipality>Siayan</municipality>
+      <municipality>Sibuco</municipality>
+      <municipality>Sibutad</municipality>
+      <municipality>Sindangan</municipality>
+      <municipality>Siocon</municipality>
+      <municipality>Sirawai</municipality>
+      <municipality>Tampilisan</municipality>
+    </municipalities>
+  </Zamboanga-del-Norte>
+  <Zamboanga-del-Sur>
+    <cities type="array">
+      <city>Pagadian City</city>
+      <city>Zamboanga City</city>
+    </cities>
+    <municipalities type="array">
+      <municipality>Aurora</municipality>
+      <municipality>Bayog</municipality>
+      <municipality>Dimataling</municipality>
+      <municipality>Dinas</municipality>
+      <municipality>Dumalinao</municipality>
+      <municipality>Dumingag</municipality>
+      <municipality>Guipos</municipality>
+      <municipality>Josefina</municipality>
+      <municipality>Kumalarang</municipality>
+      <municipality>Labangan</municipality>
+      <municipality>Lakewood</municipality>
+      <municipality>Lapuyan</municipality>
+      <municipality>Mahayag</municipality>
+      <municipality>Margosatubig</municipality>
+      <municipality>Midsalip</municipality>
+      <municipality>Molave</municipality>
+      <municipality>Pitogo</municipality>
+      <municipality>Ramon Magsaysay</municipality>
+      <municipality>San Miguel</municipality>
+      <municipality>San Pablo</municipality>
+      <municipality>Sominot</municipality>
+      <municipality>Tabina</municipality>
+      <municipality>Tambulig</municipality>
+      <municipality>Tigbao</municipality>
+      <municipality>Tukuran</municipality>
+      <municipality>Vincenzo A. Sagun</municipality>
+    </municipalities>
+  </Zamboanga-del-Sur>
+  <Zamboanga-Sibugay>
+    <cities type="array"/>
+    <municipalities type="array">
+      <municipality>Alicia</municipality>
+      <municipality>Buug</municipality>
+      <municipality>Diplahan</municipality>
+      <municipality>Imelda</municipality>
+      <municipality>Ipil</municipality>
+      <municipality>Kabasalan</municipality>
+      <municipality>Mabuhay</municipality>
+      <municipality>Malangas</municipality>
+      <municipality>Naga</municipality>
+      <municipality>Olutanga</municipality>
+      <municipality>Payao</municipality>
+      <municipality>Roseller Lim</municipality>
+      <municipality>Siay</municipality>
+      <municipality>Talusan</municipality>
+      <municipality>Titay</municipality>
+      <municipality>Tungawan</municipality>
+    </municipalities>
+  </Zamboanga-Sibugay>
+</hash>

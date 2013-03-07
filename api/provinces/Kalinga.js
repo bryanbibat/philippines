@@ -1,0 +1,1 @@
+{"name":"Kalinga","cities":["Tabuk City"],"municipalities":["Balbalan","Lubuagan","Pasil","Pinukpuk","Rizal","Tanudan","Tinglayan"]}

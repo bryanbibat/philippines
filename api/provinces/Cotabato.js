@@ -1,0 +1,1 @@
+{"name":"Cotabato","cities":["Kidapawan City"],"municipalities":["Alamada","Aleosan","Antipas","Arakan","Banisilan","Carmen","Kabacan","Libungan","M'lang","Magpet","Makilala","Matalam","Midsayap","Pigkawayan","Pikit","President Roxas","Tulunan"]}

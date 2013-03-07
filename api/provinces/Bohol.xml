@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Bohol</name>
+  <cities type="array">
+    <city>Tagbilaran City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Alburquerque</municipality>
+    <municipality>Alicia</municipality>
+    <municipality>Anda</municipality>
+    <municipality>Antequera</municipality>
+    <municipality>Baclayon</municipality>
+    <municipality>Balilihan</municipality>
+    <municipality>Batuan</municipality>
+    <municipality>Bien Unido</municipality>
+    <municipality>Bilar</municipality>
+    <municipality>Buenavista</municipality>
+    <municipality>Calape</municipality>
+    <municipality>Candijay</municipality>
+    <municipality>Carmen</municipality>
+    <municipality>Catigbian</municipality>
+    <municipality>Clarin</municipality>
+    <municipality>Corella</municipality>
+    <municipality>Cortes</municipality>
+    <municipality>Dagohoy</municipality>
+    <municipality>Danao</municipality>
+    <municipality>Dauis</municipality>
+    <municipality>Dimiao</municipality>
+    <municipality>Duero</municipality>
+    <municipality>Garcia Hernandez</municipality>
+    <municipality>Getafe</municipality>
+    <municipality>Guindulman</municipality>
+    <municipality>Inabanga</municipality>
+    <municipality>Jagna</municipality>
+    <municipality>Lila</municipality>
+    <municipality>Loay</municipality>
+    <municipality>Loboc</municipality>
+    <municipality>Loon</municipality>
+    <municipality>Mabini</municipality>
+    <municipality>Maribojoc</municipality>
+    <municipality>Panglao</municipality>
+    <municipality>Pilar</municipality>
+    <municipality>President Carlos P. Garcia</municipality>
+    <municipality>Sagbayan</municipality>
+    <municipality>San Isidro</municipality>
+    <municipality>San Miguel</municipality>
+    <municipality>Sevilla</municipality>
+    <municipality>Sierra Bullones</municipality>
+    <municipality>Sikatuna</municipality>
+    <municipality>Talibon</municipality>
+    <municipality>Trinidad</municipality>
+    <municipality>Tubigon</municipality>
+    <municipality>Ubay</municipality>
+    <municipality>Valencia</municipality>
+  </municipalities>
+</hash>

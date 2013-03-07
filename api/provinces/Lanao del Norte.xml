@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Lanao del Norte</name>
+  <cities type="array">
+    <city>Iligan City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Bacolod</municipality>
+    <municipality>Baloi</municipality>
+    <municipality>Baroy</municipality>
+    <municipality>Kapatagan</municipality>
+    <municipality>Kauswagan</municipality>
+    <municipality>Kolambugan</municipality>
+    <municipality>Lala</municipality>
+    <municipality>Linamon</municipality>
+    <municipality>Magsaysay</municipality>
+    <municipality>Maigo</municipality>
+    <municipality>Matungao</municipality>
+    <municipality>Munai</municipality>
+    <municipality>Nunungan</municipality>
+    <municipality>Pantao Ragat</municipality>
+    <municipality>Pantar</municipality>
+    <municipality>Poona Piagapo</municipality>
+    <municipality>Salvador</municipality>
+    <municipality>Sapad</municipality>
+    <municipality>Sultan Naga Dimaporo</municipality>
+    <municipality>Tagoloan</municipality>
+    <municipality>Tangcal</municipality>
+    <municipality>Tubod</municipality>
+  </municipalities>
+</hash>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Catanduanes</name>
+  <cities type="array"/>
+  <municipalities type="array">
+    <municipality>Bagamanoc</municipality>
+    <municipality>Baras</municipality>
+    <municipality>Bato</municipality>
+    <municipality>Caramoran</municipality>
+    <municipality>Gigmoto</municipality>
+    <municipality>Pandan</municipality>
+    <municipality>Panganiban</municipality>
+    <municipality>San Andres</municipality>
+    <municipality>San Miguel</municipality>
+    <municipality>Viga</municipality>
+    <municipality>Virac</municipality>
+  </municipalities>
+</hash>

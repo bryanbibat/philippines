@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Capiz</name>
+  <cities type="array">
+    <city>Roxas City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Cuartero</municipality>
+    <municipality>Dao</municipality>
+    <municipality>Dumalag</municipality>
+    <municipality>Dumarao</municipality>
+    <municipality>Ivisan</municipality>
+    <municipality>Jamindan</municipality>
+    <municipality>Ma-ayon</municipality>
+    <municipality>Mambusao</municipality>
+    <municipality>Panay</municipality>
+    <municipality>Panitan</municipality>
+    <municipality>Pilar</municipality>
+    <municipality>Pontevedra</municipality>
+    <municipality>President Roxas</municipality>
+    <municipality>Sapi-an</municipality>
+    <municipality>Sigma</municipality>
+    <municipality>Tapaz</municipality>
+  </municipalities>
+</hash>

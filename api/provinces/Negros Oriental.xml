@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Negros Oriental</name>
+  <cities type="array">
+    <city>Bais City</city>
+    <city>Bayawan City</city>
+    <city>Canlaon City</city>
+    <city>Guihulngan City</city>
+    <city>Dumaguete City</city>
+    <city>Tanjay City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Amlan</municipality>
+    <municipality>Ayungon</municipality>
+    <municipality>Bacong</municipality>
+    <municipality>Basay</municipality>
+    <municipality>Bindoy</municipality>
+    <municipality>Dauin</municipality>
+    <municipality>Jimalalud</municipality>
+    <municipality>La Libertad</municipality>
+    <municipality>Mabinay</municipality>
+    <municipality>Manjuyod</municipality>
+    <municipality>Pamplona</municipality>
+    <municipality>San Jose</municipality>
+    <municipality>Santa Catalina</municipality>
+    <municipality>Siaton</municipality>
+    <municipality>Sibulan</municipality>
+    <municipality>Tayasan</municipality>
+    <municipality>Valencia</municipality>
+    <municipality>Vallehermoso</municipality>
+    <municipality>Zamboanguita</municipality>
+  </municipalities>
+</hash>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Davao del Sur</name>
+  <cities type="array">
+    <city>Davao City</city>
+    <city>Digos City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Bansalan</municipality>
+    <municipality>Don Marcelino</municipality>
+    <municipality>Hagonoy</municipality>
+    <municipality>Jose Abad Santos</municipality>
+    <municipality>Kiblawan</municipality>
+    <municipality>Magsaysay</municipality>
+    <municipality>Malalag</municipality>
+    <municipality>Malita</municipality>
+    <municipality>Matanao</municipality>
+    <municipality>Padada</municipality>
+    <municipality>Santa Cruz</municipality>
+    <municipality>Santa Maria</municipality>
+    <municipality>Sarangani</municipality>
+    <municipality>Sulop</municipality>
+  </municipalities>
+</hash>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Albay</name>
+  <cities type="array">
+    <city>Legazpi City</city>
+    <city>Ligao City</city>
+    <city>Tabaco City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Bacacay</municipality>
+    <municipality>Camalig</municipality>
+    <municipality>Daraga</municipality>
+    <municipality>Guinobatan</municipality>
+    <municipality>Jovellar</municipality>
+    <municipality>Libon</municipality>
+    <municipality>Malilipot</municipality>
+    <municipality>Malinao</municipality>
+    <municipality>Manito</municipality>
+    <municipality>Oas</municipality>
+    <municipality>Pio Duran</municipality>
+    <municipality>Polangui</municipality>
+    <municipality>Rapu-Rapu</municipality>
+    <municipality>Santo Domingo</municipality>
+    <municipality>Tiwi</municipality>
+  </municipalities>
+</hash>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Antique</name>
+  <cities type="array"/>
+  <municipalities type="array">
+    <municipality>Anini-y</municipality>
+    <municipality>Barbaza</municipality>
+    <municipality>Belison</municipality>
+    <municipality>Bugasong</municipality>
+    <municipality>Caluya</municipality>
+    <municipality>Culasi</municipality>
+    <municipality>Hamtic</municipality>
+    <municipality>Laua-an</municipality>
+    <municipality>Libertad</municipality>
+    <municipality>Pandan</municipality>
+    <municipality>Patnongon</municipality>
+    <municipality>San Jose</municipality>
+    <municipality>San Remigio</municipality>
+    <municipality>Sebaste</municipality>
+    <municipality>Sibalom</municipality>
+    <municipality>Tibiao</municipality>
+    <municipality>Tobias Fornier</municipality>
+    <municipality>Valderrama</municipality>
+  </municipalities>
+</hash>

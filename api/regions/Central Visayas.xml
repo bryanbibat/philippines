@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Central Visayas</name>
+  <designation>Region VII</designation>
+  <provinces type="array">
+    <province>Bohol</province>
+    <province>Cebu</province>
+    <province>Negros Oriental</province>
+    <province>Siquijor</province>
+  </provinces>
+</hash>

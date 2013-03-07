@@ -1,0 +1,1 @@
+{"name":"Cordillera Administrative Region","designation":"CAR","provinces":["Abra","Apayao","Benguet","Ifugao","Kalinga","Mountain Province"]}

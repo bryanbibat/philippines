@@ -1,0 +1,1 @@
+{"name":"Misamis Oriental","cities":["Cagayan de Oro","El Salvador City","Gingoog City"],"municipalities":["Alubijid","Balingasag","Balingoan","Binuangan","Claveria","Gitagum","Initao","Jasaan","Kinoguitan","Lagonglong","Laguindingan","Libertad","Lugait","Magsaysay","Manticao","Medina","Naawan","Opol","Salay","Sugbongcogon","Tagoloan","Talisayan","Villanueva"]}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Ilocos Sur</name>
+  <cities type="array">
+    <city>Candon City</city>
+    <city>Vigan City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Alilem</municipality>
+    <municipality>Banayoyo</municipality>
+    <municipality>Bantay</municipality>
+    <municipality>Burgos</municipality>
+    <municipality>Cabugao</municipality>
+    <municipality>Caoayan</municipality>
+    <municipality>Cervantes</municipality>
+    <municipality>Galimuyod</municipality>
+    <municipality>Gregorio Del Pilar</municipality>
+    <municipality>Lidlidda</municipality>
+    <municipality>Magsingal</municipality>
+    <municipality>Nagbukel</municipality>
+    <municipality>Narvacan</municipality>
+    <municipality>Quirino</municipality>
+    <municipality>Salcedo</municipality>
+    <municipality>San Emilio</municipality>
+    <municipality>San Esteban</municipality>
+    <municipality>San Ildefonso</municipality>
+    <municipality>San Juan</municipality>
+    <municipality>San Vicente</municipality>
+    <municipality>Santa</municipality>
+    <municipality>Santa Catalina</municipality>
+    <municipality>Santa Cruz</municipality>
+    <municipality>Santa Lucia</municipality>
+    <municipality>Santa Maria</municipality>
+    <municipality>Santiago</municipality>
+    <municipality>Santo Domingo</municipality>
+    <municipality>Sigay</municipality>
+    <municipality>Sinait</municipality>
+    <municipality>Sugpon</municipality>
+    <municipality>Suyo</municipality>
+    <municipality>Tagudin</municipality>
+  </municipalities>
+</hash>

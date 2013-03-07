@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Isabela</name>
+  <cities type="array">
+    <city>Cauayan City</city>
+    <city>Ilagan City</city>
+    <city>Santiago City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Alicia</municipality>
+    <municipality>Angadanan</municipality>
+    <municipality>Aurora</municipality>
+    <municipality>Benito Soliven</municipality>
+    <municipality>Burgos</municipality>
+    <municipality>Cabagan</municipality>
+    <municipality>Cabatuan</municipality>
+    <municipality>Cordon</municipality>
+    <municipality>Delfin Albano</municipality>
+    <municipality>Dinapigue</municipality>
+    <municipality>Divilacan</municipality>
+    <municipality>Echague</municipality>
+    <municipality>Gamu</municipality>
+    <municipality>Jones</municipality>
+    <municipality>Luna</municipality>
+    <municipality>Maconacon</municipality>
+    <municipality>Mallig</municipality>
+    <municipality>Naguilian</municipality>
+    <municipality>Palanan</municipality>
+    <municipality>Quezon</municipality>
+    <municipality>Quirino</municipality>
+    <municipality>Ramon</municipality>
+    <municipality>Reina Mercedes</municipality>
+    <municipality>Roxas</municipality>
+    <municipality>San Agustin</municipality>
+    <municipality>San Guillermo</municipality>
+    <municipality>San Isidro</municipality>
+    <municipality>San Manuel</municipality>
+    <municipality>San Mariano</municipality>
+    <municipality>San Mateo</municipality>
+    <municipality>San Pablo</municipality>
+    <municipality>Santa Maria</municipality>
+    <municipality>Santo Tomas</municipality>
+    <municipality>Tumauini</municipality>
+  </municipalities>
+</hash>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Romblon</name>
+  <cities type="array"/>
+  <municipalities type="array">
+    <municipality>Alcantara</municipality>
+    <municipality>Banton</municipality>
+    <municipality>Cajidiocan</municipality>
+    <municipality>Calatrava</municipality>
+    <municipality>Concepcion</municipality>
+    <municipality>Corcuera</municipality>
+    <municipality>Ferrol</municipality>
+    <municipality>Looc</municipality>
+    <municipality>Magdiwang</municipality>
+    <municipality>Odiongan</municipality>
+    <municipality>Romblon</municipality>
+    <municipality>San Agustin</municipality>
+    <municipality>San Andres</municipality>
+    <municipality>San Fernando</municipality>
+    <municipality>San Jose</municipality>
+    <municipality>Santa Fe</municipality>
+    <municipality>Santa Maria</municipality>
+  </municipalities>
+</hash>

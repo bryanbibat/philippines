@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Cagayan</name>
+  <cities type="array">
+    <city>Tugegarao City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Abulug</municipality>
+    <municipality>Alcala</municipality>
+    <municipality>Allacapan</municipality>
+    <municipality>Amulung</municipality>
+    <municipality>Aparri</municipality>
+    <municipality>Baggao</municipality>
+    <municipality>Ballesteros</municipality>
+    <municipality>Buguey</municipality>
+    <municipality>Calayan</municipality>
+    <municipality>Camalaniugan</municipality>
+    <municipality>Claveria</municipality>
+    <municipality>Enrile</municipality>
+    <municipality>Gattaran</municipality>
+    <municipality>Gonzaga</municipality>
+    <municipality>Iguig</municipality>
+    <municipality>Lal-lo</municipality>
+    <municipality>Lasam</municipality>
+    <municipality>Pamplona</municipality>
+    <municipality>Peñablanca</municipality>
+    <municipality>Piat</municipality>
+    <municipality>Rizal</municipality>
+    <municipality>Sanchez-Mira</municipality>
+    <municipality>Santa Ana</municipality>
+    <municipality>Santa Praxedes</municipality>
+    <municipality>Santa Teresita</municipality>
+    <municipality>Santo Niño</municipality>
+    <municipality>Solana</municipality>
+    <municipality>Tuao</municipality>
+  </municipalities>
+</hash>

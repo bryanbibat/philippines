@@ -1,0 +1,1 @@
+{"name":"Benguet","cities":["Baguio City"],"municipalities":["Atok","Bakun","Bokod","Buguias","Itogon","Kabayan","Kapangan","Kibungan","La Trinidad","Mankayan","Sablan","Tuba","Tublay"]}

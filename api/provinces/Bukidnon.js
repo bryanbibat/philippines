@@ -1,0 +1,1 @@
+{"name":"Bukidnon","cities":["Malaybalay City","Valencia City"],"municipalities":["Baungon","Cabanglasan","Damulog","Dangcagan","Don Carlos","Impasug-ong","Kadingilan","Kalilangan","Kibawe","Kitaotao","Lantapan","Libona","Malitbog","Manolo Fortich","Maramag","Pangantucan","Quezon","San Fernando","Sumilao","Talakag"]}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Benguet</name>
+  <cities type="array">
+    <city>Baguio City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Atok</municipality>
+    <municipality>Bakun</municipality>
+    <municipality>Bokod</municipality>
+    <municipality>Buguias</municipality>
+    <municipality>Itogon</municipality>
+    <municipality>Kabayan</municipality>
+    <municipality>Kapangan</municipality>
+    <municipality>Kibungan</municipality>
+    <municipality>La Trinidad</municipality>
+    <municipality>Mankayan</municipality>
+    <municipality>Sablan</municipality>
+    <municipality>Tuba</municipality>
+    <municipality>Tublay</municipality>
+  </municipalities>
+</hash>

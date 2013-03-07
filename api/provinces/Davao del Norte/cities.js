@@ -1,0 +1,1 @@
+["Panabo City","Samal City","Tagum City"]

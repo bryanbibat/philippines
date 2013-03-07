@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Maguindanao</name>
+  <cities type="array">
+    <city>Cotabato City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Ampatuan</municipality>
+    <municipality>Barira</municipality>
+    <municipality>Buldon</municipality>
+    <municipality>Buluan</municipality>
+    <municipality>Datu Abdullah Sangki</municipality>
+    <municipality>Datu Anggal Midtimbang</municipality>
+    <municipality>Datu Blah T. Sinsuat</municipality>
+    <municipality>Datu Hoffer Ampatuan</municipality>
+    <municipality>Datu Montawal</municipality>
+    <municipality>Datu Odin Sinsuat</municipality>
+    <municipality>Datu Paglas</municipality>
+    <municipality>Datu Piang</municipality>
+    <municipality>Datu Salibo</municipality>
+    <municipality>Datu Saudi-Ampatuan</municipality>
+    <municipality>Datu Unsay</municipality>
+    <municipality>General Salipada K. Pendatun</municipality>
+    <municipality>Guindulungan</municipality>
+    <municipality>Kabuntalan</municipality>
+    <municipality>Mamasapano</municipality>
+    <municipality>Mangudadatu</municipality>
+    <municipality>Matanog</municipality>
+    <municipality>Northern Kabuntalan</municipality>
+    <municipality>Pagalungan</municipality>
+    <municipality>Paglat</municipality>
+    <municipality>Pandag</municipality>
+    <municipality>Parang</municipality>
+    <municipality>Rajah Buayan</municipality>
+    <municipality>Shariff Aguak</municipality>
+    <municipality>Shariff Saydona Mustapha</municipality>
+    <municipality>South Upi</municipality>
+    <municipality>Sultan Kudarat</municipality>
+    <municipality>Sultan Mastura</municipality>
+    <municipality>Sultan sa Barongis</municipality>
+    <municipality>Talayan</municipality>
+    <municipality>Talitay</municipality>
+    <municipality>Upi</municipality>
+  </municipalities>
+</hash>

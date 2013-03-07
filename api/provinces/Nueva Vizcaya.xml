@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Nueva Vizcaya</name>
+  <cities type="array"/>
+  <municipalities type="array">
+    <municipality>Alfonso Castaneda</municipality>
+    <municipality>Ambaguio</municipality>
+    <municipality>Aritao</municipality>
+    <municipality>Bagabag</municipality>
+    <municipality>Bambang</municipality>
+    <municipality>Bayombong</municipality>
+    <municipality>Diadi</municipality>
+    <municipality>Dupax del Norte</municipality>
+    <municipality>Dupax del Sur</municipality>
+    <municipality>Kasibu</municipality>
+    <municipality>Kayapa</municipality>
+    <municipality>Quezon</municipality>
+    <municipality>Santa Fe</municipality>
+    <municipality>Solano</municipality>
+    <municipality>Villaverde</municipality>
+  </municipalities>
+</hash>

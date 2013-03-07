@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Ilocos Region</name>
+  <designation>Region I</designation>
+  <provinces type="array">
+    <province>Ilocos Norte</province>
+    <province>Ilocos Sur</province>
+    <province>La Union</province>
+    <province>Pangasinan</province>
+  </provinces>
+</hash>

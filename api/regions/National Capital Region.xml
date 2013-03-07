@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>National Capital Region</name>
+  <designation>NCR</designation>
+  <provinces type="array">
+    <province>Metro Manila</province>
+  </provinces>
+</hash>

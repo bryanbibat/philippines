@@ -1,0 +1,1 @@
+["Bais City","Bayawan City","Canlaon City","Guihulngan City","Dumaguete City","Tanjay City","Amlan","Ayungon","Bacong","Basay","Bindoy","Dauin","Jimalalud","La Libertad","Mabinay","Manjuyod","Pamplona","San Jose","Santa Catalina","Siaton","Sibulan","Tayasan","Valencia","Vallehermoso","Zamboanguita"]

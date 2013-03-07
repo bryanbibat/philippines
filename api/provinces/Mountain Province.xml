@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Mountain Province</name>
+  <cities type="array"/>
+  <municipalities type="array">
+    <municipality>Barlig</municipality>
+    <municipality>Bauko</municipality>
+    <municipality>Besao</municipality>
+    <municipality>Bontoc</municipality>
+    <municipality>Natonin</municipality>
+    <municipality>Paracelis</municipality>
+    <municipality>Sabangan</municipality>
+    <municipality>Sadanga</municipality>
+    <municipality>Sagada</municipality>
+    <municipality>Tadian</municipality>
+  </municipalities>
+</hash>

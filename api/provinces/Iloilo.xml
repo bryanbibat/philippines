@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Iloilo</name>
+  <cities type="array">
+    <city>Iloilo City</city>
+    <city>Passi City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Ajuy</municipality>
+    <municipality>Alimodian</municipality>
+    <municipality>Anilao</municipality>
+    <municipality>Badiangan</municipality>
+    <municipality>Balasan</municipality>
+    <municipality>Banate</municipality>
+    <municipality>Barotac Nuevo</municipality>
+    <municipality>Barotac Viejo</municipality>
+    <municipality>Batad</municipality>
+    <municipality>Bingawan</municipality>
+    <municipality>Cabatuan</municipality>
+    <municipality>Calinog</municipality>
+    <municipality>Carles</municipality>
+    <municipality>Concepcion</municipality>
+    <municipality>Dingle</municipality>
+    <municipality>Dueñas</municipality>
+    <municipality>Dumangas</municipality>
+    <municipality>Estancia</municipality>
+    <municipality>Guimbal</municipality>
+    <municipality>Igbaras</municipality>
+    <municipality>Janiuay</municipality>
+    <municipality>Lambunao</municipality>
+    <municipality>Leganes</municipality>
+    <municipality>Lemery</municipality>
+    <municipality>Leon</municipality>
+    <municipality>Maasin</municipality>
+    <municipality>Miagao</municipality>
+    <municipality>Mina</municipality>
+    <municipality>New Lucena</municipality>
+    <municipality>Oton</municipality>
+    <municipality>Pavia</municipality>
+    <municipality>Pototan</municipality>
+    <municipality>San Dionisio</municipality>
+    <municipality>San Enrique</municipality>
+    <municipality>San Joaquin</municipality>
+    <municipality>San Miguel</municipality>
+    <municipality>San Rafael</municipality>
+    <municipality>Santa Barbara</municipality>
+    <municipality>Sara</municipality>
+    <municipality>Tigbauan</municipality>
+    <municipality>Tubungan</municipality>
+    <municipality>Zarraga</municipality>
+  </municipalities>
+</hash>

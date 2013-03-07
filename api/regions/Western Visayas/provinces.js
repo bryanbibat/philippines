@@ -1,0 +1,1 @@
+["Aklan","Antique","Capiz","Guimaras","Iloilo","Negros Occidental"]

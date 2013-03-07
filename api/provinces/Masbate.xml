@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Masbate</name>
+  <cities type="array">
+    <city>Masbate City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Aroroy</municipality>
+    <municipality>Baleno</municipality>
+    <municipality>Balud</municipality>
+    <municipality>Batuan</municipality>
+    <municipality>Cataingan</municipality>
+    <municipality>Cawayan</municipality>
+    <municipality>Claveria</municipality>
+    <municipality>Dimasalang</municipality>
+    <municipality>Esperanza</municipality>
+    <municipality>Mandaon</municipality>
+    <municipality>Milagros</municipality>
+    <municipality>Mobo</municipality>
+    <municipality>Monreal</municipality>
+    <municipality>Palanas</municipality>
+    <municipality>Pio V. Corpuz</municipality>
+    <municipality>Placer</municipality>
+    <municipality>San Fernando</municipality>
+    <municipality>San Jacinto</municipality>
+    <municipality>San Pascual</municipality>
+    <municipality>Uson</municipality>
+  </municipalities>
+</hash>

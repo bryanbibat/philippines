@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Quirino</name>
+  <cities type="array"/>
+  <municipalities type="array">
+    <municipality>Aglipay</municipality>
+    <municipality>Cabarroguis</municipality>
+    <municipality>Diffun</municipality>
+    <municipality>Maddela</municipality>
+    <municipality>Nagtipunan</municipality>
+    <municipality>Saguday</municipality>
+  </municipalities>
+</hash>

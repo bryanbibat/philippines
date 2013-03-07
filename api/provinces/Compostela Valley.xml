@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Compostela Valley</name>
+  <cities type="array"/>
+  <municipalities type="array">
+    <municipality>Compostela</municipality>
+    <municipality>Laak</municipality>
+    <municipality>Mabini</municipality>
+    <municipality>Maco</municipality>
+    <municipality>Maragusan</municipality>
+    <municipality>Mawab</municipality>
+    <municipality>Monkayo</municipality>
+    <municipality>Montevista</municipality>
+    <municipality>Nabunturan</municipality>
+    <municipality>New Bataan</municipality>
+    <municipality>Pantukan</municipality>
+  </municipalities>
+</hash>

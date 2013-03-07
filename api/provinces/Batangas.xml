@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Batangas</name>
+  <cities type="array">
+    <city>Batangas City</city>
+    <city>Lipa City</city>
+    <city>Tanauan City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Agoncillo</municipality>
+    <municipality>Alitagtag</municipality>
+    <municipality>Balayan</municipality>
+    <municipality>Balete</municipality>
+    <municipality>Bauan</municipality>
+    <municipality>Calaca</municipality>
+    <municipality>Calatagan</municipality>
+    <municipality>Cuenca</municipality>
+    <municipality>Ibaan</municipality>
+    <municipality>Laurel</municipality>
+    <municipality>Lemery</municipality>
+    <municipality>Lian</municipality>
+    <municipality>Lobo</municipality>
+    <municipality>Mabini</municipality>
+    <municipality>Malvar</municipality>
+    <municipality>Mataas na Kahoy</municipality>
+    <municipality>Nasugbu</municipality>
+    <municipality>Padre Garcia</municipality>
+    <municipality>Rosario</municipality>
+    <municipality>San Jose</municipality>
+    <municipality>San Juan</municipality>
+    <municipality>San Luis</municipality>
+    <municipality>San Nicolas</municipality>
+    <municipality>San Pascual</municipality>
+    <municipality>Santa Teresita</municipality>
+    <municipality>Santo Tomas</municipality>
+    <municipality>Taal</municipality>
+    <municipality>Talisay</municipality>
+    <municipality>Taysan</municipality>
+    <municipality>Tingloy</municipality>
+    <municipality>Tuy</municipality>
+  </municipalities>
+</hash>

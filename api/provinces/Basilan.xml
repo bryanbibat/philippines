@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Basilan</name>
+  <cities type="array">
+    <city>Isabela City</city>
+    <city>Lamitan City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Akbar</municipality>
+    <municipality>Al-Barka</municipality>
+    <municipality>Hadji Mohammad Ajul</municipality>
+    <municipality>Hadji Muhtamad</municipality>
+    <municipality>Lantawan</municipality>
+    <municipality>Maluso</municipality>
+    <municipality>Sumisip</municipality>
+    <municipality>Tabuan-Lasa</municipality>
+    <municipality>Tipo-Tipo</municipality>
+    <municipality>Tuburan</municipality>
+    <municipality>Ungkaya Pukan</municipality>
+  </municipalities>
+</hash>

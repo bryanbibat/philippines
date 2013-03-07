@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Nueva Ecija</name>
+  <cities type="array">
+    <city>Cabanatuan City</city>
+    <city>Gapan City</city>
+    <city>Palayan City</city>
+    <city>San Jose City</city>
+    <city>Science City of Muñoz</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Aliaga</municipality>
+    <municipality>Bongabon</municipality>
+    <municipality>Cabiao</municipality>
+    <municipality>Carranglan</municipality>
+    <municipality>Cuyapo</municipality>
+    <municipality>Gabaldon</municipality>
+    <municipality>General Mamerto Natividad</municipality>
+    <municipality>General Tinio</municipality>
+    <municipality>Guimba</municipality>
+    <municipality>Jaen</municipality>
+    <municipality>Laur</municipality>
+    <municipality>Licab</municipality>
+    <municipality>Llanera</municipality>
+    <municipality>Lupao</municipality>
+    <municipality>Nampicuan</municipality>
+    <municipality>Pantabangan</municipality>
+    <municipality>Peñaranda</municipality>
+    <municipality>Quezon</municipality>
+    <municipality>Rizal</municipality>
+    <municipality>San Antonio</municipality>
+    <municipality>San Isidro</municipality>
+    <municipality>San Leonardo</municipality>
+    <municipality>Santa Rosa</municipality>
+    <municipality>Santo Domingo</municipality>
+    <municipality>Talavera</municipality>
+    <municipality>Talugtug</municipality>
+    <municipality>Zaragoza</municipality>
+  </municipalities>
+</hash>

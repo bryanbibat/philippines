@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Oriental Mindoro</name>
+  <cities type="array">
+    <city>Calapan City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Baco</municipality>
+    <municipality>Bansud</municipality>
+    <municipality>Bongabong</municipality>
+    <municipality>Bulalacao</municipality>
+    <municipality>Gloria</municipality>
+    <municipality>Mansalay</municipality>
+    <municipality>Naujan</municipality>
+    <municipality>Pinamalayan</municipality>
+    <municipality>Pola</municipality>
+    <municipality>Puerto Galera</municipality>
+    <municipality>Roxas</municipality>
+    <municipality>San Teodoro</municipality>
+    <municipality>Socorro</municipality>
+    <municipality>Victoria</municipality>
+  </municipalities>
+</hash>

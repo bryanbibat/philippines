@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Autonomous Region in Muslim Mindanao</name>
+  <designation>ARMM</designation>
+  <provinces type="array">
+    <province>Basilan</province>
+    <province>Lanao del Sur</province>
+    <province>Maguindanao</province>
+    <province>Sulu</province>
+    <province>Tawi-Tawi</province>
+  </provinces>
+</hash>

@@ -1,0 +1,1 @@
+{"name":"Negros Oriental","cities":["Bais City","Bayawan City","Canlaon City","Guihulngan City","Dumaguete City","Tanjay City"],"municipalities":["Amlan","Ayungon","Bacong","Basay","Bindoy","Dauin","Jimalalud","La Libertad","Mabinay","Manjuyod","Pamplona","San Jose","Santa Catalina","Siaton","Sibulan","Tayasan","Valencia","Vallehermoso","Zamboanguita"]}

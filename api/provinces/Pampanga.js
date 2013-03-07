@@ -1,0 +1,1 @@
+{"name":"Pampanga","cities":["Angeles City","City of San Fernando","Mabalacat City"],"municipalities":["Apalit","Arayat","Bacolor","Candaba","Floridablanca","Guagua","Lubao","Macabebe","Magalang","Masantol","Mexico","Minalin","Porac","San Luis","San Simon","Santa Ana","Santa Rita","Santo Tomas","Sasmuan"]}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Agusan del Norte</name>
+  <cities type="array">
+    <city>Butuan City</city>
+    <city>Cabadbaran City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Buenavista</municipality>
+    <municipality>Carmen</municipality>
+    <municipality>Jabonga</municipality>
+    <municipality>Kitcharao</municipality>
+    <municipality>Las Nieves</municipality>
+    <municipality>Magallanes</municipality>
+    <municipality>Nasipit</municipality>
+    <municipality>Remedios T. Romualdez</municipality>
+    <municipality>Santiago</municipality>
+    <municipality>Tubay</municipality>
+  </municipalities>
+</hash>

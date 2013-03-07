@@ -1,0 +1,1 @@
+["Calbayog City","Catbalogan City","Almagro","Basey","Calbiga","Daram","Gandara","Hinabangan","Jiabong","Marabut","Matuguinao","Motiong","Pagsanghan","Paranas","Pinabacdao","San Jorge","San Jose De Buan","San Sebastian","Santa Margarita","Santa Rita","Santo Ni\u00f1o","Tagapul-an","Talalora","Tarangnan","Villareal","Zumarraga"]

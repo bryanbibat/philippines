@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Marinduque</name>
+  <cities type="array"/>
+  <municipalities type="array">
+    <municipality>Boac</municipality>
+    <municipality>Buenavista</municipality>
+    <municipality>Gasan</municipality>
+    <municipality>Mogpog</municipality>
+    <municipality>Santa Cruz</municipality>
+    <municipality>Torrijos</municipality>
+  </municipalities>
+</hash>

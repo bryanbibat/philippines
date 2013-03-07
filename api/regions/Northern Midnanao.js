@@ -1,0 +1,1 @@
+{"name":"Northern Midnanao","designation":"Region X","provinces":["Bukidnon","Camiguin","Lanao del Norte","Misamis Occidental","Misamis Oriental"]}

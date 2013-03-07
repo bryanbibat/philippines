@@ -1,0 +1,1 @@
+["Bais City","Bayawan City","Canlaon City","Guihulngan City","Dumaguete City","Tanjay City"]

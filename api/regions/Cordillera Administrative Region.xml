@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Cordillera Administrative Region</name>
+  <designation>CAR</designation>
+  <provinces type="array">
+    <province>Abra</province>
+    <province>Apayao</province>
+    <province>Benguet</province>
+    <province>Ifugao</province>
+    <province>Kalinga</province>
+    <province>Mountain Province</province>
+  </provinces>
+</hash>

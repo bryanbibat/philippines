@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Lanao del Sur</name>
+  <cities type="array">
+    <city>Marawi City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Bacolod-Kalawi</municipality>
+    <municipality>Balabagan</municipality>
+    <municipality>Balindong</municipality>
+    <municipality>Bayang</municipality>
+    <municipality>Binidayan</municipality>
+    <municipality>Buadiposo-Buntong</municipality>
+    <municipality>Bubong</municipality>
+    <municipality>Bumbaran</municipality>
+    <municipality>Butig</municipality>
+    <municipality>Calanogas</municipality>
+    <municipality>Ditsaan-Ramain</municipality>
+    <municipality>Ganassi</municipality>
+    <municipality>Kapai</municipality>
+    <municipality>Kapatagan</municipality>
+    <municipality>Lumba-Bayabao</municipality>
+    <municipality>Lumbaca-Unayan</municipality>
+    <municipality>Lumbatan</municipality>
+    <municipality>Lumbayanague</municipality>
+    <municipality>Madalum</municipality>
+    <municipality>Madamba</municipality>
+    <municipality>Maguing</municipality>
+    <municipality>Malabang</municipality>
+    <municipality>Marantao</municipality>
+    <municipality>Marogong</municipality>
+    <municipality>Masiu</municipality>
+    <municipality>Mulondo</municipality>
+    <municipality>Pagayawan</municipality>
+    <municipality>Piagapo</municipality>
+    <municipality>Poona Bayabao</municipality>
+    <municipality>Pualas</municipality>
+    <municipality>Saguiaran</municipality>
+    <municipality>Sultan Dumalondong</municipality>
+    <municipality>Picong</municipality>
+    <municipality>Tagoloan II</municipality>
+    <municipality>Tamparan</municipality>
+    <municipality>Taraka</municipality>
+    <municipality>Tubaran</municipality>
+    <municipality>Tugaya</municipality>
+    <municipality>Wao</municipality>
+  </municipalities>
+</hash>

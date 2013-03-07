@@ -1,0 +1,1 @@
+{"name":"Western Visayas","designation":"Region VI","provinces":["Aklan","Antique","Capiz","Guimaras","Iloilo","Negros Occidental"]}

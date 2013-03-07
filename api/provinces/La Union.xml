@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>La Union</name>
+  <cities type="array">
+    <city>San Fernando City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Agoo</municipality>
+    <municipality>Aringay</municipality>
+    <municipality>Bacnotan</municipality>
+    <municipality>Bagulin</municipality>
+    <municipality>Balaoan</municipality>
+    <municipality>Bangar</municipality>
+    <municipality>Bauang</municipality>
+    <municipality>Burgos</municipality>
+    <municipality>Caba</municipality>
+    <municipality>Luna</municipality>
+    <municipality>Naguilian</municipality>
+    <municipality>Pugo</municipality>
+    <municipality>Rosario</municipality>
+    <municipality>San Gabriel</municipality>
+    <municipality>San Juan</municipality>
+    <municipality>Santo Tomas</municipality>
+    <municipality>Santol</municipality>
+    <municipality>Sudipen</municipality>
+    <municipality>Tubao</municipality>
+  </municipalities>
+</hash>

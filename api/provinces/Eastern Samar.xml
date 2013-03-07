@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Eastern Samar</name>
+  <cities type="array">
+    <city>Borongan City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Arteche</municipality>
+    <municipality>Balangiga</municipality>
+    <municipality>Balangkayan</municipality>
+    <municipality>Can-avid</municipality>
+    <municipality>Dolores</municipality>
+    <municipality>General MacArthur</municipality>
+    <municipality>Giporlos</municipality>
+    <municipality>Guiuan</municipality>
+    <municipality>Hernani</municipality>
+    <municipality>Jipapad</municipality>
+    <municipality>Lawaan</municipality>
+    <municipality>Llorente</municipality>
+    <municipality>Maslog</municipality>
+    <municipality>Maydolong</municipality>
+    <municipality>Mercedes</municipality>
+    <municipality>Oras</municipality>
+    <municipality>Quinapondan</municipality>
+    <municipality>Salcedo</municipality>
+    <municipality>San Julian</municipality>
+    <municipality>San Policarpo</municipality>
+    <municipality>Sulat</municipality>
+    <municipality>Taft</municipality>
+  </municipalities>
+</hash>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Cebu</name>
+  <cities type="array">
+    <city>Bogo City</city>
+    <city>Cebu City</city>
+    <city>Carcar City</city>
+    <city>Danao City</city>
+    <city>Lapu-Lapu City</city>
+    <city>Mandaue City</city>
+    <city>Naga City</city>
+    <city>Talisay City</city>
+    <city>Toledo City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Alcantara</municipality>
+    <municipality>Alcoy</municipality>
+    <municipality>Alegria</municipality>
+    <municipality>Aloguinsan</municipality>
+    <municipality>Argao</municipality>
+    <municipality>Asturias</municipality>
+    <municipality>Badian</municipality>
+    <municipality>Balamban</municipality>
+    <municipality>Bantayan</municipality>
+    <municipality>Barili</municipality>
+    <municipality>Boljoon</municipality>
+    <municipality>Borbon</municipality>
+    <municipality>Carmen</municipality>
+    <municipality>Catmon</municipality>
+    <municipality>Compostela</municipality>
+    <municipality>Consolacion</municipality>
+    <municipality>Cordoba</municipality>
+    <municipality>Daanbantayan</municipality>
+    <municipality>Dalaguete</municipality>
+    <municipality>Dumanjug</municipality>
+    <municipality>Ginatilan</municipality>
+    <municipality>Liloan</municipality>
+    <municipality>Madridejos</municipality>
+    <municipality>Malabuyoc</municipality>
+    <municipality>Medellin</municipality>
+    <municipality>Minglanilla</municipality>
+    <municipality>Moalboal</municipality>
+    <municipality>Oslob</municipality>
+    <municipality>Pilar</municipality>
+    <municipality>Pinamungahan</municipality>
+    <municipality>Poro</municipality>
+    <municipality>Ronda</municipality>
+    <municipality>Samboan</municipality>
+    <municipality>San Fernando</municipality>
+    <municipality>San Francisco</municipality>
+    <municipality>San Remigio</municipality>
+    <municipality>Santa Fe</municipality>
+    <municipality>Santander</municipality>
+    <municipality>Sibonga</municipality>
+    <municipality>Sogod</municipality>
+    <municipality>Tabogon</municipality>
+    <municipality>Tabuelan</municipality>
+    <municipality>Tuburan</municipality>
+    <municipality>Tudela</municipality>
+  </municipalities>
+</hash>

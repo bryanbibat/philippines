@@ -1,0 +1,1 @@
+["Candon City","Vigan City"]

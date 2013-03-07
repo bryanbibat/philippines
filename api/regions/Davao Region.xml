@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Davao Region</name>
+  <designation>Region XI</designation>
+  <provinces type="array">
+    <province>Compostela Valley</province>
+    <province>Davao del Norte</province>
+    <province>Davao del Sur</province>
+    <province>Davao Oriental</province>
+  </provinces>
+</hash>

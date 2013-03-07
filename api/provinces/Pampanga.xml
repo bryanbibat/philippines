@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Pampanga</name>
+  <cities type="array">
+    <city>Angeles City</city>
+    <city>City of San Fernando</city>
+    <city>Mabalacat City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Apalit</municipality>
+    <municipality>Arayat</municipality>
+    <municipality>Bacolor</municipality>
+    <municipality>Candaba</municipality>
+    <municipality>Floridablanca</municipality>
+    <municipality>Guagua</municipality>
+    <municipality>Lubao</municipality>
+    <municipality>Macabebe</municipality>
+    <municipality>Magalang</municipality>
+    <municipality>Masantol</municipality>
+    <municipality>Mexico</municipality>
+    <municipality>Minalin</municipality>
+    <municipality>Porac</municipality>
+    <municipality>San Luis</municipality>
+    <municipality>San Simon</municipality>
+    <municipality>Santa Ana</municipality>
+    <municipality>Santa Rita</municipality>
+    <municipality>Santo Tomas</municipality>
+    <municipality>Sasmuan</municipality>
+  </municipalities>
+</hash>

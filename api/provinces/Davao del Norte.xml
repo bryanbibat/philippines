@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Davao del Norte</name>
+  <cities type="array">
+    <city>Panabo City</city>
+    <city>Samal City</city>
+    <city>Tagum City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Asuncion</municipality>
+    <municipality>Braulio E. Dujali</municipality>
+    <municipality>Carmen</municipality>
+    <municipality>Kapalong</municipality>
+    <municipality>New Corella</municipality>
+    <municipality>San Isidro</municipality>
+    <municipality>Santo Tomas</municipality>
+    <municipality>Talaingod</municipality>
+  </municipalities>
+</hash>

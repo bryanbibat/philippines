@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Biliran</name>
+  <cities type="array"/>
+  <municipalities type="array">
+    <municipality>Almeria</municipality>
+    <municipality>Biliran</municipality>
+    <municipality>Cabucgayan</municipality>
+    <municipality>Caibiran</municipality>
+    <municipality>Culaba</municipality>
+    <municipality>Kawayan</municipality>
+    <municipality>Maripipi</municipality>
+    <municipality>Naval</municipality>
+  </municipalities>
+</hash>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>MIMAROPA</name>
+  <designation>Region IV-B</designation>
+  <provinces type="array">
+    <province>Marinduque</province>
+    <province>Occidental Mindoro</province>
+    <province>Oriental Mindoro</province>
+    <province>Palawan</province>
+    <province>Romblon</province>
+  </provinces>
+</hash>

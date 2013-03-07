@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>SOCCSKSARGEN</name>
+  <designation>Region XIII</designation>
+  <provinces type="array">
+    <province>Cotabato</province>
+    <province>Sarangani</province>
+    <province>South Cotabato</province>
+    <province>Sultan Kudarat</province>
+  </provinces>
+</hash>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Bataan</name>
+  <cities type="array">
+    <city>Balanga City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Abucay</municipality>
+    <municipality>Bagac</municipality>
+    <municipality>Dinalupihan</municipality>
+    <municipality>Hermosa</municipality>
+    <municipality>Limay</municipality>
+    <municipality>Mariveles</municipality>
+    <municipality>Morong</municipality>
+    <municipality>Orani</municipality>
+    <municipality>Orion</municipality>
+    <municipality>Pilar</municipality>
+    <municipality>Samal</municipality>
+  </municipalities>
+</hash>

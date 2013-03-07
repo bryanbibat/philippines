@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Camarines Sur</name>
+  <cities type="array">
+    <city>Iriga City</city>
+    <city>Naga City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Baao</municipality>
+    <municipality>Balatan</municipality>
+    <municipality>Bato</municipality>
+    <municipality>Bombon</municipality>
+    <municipality>Buhi</municipality>
+    <municipality>Bula</municipality>
+    <municipality>Cabusao</municipality>
+    <municipality>Calabanga</municipality>
+    <municipality>Camaligan</municipality>
+    <municipality>Canaman</municipality>
+    <municipality>Caramoan</municipality>
+    <municipality>Del Gallego</municipality>
+    <municipality>Gainza</municipality>
+    <municipality>Garchitorena</municipality>
+    <municipality>Goa</municipality>
+    <municipality>Lagonoy</municipality>
+    <municipality>Libmanan</municipality>
+    <municipality>Lupi</municipality>
+    <municipality>Magarao</municipality>
+    <municipality>Milaor</municipality>
+    <municipality>Minalabac</municipality>
+    <municipality>Nabua</municipality>
+    <municipality>Ocampo</municipality>
+    <municipality>Pamplona</municipality>
+    <municipality>Pasacao</municipality>
+    <municipality>Pili</municipality>
+    <municipality>Presentacion</municipality>
+    <municipality>Ragay</municipality>
+    <municipality>Sagñay</municipality>
+    <municipality>San Fernando</municipality>
+    <municipality>San Jose</municipality>
+    <municipality>Sipocot</municipality>
+    <municipality>Siruma</municipality>
+    <municipality>Tigaon</municipality>
+    <municipality>Tinambac</municipality>
+  </municipalities>
+</hash>

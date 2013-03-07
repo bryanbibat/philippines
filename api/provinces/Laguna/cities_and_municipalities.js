@@ -1,0 +1,1 @@
+["Bi\u00f1an City","Cabuyao City","Calamba City","San Pablo City","Santa Rosa City","Alaminos","Bay","Calauan","Cavinti","Famy","Kalayaan","Liliw","Luisiana","Los Ba\u00f1os","Lumban","Mabitac","Magdalena","Majayjay","Nagcarlan","Paete","Pagsanjan","Pakil","Pangil","Pila","Rizal","San Pedro","Santa Cruz","Santa Maria","Siniloan","Victoria"]

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Dinagat Islands</name>
+  <cities type="array"/>
+  <municipalities type="array">
+    <municipality>Basilisa (Rizal)</municipality>
+    <municipality>Cagdianao</municipality>
+    <municipality>Dinagat</municipality>
+    <municipality>Libjo (Albor)</municipality>
+    <municipality>Loreto</municipality>
+    <municipality>San Jose</municipality>
+    <municipality>Tubajon</municipality>
+  </municipalities>
+</hash>

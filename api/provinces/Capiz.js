@@ -1,0 +1,1 @@
+{"name":"Capiz","cities":["Roxas City"],"municipalities":["Cuartero","Dao","Dumalag","Dumarao","Ivisan","Jamindan","Ma-ayon","Mambusao","Panay","Panitan","Pilar","Pontevedra","President Roxas","Sapi-an","Sigma","Tapaz"]}

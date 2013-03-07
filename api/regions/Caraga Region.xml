@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Caraga Region</name>
+  <designation>Region XIII</designation>
+  <provinces type="array">
+    <province>Agusan del Norte</province>
+    <province>Agusan del Sur</province>
+    <province>Dinagat Islands</province>
+    <province>Surigao del Norte</province>
+    <province>Surigao del Sur</province>
+  </provinces>
+</hash>

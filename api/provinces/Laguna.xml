@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Laguna</name>
+  <cities type="array">
+    <city>Biñan City</city>
+    <city>Cabuyao City</city>
+    <city>Calamba City</city>
+    <city>San Pablo City</city>
+    <city>Santa Rosa City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Alaminos</municipality>
+    <municipality>Bay</municipality>
+    <municipality>Calauan</municipality>
+    <municipality>Cavinti</municipality>
+    <municipality>Famy</municipality>
+    <municipality>Kalayaan</municipality>
+    <municipality>Liliw</municipality>
+    <municipality>Luisiana</municipality>
+    <municipality>Los Baños</municipality>
+    <municipality>Lumban</municipality>
+    <municipality>Mabitac</municipality>
+    <municipality>Magdalena</municipality>
+    <municipality>Majayjay</municipality>
+    <municipality>Nagcarlan</municipality>
+    <municipality>Paete</municipality>
+    <municipality>Pagsanjan</municipality>
+    <municipality>Pakil</municipality>
+    <municipality>Pangil</municipality>
+    <municipality>Pila</municipality>
+    <municipality>Rizal</municipality>
+    <municipality>San Pedro</municipality>
+    <municipality>Santa Cruz</municipality>
+    <municipality>Santa Maria</municipality>
+    <municipality>Siniloan</municipality>
+    <municipality>Victoria</municipality>
+  </municipalities>
+</hash>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Misamis Occidental</name>
+  <cities type="array">
+    <city>Oroquieta City</city>
+    <city>Ozamiz City</city>
+    <city>Tangub City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Aloran</municipality>
+    <municipality>Baliangao</municipality>
+    <municipality>Bonifacio</municipality>
+    <municipality>Calamba</municipality>
+    <municipality>Clarin</municipality>
+    <municipality>Concepcion</municipality>
+    <municipality>Don Victoriano Chiongbian</municipality>
+    <municipality>Jimenez</municipality>
+    <municipality>Lopez Jaena</municipality>
+    <municipality>Panaon</municipality>
+    <municipality>Plaridel</municipality>
+    <municipality>Sapang Dalaga</municipality>
+    <municipality>Sinacaban</municipality>
+    <municipality>Tudela</municipality>
+  </municipalities>
+</hash>

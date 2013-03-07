@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Abra</name>
+  <cities type="array"/>
+  <municipalities type="array">
+    <municipality>Bangued</municipality>
+    <municipality>Boliney</municipality>
+    <municipality>Bucay</municipality>
+    <municipality>Bucloc</municipality>
+    <municipality>Daguioman</municipality>
+    <municipality>Danglas</municipality>
+    <municipality>Dolores</municipality>
+    <municipality>La Paz</municipality>
+    <municipality>Lacub</municipality>
+    <municipality>Lagangilang</municipality>
+    <municipality>Lagayan</municipality>
+    <municipality>Langiden</municipality>
+    <municipality>Licuan-Baay</municipality>
+    <municipality>Luba</municipality>
+    <municipality>Malibcong</municipality>
+    <municipality>Manabo</municipality>
+    <municipality>Peñarrubia</municipality>
+    <municipality>Pidigan</municipality>
+    <municipality>Pilar</municipality>
+    <municipality>Sallapadan</municipality>
+    <municipality>San Isidro</municipality>
+    <municipality>San Juan</municipality>
+    <municipality>San Quintin</municipality>
+    <municipality>Tayum</municipality>
+    <municipality>Tineg</municipality>
+    <municipality>Tubo</municipality>
+    <municipality>Villaviciosa</municipality>
+  </municipalities>
+</hash>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Eastern Visayas</name>
+  <designation>Region VIII</designation>
+  <provinces type="array">
+    <province>Biliran</province>
+    <province>Eastern Samar</province>
+    <province>Leyte</province>
+    <province>Northern Samar</province>
+    <province>Samar</province>
+    <province>Southern Leyte</province>
+  </provinces>
+</hash>

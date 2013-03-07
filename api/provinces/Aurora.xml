@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Aurora</name>
+  <cities type="array"/>
+  <municipalities type="array">
+    <municipality>Baler</municipality>
+    <municipality>Casiguran</municipality>
+    <municipality>Dilasag</municipality>
+    <municipality>Dinalungan</municipality>
+    <municipality>Dingalan</municipality>
+    <municipality>Dipaculao</municipality>
+    <municipality>Maria Aurora</municipality>
+    <municipality>San Luis</municipality>
+  </municipalities>
+</hash>

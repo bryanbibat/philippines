@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Apayao</name>
+  <cities type="array"/>
+  <municipalities type="array">
+    <municipality>Calanasan</municipality>
+    <municipality>Conner</municipality>
+    <municipality>Flora</municipality>
+    <municipality>Kabugao</municipality>
+    <municipality>Luna</municipality>
+    <municipality>Pudtol</municipality>
+    <municipality>Santa Marcela</municipality>
+  </municipalities>
+</hash>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Northern Samar</name>
+  <cities type="array"/>
+  <municipalities type="array">
+    <municipality>Allen</municipality>
+    <municipality>Biri</municipality>
+    <municipality>Bobon</municipality>
+    <municipality>Capul</municipality>
+    <municipality>Catarman</municipality>
+    <municipality>Catubig</municipality>
+    <municipality>Gamay</municipality>
+    <municipality>Laoang</municipality>
+    <municipality>Lapinig</municipality>
+    <municipality>Las Navas</municipality>
+    <municipality>Lavezares</municipality>
+    <municipality>Lope de Vega</municipality>
+    <municipality>Mapanas</municipality>
+    <municipality>Mondragon</municipality>
+    <municipality>Palapag</municipality>
+    <municipality>Pambujan</municipality>
+    <municipality>Rosario</municipality>
+    <municipality>San Antonio</municipality>
+    <municipality>San Isidro</municipality>
+    <municipality>San Jose</municipality>
+    <municipality>San Roque</municipality>
+    <municipality>San Vicente</municipality>
+    <municipality>Silvino Lobos</municipality>
+    <municipality>Victoria</municipality>
+  </municipalities>
+</hash>

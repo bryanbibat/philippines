@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Batanes</name>
+  <cities type="array"/>
+  <municipalities type="array">
+    <municipality>Basco</municipality>
+    <municipality>Itbayat</municipality>
+    <municipality>Ivana</municipality>
+    <municipality>Mahatao</municipality>
+    <municipality>Sabtang</municipality>
+    <municipality>Uyugan</municipality>
+  </municipalities>
+</hash>

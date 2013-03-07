@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Camarines Norte</name>
+  <cities type="array"/>
+  <municipalities type="array">
+    <municipality>Basud</municipality>
+    <municipality>Capalonga</municipality>
+    <municipality>Daet</municipality>
+    <municipality>Jose Panganiban</municipality>
+    <municipality>Labo</municipality>
+    <municipality>Mercedes</municipality>
+    <municipality>Paracale</municipality>
+    <municipality>San Lorenzo Ruiz</municipality>
+    <municipality>San Vicente</municipality>
+    <municipality>Santa Elena</municipality>
+    <municipality>Talisay</municipality>
+    <municipality>Vinzons</municipality>
+  </municipalities>
+</hash>

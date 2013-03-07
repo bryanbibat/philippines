@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Davao Oriental</name>
+  <cities type="array">
+    <city>Mati City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Baganga</municipality>
+    <municipality>Banaybanay</municipality>
+    <municipality>Boston</municipality>
+    <municipality>Caraga</municipality>
+    <municipality>Cateel</municipality>
+    <municipality>Governor Generoso</municipality>
+    <municipality>Lupon</municipality>
+    <municipality>Manay</municipality>
+    <municipality>San Isidro</municipality>
+    <municipality>Tarragona</municipality>
+  </municipalities>
+</hash>

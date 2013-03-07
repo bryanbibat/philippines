@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Kalinga</name>
+  <cities type="array">
+    <city>Tabuk City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Balbalan</municipality>
+    <municipality>Lubuagan</municipality>
+    <municipality>Pasil</municipality>
+    <municipality>Pinukpuk</municipality>
+    <municipality>Rizal</municipality>
+    <municipality>Tanudan</municipality>
+    <municipality>Tinglayan</municipality>
+  </municipalities>
+</hash>

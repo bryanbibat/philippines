@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Pangasinan</name>
+  <cities type="array">
+    <city>Alaminos City</city>
+    <city>Dagupan City</city>
+    <city>San Carlos City</city>
+    <city>Urdaneta City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Agno</municipality>
+    <municipality>Aguilar</municipality>
+    <municipality>Alcala</municipality>
+    <municipality>Anda</municipality>
+    <municipality>Asingan</municipality>
+    <municipality>Balungao</municipality>
+    <municipality>Bani</municipality>
+    <municipality>Basista</municipality>
+    <municipality>Bautista</municipality>
+    <municipality>Bayambang</municipality>
+    <municipality>Binalonan</municipality>
+    <municipality>Binmaley</municipality>
+    <municipality>Bolinao</municipality>
+    <municipality>Bugallon</municipality>
+    <municipality>Burgos</municipality>
+    <municipality>Calasiao</municipality>
+    <municipality>Dasol</municipality>
+    <municipality>Infanta</municipality>
+    <municipality>Labrador</municipality>
+    <municipality>Laoac</municipality>
+    <municipality>Lingayen</municipality>
+    <municipality>Mabini</municipality>
+    <municipality>Malasiqui</municipality>
+    <municipality>Manaoag</municipality>
+    <municipality>Mangaldan</municipality>
+    <municipality>Mangatarem</municipality>
+    <municipality>Mapandan</municipality>
+    <municipality>Natividad</municipality>
+    <municipality>Pozzorubio</municipality>
+    <municipality>Rosales</municipality>
+    <municipality>San Fabian</municipality>
+    <municipality>San Jacinto</municipality>
+    <municipality>San Manuel</municipality>
+    <municipality>San Nicolas</municipality>
+    <municipality>San Quintin</municipality>
+    <municipality>Santa Barbara</municipality>
+    <municipality>Santa Maria</municipality>
+    <municipality>Santo Tomas</municipality>
+    <municipality>Sison</municipality>
+    <municipality>Sual</municipality>
+    <municipality>Tayug</municipality>
+    <municipality>Umingan</municipality>
+    <municipality>Urbiztondo</municipality>
+    <municipality>Villasis</municipality>
+  </municipalities>
+</hash>

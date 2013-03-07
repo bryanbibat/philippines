@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Bukidnon</name>
+  <cities type="array">
+    <city>Malaybalay City</city>
+    <city>Valencia City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Baungon</municipality>
+    <municipality>Cabanglasan</municipality>
+    <municipality>Damulog</municipality>
+    <municipality>Dangcagan</municipality>
+    <municipality>Don Carlos</municipality>
+    <municipality>Impasug-ong</municipality>
+    <municipality>Kadingilan</municipality>
+    <municipality>Kalilangan</municipality>
+    <municipality>Kibawe</municipality>
+    <municipality>Kitaotao</municipality>
+    <municipality>Lantapan</municipality>
+    <municipality>Libona</municipality>
+    <municipality>Malitbog</municipality>
+    <municipality>Manolo Fortich</municipality>
+    <municipality>Maramag</municipality>
+    <municipality>Pangantucan</municipality>
+    <municipality>Quezon</municipality>
+    <municipality>San Fernando</municipality>
+    <municipality>Sumilao</municipality>
+    <municipality>Talakag</municipality>
+  </municipalities>
+</hash>

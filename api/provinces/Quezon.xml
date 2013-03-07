@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Quezon</name>
+  <cities type="array">
+    <city>Lucena City</city>
+    <city>Tayabas City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Agdangan</municipality>
+    <municipality>Alabat</municipality>
+    <municipality>Atimonan</municipality>
+    <municipality>Buenavista</municipality>
+    <municipality>Burdeos</municipality>
+    <municipality>Calauag</municipality>
+    <municipality>Candelaria</municipality>
+    <municipality>Catanauan</municipality>
+    <municipality>Dolores</municipality>
+    <municipality>General Luna</municipality>
+    <municipality>General Nakar</municipality>
+    <municipality>Guinayangan</municipality>
+    <municipality>Gumaca</municipality>
+    <municipality>Infanta</municipality>
+    <municipality>Jomalig</municipality>
+    <municipality>Lopez</municipality>
+    <municipality>Lucban</municipality>
+    <municipality>Macalelon</municipality>
+    <municipality>Mauban</municipality>
+    <municipality>Mulanay</municipality>
+    <municipality>Padre Burgos</municipality>
+    <municipality>Pagbilao</municipality>
+    <municipality>Panukulan</municipality>
+    <municipality>Patnanungan</municipality>
+    <municipality>Perez</municipality>
+    <municipality>Pitogo</municipality>
+    <municipality>Plaridel</municipality>
+    <municipality>Polillo</municipality>
+    <municipality>Quezon</municipality>
+    <municipality>Real</municipality>
+    <municipality>Sampaloc</municipality>
+    <municipality>San Andres</municipality>
+    <municipality>San Antonio</municipality>
+    <municipality>San Francisco</municipality>
+    <municipality>San Narciso</municipality>
+    <municipality>Sariaya</municipality>
+    <municipality>Tagkawayan</municipality>
+    <municipality>Tiaong</municipality>
+    <municipality>Unisan</municipality>
+  </municipalities>
+</hash>
