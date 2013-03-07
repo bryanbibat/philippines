@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <hash>
   <name>Sarangani</name>
-  <cities nil="true"/>
+  <cities type="array"/>
   <municipalities type="array">
     <municipality>Alabel</municipality>
     <municipality>Glan</municipality>

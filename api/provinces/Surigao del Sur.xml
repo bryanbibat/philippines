@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Surigao del Sur</name>
+  <cities type="array">
+    <city>Bislig City</city>
+    <city>Tandag City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Barobo</municipality>
+    <municipality>Bayabas</municipality>
+    <municipality>Cagwait</municipality>
+    <municipality>Cantilan</municipality>
+    <municipality>Carmen</municipality>
+    <municipality>Carrascal</municipality>
+    <municipality>Cortes</municipality>
+    <municipality>Hinatuan</municipality>
+    <municipality>Lanuza</municipality>
+    <municipality>Lianga</municipality>
+    <municipality>Lingig</municipality>
+    <municipality>Madrid</municipality>
+    <municipality>Marihatag</municipality>
+    <municipality>San Agustin</municipality>
+    <municipality>San Miguel</municipality>
+    <municipality>Tagbina</municipality>
+    <municipality>Tago</municipality>
+  </municipalities>
+</hash>

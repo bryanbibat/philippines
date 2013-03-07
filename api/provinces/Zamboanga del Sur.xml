@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Zamboanga del Sur</name>
+  <cities type="array">
+    <city>Pagadian City</city>
+    <city>Zamboanga City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Aurora</municipality>
+    <municipality>Bayog</municipality>
+    <municipality>Dimataling</municipality>
+    <municipality>Dinas</municipality>
+    <municipality>Dumalinao</municipality>
+    <municipality>Dumingag</municipality>
+    <municipality>Guipos</municipality>
+    <municipality>Josefina</municipality>
+    <municipality>Kumalarang</municipality>
+    <municipality>Labangan</municipality>
+    <municipality>Lakewood</municipality>
+    <municipality>Lapuyan</municipality>
+    <municipality>Mahayag</municipality>
+    <municipality>Margosatubig</municipality>
+    <municipality>Midsalip</municipality>
+    <municipality>Molave</municipality>
+    <municipality>Pitogo</municipality>
+    <municipality>Ramon Magsaysay</municipality>
+    <municipality>San Miguel</municipality>
+    <municipality>San Pablo</municipality>
+    <municipality>Sominot</municipality>
+    <municipality>Tabina</municipality>
+    <municipality>Tambulig</municipality>
+    <municipality>Tigbao</municipality>
+    <municipality>Tukuran</municipality>
+    <municipality>Vincenzo A. Sagun</municipality>
+  </municipalities>
+</hash>

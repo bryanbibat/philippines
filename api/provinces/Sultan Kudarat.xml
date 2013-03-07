@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Sultan Kudarat</name>
+  <cities type="array">
+    <city>Tacurong City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Bagumbayan</municipality>
+    <municipality>Columbio</municipality>
+    <municipality>Esperanza</municipality>
+    <municipality>Isulan</municipality>
+    <municipality>Kalamansig</municipality>
+    <municipality>Lambayong</municipality>
+    <municipality>Lebak</municipality>
+    <municipality>Lutayan</municipality>
+    <municipality>Palimbang</municipality>
+    <municipality>President Quirino</municipality>
+    <municipality>Senator Ninoy Aquino</municipality>
+  </municipalities>
+</hash>

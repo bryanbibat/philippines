@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>South Cotabato</name>
+  <cities type="array">
+    <city>General Santos City</city>
+    <city>Koronadal City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Banga</municipality>
+    <municipality>Lake Sebu</municipality>
+    <municipality>Norala</municipality>
+    <municipality>Polomolok</municipality>
+    <municipality>Santo Niño</municipality>
+    <municipality>Surallah</municipality>
+    <municipality>T'boli</municipality>
+    <municipality>Tampakan</municipality>
+    <municipality>Tantangan</municipality>
+    <municipality>Tupi</municipality>
+  </municipalities>
+</hash>

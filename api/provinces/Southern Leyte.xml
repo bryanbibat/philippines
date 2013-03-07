@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Southern Leyte</name>
+  <cities type="array">
+    <city>Maasin City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Anahawan</municipality>
+    <municipality>Bontoc</municipality>
+    <municipality>Hinunangan</municipality>
+    <municipality>Hinundayan</municipality>
+    <municipality>Libagon</municipality>
+    <municipality>Liloan</municipality>
+    <municipality>Limasawa</municipality>
+    <municipality>Macrohon</municipality>
+    <municipality>Malitbog</municipality>
+    <municipality>Padre Burgos</municipality>
+    <municipality>Pintuyan</municipality>
+    <municipality>Saint Bernard</municipality>
+    <municipality>San Francisco</municipality>
+    <municipality>San Juan</municipality>
+    <municipality>San Ricardo</municipality>
+    <municipality>Silago</municipality>
+    <municipality>Sogod</municipality>
+    <municipality>Tomas Oppus</municipality>
+  </municipalities>
+</hash>

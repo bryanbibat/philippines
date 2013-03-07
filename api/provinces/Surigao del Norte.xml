@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Surigao del Norte</name>
+  <cities type="array">
+    <city>Surigao City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Alegria</municipality>
+    <municipality>Bacuag</municipality>
+    <municipality>Basilisa</municipality>
+    <municipality>Burgos</municipality>
+    <municipality>Cagdianao</municipality>
+    <municipality>Claver</municipality>
+    <municipality>Dapa</municipality>
+    <municipality>Del Carmen</municipality>
+    <municipality>Dinagat</municipality>
+    <municipality>General Luna</municipality>
+    <municipality>Gigaquit</municipality>
+    <municipality>Libjo</municipality>
+    <municipality>Loreto</municipality>
+    <municipality>Mainit</municipality>
+    <municipality>Malimono</municipality>
+    <municipality>Pilar</municipality>
+    <municipality>Placer</municipality>
+    <municipality>San Benito</municipality>
+    <municipality>San Francisco</municipality>
+    <municipality>San Isidro</municipality>
+    <municipality>San Jose</municipality>
+    <municipality>Santa Monica</municipality>
+    <municipality>Sison</municipality>
+    <municipality>Socorro</municipality>
+    <municipality>Tagana-an</municipality>
+    <municipality>Tubajon</municipality>
+    <municipality>Tubod</municipality>
+  </municipalities>
+</hash>

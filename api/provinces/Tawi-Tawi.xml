@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Tawi-Tawi</name>
+  <cities type="array"/>
+  <municipalities type="array">
+    <municipality>Bongao</municipality>
+    <municipality>Languyan</municipality>
+    <municipality>Mapun</municipality>
+    <municipality>Panglima Sugala</municipality>
+    <municipality>Sapa-Sapa</municipality>
+    <municipality>Sibutu</municipality>
+    <municipality>Simunul</municipality>
+    <municipality>Sitangkai</municipality>
+    <municipality>South Ubian</municipality>
+    <municipality>Tandubas</municipality>
+    <municipality>Turtle Islands</municipality>
+  </municipalities>
+</hash>

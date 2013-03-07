@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Sorsogon</name>
+  <cities type="array">
+    <city>Sorsogon City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Barcelona</municipality>
+    <municipality>Bulan</municipality>
+    <municipality>Bulusan</municipality>
+    <municipality>Casiguran</municipality>
+    <municipality>Castilla</municipality>
+    <municipality>Donsol</municipality>
+    <municipality>Gubat</municipality>
+    <municipality>Irosin</municipality>
+    <municipality>Juban</municipality>
+    <municipality>Magallanes</municipality>
+    <municipality>Matnog</municipality>
+    <municipality>Pilar</municipality>
+    <municipality>Prieto Diaz</municipality>
+    <municipality>Santa Magdalena</municipality>
+  </municipalities>
+</hash>

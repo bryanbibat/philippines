@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Zamboanga Sibugay</name>
+  <cities type="array"/>
+  <municipalities type="array">
+    <municipality>Alicia</municipality>
+    <municipality>Buug</municipality>
+    <municipality>Diplahan</municipality>
+    <municipality>Imelda</municipality>
+    <municipality>Ipil</municipality>
+    <municipality>Kabasalan</municipality>
+    <municipality>Mabuhay</municipality>
+    <municipality>Malangas</municipality>
+    <municipality>Naga</municipality>
+    <municipality>Olutanga</municipality>
+    <municipality>Payao</municipality>
+    <municipality>Roseller Lim</municipality>
+    <municipality>Siay</municipality>
+    <municipality>Talusan</municipality>
+    <municipality>Titay</municipality>
+    <municipality>Tungawan</municipality>
+  </municipalities>
+</hash>

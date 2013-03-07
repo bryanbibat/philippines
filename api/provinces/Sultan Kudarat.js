@@ -1,0 +1,1 @@
+{"name":"Sultan Kudarat","cities":["Tacurong City"],"municipalities":["Bagumbayan","Columbio","Esperanza","Isulan","Kalamansig","Lambayong","Lebak","Lutayan","Palimbang","President Quirino","Senator Ninoy Aquino"]}

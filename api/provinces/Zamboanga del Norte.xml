@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Zamboanga del Norte</name>
+  <cities type="array">
+    <city>Dapitan City</city>
+    <city>Dipolog City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Bacungan</municipality>
+    <municipality>Baliguian</municipality>
+    <municipality>Godod</municipality>
+    <municipality>Gutalac</municipality>
+    <municipality>Jose Dalman</municipality>
+    <municipality>Kalawit</municipality>
+    <municipality>Katipunan</municipality>
+    <municipality>La Libertad</municipality>
+    <municipality>Labason</municipality>
+    <municipality>Liloy</municipality>
+    <municipality>Manukan</municipality>
+    <municipality>Mutia</municipality>
+    <municipality>Piñan</municipality>
+    <municipality>Polanco</municipality>
+    <municipality>President Manuel A. Roxas</municipality>
+    <municipality>Rizal</municipality>
+    <municipality>Salug</municipality>
+    <municipality>Sergio Osmeña Sr.</municipality>
+    <municipality>Siayan</municipality>
+    <municipality>Sibuco</municipality>
+    <municipality>Sibutad</municipality>
+    <municipality>Sindangan</municipality>
+    <municipality>Siocon</municipality>
+    <municipality>Sirawai</municipality>
+    <municipality>Tampilisan</municipality>
+  </municipalities>
+</hash>

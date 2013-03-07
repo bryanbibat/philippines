@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Siquijor</name>
+  <cities type="array"/>
+  <municipalities type="array">
+    <municipality>Enrique Villanueva</municipality>
+    <municipality>Larena</municipality>
+    <municipality>Lazi</municipality>
+    <municipality>Maria</municipality>
+    <municipality>San Juan</municipality>
+    <municipality>Siquijor</municipality>
+  </municipalities>
+</hash>

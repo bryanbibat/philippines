@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings type="array">
+  <string>Aborlan, Palawan</string>
+  <string>Abra de Ilog, Occidental Mindoro</string>
+  <string>Abucay, Bataan</string>
+  <string>Abulug, Cagayan</string>
+  <string>Abuyog, Leyte</string>
+  <string>Adams, Ilocos Norte</string>
+  <string>Agdangan, Quezon</string>
+  <string>Aglipay, Quirino</string>
+  <string>Agno, Pangasinan</string>
+  <string>Agoncillo, Batangas</string>
+  <string>Agoo, La Union</string>
+  <string>Aguilar, Pangasinan</string>
+  <string>Aguinaldo, Ifugao</string>
+  <string>Agutaya, Palawan</string>
+  <string>Ajuy, Iloilo</string>
+  <string>Akbar, Basilan</string>
+  <string>Al-Barka, Basilan</string>
+  <string>Alabat, Quezon</string>
+  <string>Alabel, Sarangani</string>
+  <string>Alamada, Cotabato</string>
+  <string>Alaminos, Laguna</string>
+  <string>Alangalang, Leyte</string>
+  <string>Albuera, Leyte</string>
+  <string>Alburquerque, Bohol</string>
+  <string>Alcala, Cagayan</string>
+  <string>Alcala, Pangasinan</string>
+  <string>Alcantara, Cebu</string>
+  <string>Alcantara, Romblon</string>
+  <string>Alcoy, Cebu</string>
+  <string>Alegria, Cebu</string>
+  <string>Alegria, Surigao del Norte</string>
+  <string>Aleosan, Cotabato</string>
+  <string>Alfonso Castaneda, Nueva Vizcaya</string>
+  <string>Alfonso Lista, Ifugao</string>
+  <string>Alfonso, Cavite</string>
+  <string>Aliaga, Nueva Ecija</string>
+  <string>Alicia, Bohol</string>
+  <string>Alicia, Isabela</string>
+  <string>Alicia, Zamboanga Sibugay</string>
+  <string>Alilem, Ilocos Sur</string>
+  <string>Alimodian, Iloilo</string>
+  <string>Alitagtag, Batangas</string>
+  <string>Allacapan, Cagayan</string>
+  <string>Allen, Northern Samar</string>
+  <string>Almagro, Samar</string>
+  <string>Almeria, Biliran</string>
+  <string>Aloguinsan, Cebu</string>
+  <string>Aloran, Misamis Occidental</string>
+  <string>Altavas, Aklan</string>
+  <string>Alubijid, Misamis Oriental</string>
+  <string>Amadeo, Cavite</string>
+  <string>Ambaguio, Nueva Vizcaya</string>
+  <string>Amlan, Negros Oriental</string>
+  <string>Ampatuan, Maguindanao</string>
+  <string>Amulung, Cagayan</string>
+  <string>Anahawan, Southern Leyte</string>
+  <string>Anao, Tarlac</string>
+  <string>Anda, Bohol</string>
+  <string>Anda, Pangasinan</string>
+  <string>Angadanan, Isabela</string>
+  <string>Angat, Bulacan</string>
+  <string>Angono, Rizal</string>
+  <string>Anilao, Iloilo</string>
+  <string>Anini-y, Antique</string>
+  <string>Antequera, Bohol</string>
+  <string>Antipas, Cotabato</string>
+  <string>Apalit, Pampanga</string>
+  <string>Aparri, Cagayan</string>
+  <string>Araceli, Palawan</string>
+  <string>Arakan, Cotabato</string>
+  <string>Arayat, Pampanga</string>
+  <string>Argao, Cebu</string>
+  <string>Aringay, La Union</string>
+  <string>Aritao, Nueva Vizcaya</string>
+  <string>Aroroy, Masbate</string>
+  <string>Arteche, Eastern Samar</string>
+  <string>Asingan, Pangasinan</string>
+  <string>Asipulo, Ifugao</string>
+  <string>Asturias, Cebu</string>
+  <string>Asuncion, Davao del Norte</string>
+  <string>Atimonan, Quezon</string>
+  <string>Atok, Benguet</string>
+  <string>Aurora, Isabela</string>
+  <string>Aurora, Zamboanga del Sur</string>
+  <string>Ayungon, Negros Oriental</string>
+  <string>Baao, Camarines Sur</string>
+  <string>Babatngon, Leyte</string>
+  <string>Bacacay, Albay</string>
+  <string>Bacarra, Ilocos Norte</string>
+  <string>Baclayon, Bohol</string>
+  <string>Bacnotan, La Union</string>
+  <string>Baco, Oriental Mindoro</string>
+  <string>Bacolod, Lanao del Norte</string>
+  <string>Bacolod-Kalawi, Lanao del Sur</string>
+  <string>Bacolor, Pampanga</string>
+  <string>Bacong, Negros Oriental</string>
+  <string>Bacuag, Surigao del Norte</string>
+  <string>Bacungan, Zamboanga del Norte</string>
+  <string>Badian, Cebu</string>
+  <string>Badiangan, Iloilo</string>
+  <string>Badoc, Ilocos Norte</string>
+  <string>Bagabag, Nueva Vizcaya</string>
+  <string>Bagac, Bataan</string>
+  <string>Bagamanoc, Catanduanes</string>
+  <string>Baganga, Davao Oriental</string>
+  <string>Baggao, Cagayan</string>
+  <string>Bagulin, La Union</string>
+  <string>Bagumbayan, Sultan Kudarat</string>
+  <string>Bakun, Benguet</string>
+  <string>Balabac, Palawan</string>
+  <string>Balabagan, Lanao del Sur</string>
+  <string>Balagtas, Bulacan</string>
+  <string>Balamban, Cebu</string>
+  <string>Balangiga, Eastern Samar</string>
+  <string>Balangkayan, Eastern Samar</string>
+  <string>Balaoan, La Union</string>
+  <string>Balasan, Iloilo</string>
+  <string>Balatan, Camarines Sur</string>
+  <string>Balayan, Batangas</string>
+  <string>Balbalan, Kalinga</string>
+  <string>Baleno, Masbate</string>
+  <string>Baler, Aurora</string>
+  <string>Balete, Aklan</string>
+  <string>Balete, Batangas</string>
+  <string>Baliangao, Misamis Occidental</string>
+  <string>Baliguian, Zamboanga del Norte</string>
+  <string>Balilihan, Bohol</string>
+  <string>Balindong, Lanao del Sur</string>
+  <string>Balingasag, Misamis Oriental</string>
+  <string>Balingoan, Misamis Oriental</string>
+  <string>Baliuag, Bulacan</string>
+  <string>Ballesteros, Cagayan</string>
+  <string>Baloi, Lanao del Norte</string>
+  <string>Balud, Masbate</string>
+  <string>Balungao, Pangasinan</string>
+  <string>Bamban, Tarlac</string>
+  <string>Bambang, Nueva Vizcaya</string>
+  <string>Banate, Iloilo</string>
+  <string>Banaue, Ifugao</string>
+  <string>Banaybanay, Davao Oriental</string>
+  <string>Banayoyo, Ilocos Sur</string>
+  <string>Banga, Aklan</string>
+  <string>Banga, South Cotabato</string>
+  <string>Bangar, La Union</string>
+  <string>Bangued, Abra</string>
+  <string>Bangui, Ilocos Norte</string>
+  <string>Banguingui, Sulu</string>
+  <string>Bani, Pangasinan</string>
+  <string>Banisilan, Cotabato</string>
+  <string>Banna, Ilocos Norte</string>
+  <string>Bansalan, Davao del Sur</string>
+  <string>Bansud, Oriental Mindoro</string>
+  <string>Bantay, Ilocos Sur</string>
+  <string>Bantayan, Cebu</string>
+  <string>Banton, Romblon</string>
+  <string>Baras, Catanduanes</string>
+  <string>Baras, Rizal</string>
+  <string>Barbaza, Antique</string>
+  <string>Barcelona, Sorsogon</string>
+  <string>Barili, Cebu</string>
+  <string>Barira, Maguindanao</string>
+  <string>Barlig, Mountain Province</string>
+  <string>Barobo, Surigao del Sur</string>
+  <string>Barotac Nuevo, Iloilo</string>
+  <string>Barotac Viejo, Iloilo</string>
+  <string>Baroy, Lanao del Norte</string>
+  <string>Barugo, Leyte</string>
+  <string>Basay, Negros Oriental</string>
+  <string>Basco, Batanes</string>
+  <string>Basey, Samar</string>
+  <string>Basilisa (Rizal), Dinagat Islands</string>
+  <string>Basilisa, Surigao del Norte</string>
+  <string>Basista, Pangasinan</string>
+  <string>Basud, Camarines Norte</string>
+  <string>Batad, Iloilo</string>
+  <string>Batan, Aklan</string>
+  <string>Bataraza, Palawan</string>
+  <string>Bato, Camarines Sur</string>
+  <string>Bato, Catanduanes</string>
+  <string>Bato, Leyte</string>
+  <string>Batuan, Bohol</string>
+  <string>Batuan, Masbate</string>
+  <string>Bauan, Batangas</string>
+  <string>Bauang, La Union</string>
+  <string>Bauko, Mountain Province</string>
+  <string>Baungon, Bukidnon</string>
+  <string>Bautista, Pangasinan</string>
+  <string>Bay, Laguna</string>
+  <string>Bayabas, Surigao del Sur</string>
+  <string>Bayambang, Pangasinan</string>
+  <string>Bayang, Lanao del Sur</string>
+  <string>Bayog, Zamboanga del Sur</string>
+  <string>Bayombong, Nueva Vizcaya</string>
+  <string>Belison, Antique</string>
+  <string>Benito Soliven, Isabela</string>
+  <string>Besao, Mountain Province</string>
+  <string>Bien Unido, Bohol</string>
+  <string>Bilar, Bohol</string>
+  <string>Biliran, Biliran</string>
+  <string>Binalbagan, Negros Occidental</string>
+  <string>Binalonan, Pangasinan</string>
+  <string>Binangonan, Rizal</string>
+  <string>Bindoy, Negros Oriental</string>
+  <string>Bingawan, Iloilo</string>
+  <string>Binidayan, Lanao del Sur</string>
+  <string>Binmaley, Pangasinan</string>
+  <string>Binuangan, Misamis Oriental</string>
+  <string>Biri, Northern Samar</string>
+  <string>Boac, Marinduque</string>
+  <string>Bobon, Northern Samar</string>
+  <string>Bocaue, Bulacan</string>
+  <string>Bokod, Benguet</string>
+  <string>Bolinao, Pangasinan</string>
+  <string>Boliney, Abra</string>
+  <string>Boljoon, Cebu</string>
+  <string>Bombon, Camarines Sur</string>
+  <string>Bongabon, Nueva Ecija</string>
+  <string>Bongabong, Oriental Mindoro</string>
+  <string>Bongao, Tawi-Tawi</string>
+  <string>Bonifacio, Misamis Occidental</string>
+  <string>Bontoc, Mountain Province</string>
+  <string>Bontoc, Southern Leyte</string>
+  <string>Borbon, Cebu</string>
+  <string>Boston, Davao Oriental</string>
+  <string>Botolan, Zambales</string>
+  <string>Braulio E. Dujali, Davao del Norte</string>
+  <string>Brooke's Point, Palawan</string>
+  <string>Buadiposo-Buntong, Lanao del Sur</string>
+  <string>Bubong, Lanao del Sur</string>
+  <string>Bucay, Abra</string>
+  <string>Bucloc, Abra</string>
+  <string>Buenavista, Agusan del Norte</string>
+  <string>Buenavista, Bohol</string>
+  <string>Buenavista, Guimaras</string>
+  <string>Buenavista, Marinduque</string>
+  <string>Buenavista, Quezon</string>
+  <string>Bugallon, Pangasinan</string>
+  <string>Bugasong, Antique</string>
+  <string>Buguey, Cagayan</string>
+  <string>Buguias, Benguet</string>
+  <string>Buhi, Camarines Sur</string>
+  <string>Bula, Camarines Sur</string>
+  <string>Bulacan, Bulacan</string>
+  <string>Bulalacao, Oriental Mindoro</string>
+  <string>Bulan, Sorsogon</string>
+  <string>Buldon, Maguindanao</string>
+  <string>Buluan, Maguindanao</string>
+  <string>Bulusan, Sorsogon</string>
+  <string>Bumbaran, Lanao del Sur</string>
+  <string>Bunawan, Agusan del Sur</string>
+  <string>Burauen, Leyte</string>
+  <string>Burdeos, Quezon</string>
+  <string>Burgos, Ilocos Norte</string>
+  <string>Burgos, Ilocos Sur</string>
+  <string>Burgos, Isabela</string>
+  <string>Burgos, La Union</string>
+  <string>Burgos, Pangasinan</string>
+  <string>Burgos, Surigao del Norte</string>
+  <string>Buruanga, Aklan</string>
+  <string>Bustos, Bulacan</string>
+  <string>Busuanga, Palawan</string>
+  <string>Butig, Lanao del Sur</string>
+  <string>Buug, Zamboanga Sibugay</string>
+  <string>Caba, La Union</string>
+  <string>Cabagan, Isabela</string>
+  <string>Cabangan, Zambales</string>
+  <string>Cabanglasan, Bukidnon</string>
+  <string>Cabarroguis, Quirino</string>
+  <string>Cabatuan, Iloilo</string>
+  <string>Cabatuan, Isabela</string>
+  <string>Cabiao, Nueva Ecija</string>
+  <string>Cabucgayan, Biliran</string>
+  <string>Cabugao, Ilocos Sur</string>
+  <string>Cabusao, Camarines Sur</string>
+  <string>Cagayancillo, Palawan</string>
+  <string>Cagdianao, Dinagat Islands</string>
+  <string>Cagdianao, Surigao del Norte</string>
+  <string>Cagwait, Surigao del Sur</string>
+  <string>Caibiran, Biliran</string>
+  <string>Cainta, Rizal</string>
+  <string>Cajidiocan, Romblon</string>
+  <string>Calabanga, Camarines Sur</string>
+  <string>Calaca, Batangas</string>
+  <string>Calamba, Misamis Occidental</string>
+  <string>Calanasan, Apayao</string>
+  <string>Calanogas, Lanao del Sur</string>
+  <string>Calape, Bohol</string>
+  <string>Calasiao, Pangasinan</string>
+  <string>Calatagan, Batangas</string>
+  <string>Calatrava, Negros Occidental</string>
+  <string>Calatrava, Romblon</string>
+  <string>Calauag, Quezon</string>
+  <string>Calauan, Laguna</string>
+  <string>Calayan, Cagayan</string>
+  <string>Calbiga, Samar</string>
+  <string>Calinog, Iloilo</string>
+  <string>Calintaan, Occidental Mindoro</string>
+  <string>Calubian, Leyte</string>
+  <string>Calumpit, Bulacan</string>
+  <string>Caluya, Antique</string>
+  <string>Camalaniugan, Cagayan</string>
+  <string>Camalig, Albay</string>
+  <string>Camaligan, Camarines Sur</string>
+  <string>Camiling, Tarlac</string>
+  <string>Can-avid, Eastern Samar</string>
+  <string>Canaman, Camarines Sur</string>
+  <string>Candaba, Pampanga</string>
+  <string>Candelaria, Quezon</string>
+  <string>Candelaria, Zambales</string>
+  <string>Candijay, Bohol</string>
+  <string>Candoni, Negros Occidental</string>
+  <string>Cantilan, Surigao del Sur</string>
+  <string>Caoayan, Ilocos Sur</string>
+  <string>Capalonga, Camarines Norte</string>
+  <string>Capas, Tarlac</string>
+  <string>Capoocan, Leyte</string>
+  <string>Capul, Northern Samar</string>
+  <string>Caraga, Davao Oriental</string>
+  <string>Caramoan, Camarines Sur</string>
+  <string>Caramoran, Catanduanes</string>
+  <string>Carasi, Ilocos Norte</string>
+  <string>Cardona, Rizal</string>
+  <string>Carigara, Leyte</string>
+  <string>Carles, Iloilo</string>
+  <string>Carmen, Agusan del Norte</string>
+  <string>Carmen, Bohol</string>
+  <string>Carmen, Cebu</string>
+  <string>Carmen, Cotabato</string>
+  <string>Carmen, Davao del Norte</string>
+  <string>Carmen, Surigao del Sur</string>
+  <string>Carmona, Cavite</string>
+  <string>Carranglan, Nueva Ecija</string>
+  <string>Carrascal, Surigao del Sur</string>
+  <string>Casiguran, Aurora</string>
+  <string>Casiguran, Sorsogon</string>
+  <string>Castilla, Sorsogon</string>
+  <string>Castillejos, Zambales</string>
+  <string>Cataingan, Masbate</string>
+  <string>Catanauan, Quezon</string>
+  <string>Catarman, Camiguin</string>
+  <string>Catarman, Northern Samar</string>
+  <string>Cateel, Davao Oriental</string>
+  <string>Catigbian, Bohol</string>
+  <string>Catmon, Cebu</string>
+  <string>Catubig, Northern Samar</string>
+  <string>Cauayan, Negros Occidental</string>
+  <string>Cavinti, Laguna</string>
+  <string>Cawayan, Masbate</string>
+  <string>Cervantes, Ilocos Sur</string>
+  <string>Clarin, Bohol</string>
+  <string>Clarin, Misamis Occidental</string>
+  <string>Claver, Surigao del Norte</string>
+  <string>Claveria, Cagayan</string>
+  <string>Claveria, Masbate</string>
+  <string>Claveria, Misamis Oriental</string>
+  <string>Columbio, Sultan Kudarat</string>
+  <string>Compostela, Cebu</string>
+  <string>Compostela, Compostela Valley</string>
+  <string>Concepcion, Iloilo</string>
+  <string>Concepcion, Misamis Occidental</string>
+  <string>Concepcion, Romblon</string>
+  <string>Concepcion, Tarlac</string>
+  <string>Conner, Apayao</string>
+  <string>Consolacion, Cebu</string>
+  <string>Corcuera, Romblon</string>
+  <string>Cordoba, Cebu</string>
+  <string>Cordon, Isabela</string>
+  <string>Corella, Bohol</string>
+  <string>Coron, Palawan</string>
+  <string>Cortes, Bohol</string>
+  <string>Cortes, Surigao del Sur</string>
+  <string>Cuartero, Capiz</string>
+  <string>Cuenca, Batangas</string>
+  <string>Culaba, Biliran</string>
+  <string>Culasi, Antique</string>
+  <string>Culion, Palawan</string>
+  <string>Currimao, Ilocos Norte</string>
+  <string>Cuyapo, Nueva Ecija</string>
+  <string>Cuyo, Palawan</string>
+  <string>Daanbantayan, Cebu</string>
+  <string>Daet, Camarines Norte</string>
+  <string>Dagami, Leyte</string>
+  <string>Dagohoy, Bohol</string>
+  <string>Daguioman, Abra</string>
+  <string>Dalaguete, Cebu</string>
+  <string>Damulog, Bukidnon</string>
+  <string>Danao, Bohol</string>
+  <string>Dangcagan, Bukidnon</string>
+  <string>Danglas, Abra</string>
+  <string>Dao, Capiz</string>
+  <string>Dapa, Surigao del Norte</string>
+  <string>Daraga, Albay</string>
+  <string>Daram, Samar</string>
+  <string>Dasol, Pangasinan</string>
+  <string>Datu Abdullah Sangki, Maguindanao</string>
+  <string>Datu Anggal Midtimbang, Maguindanao</string>
+  <string>Datu Blah T. Sinsuat, Maguindanao</string>
+  <string>Datu Hoffer Ampatuan, Maguindanao</string>
+  <string>Datu Montawal, Maguindanao</string>
+  <string>Datu Odin Sinsuat, Maguindanao</string>
+  <string>Datu Paglas, Maguindanao</string>
+  <string>Datu Piang, Maguindanao</string>
+  <string>Datu Salibo, Maguindanao</string>
+  <string>Datu Saudi-Ampatuan, Maguindanao</string>
+  <string>Datu Unsay, Maguindanao</string>
+  <string>Dauin, Negros Oriental</string>
+  <string>Dauis, Bohol</string>
+  <string>Del Carmen, Surigao del Norte</string>
+  <string>Del Gallego, Camarines Sur</string>
+  <string>Delfin Albano, Isabela</string>
+  <string>Diadi, Nueva Vizcaya</string>
+  <string>Diffun, Quirino</string>
+  <string>Dilasag, Aurora</string>
+  <string>Dimasalang, Masbate</string>
+  <string>Dimataling, Zamboanga del Sur</string>
+  <string>Dimiao, Bohol</string>
+  <string>Dinagat, Dinagat Islands</string>
+  <string>Dinagat, Surigao del Norte</string>
+  <string>Dinalungan, Aurora</string>
+  <string>Dinalupihan, Bataan</string>
+  <string>Dinapigue, Isabela</string>
+  <string>Dinas, Zamboanga del Sur</string>
+  <string>Dingalan, Aurora</string>
+  <string>Dingle, Iloilo</string>
+  <string>Dingras, Ilocos Norte</string>
+  <string>Dipaculao, Aurora</string>
+  <string>Diplahan, Zamboanga Sibugay</string>
+  <string>Ditsaan-Ramain, Lanao del Sur</string>
+  <string>Divilacan, Isabela</string>
+  <string>Dolores, Abra</string>
+  <string>Dolores, Eastern Samar</string>
+  <string>Dolores, Quezon</string>
+  <string>Don Carlos, Bukidnon</string>
+  <string>Don Marcelino, Davao del Sur</string>
+  <string>Don Victoriano Chiongbian, Misamis Occidental</string>
+  <string>Donsol, Sorsogon</string>
+  <string>Doña Remedios Trinidad, Bulacan</string>
+  <string>Duero, Bohol</string>
+  <string>Dueñas, Iloilo</string>
+  <string>Dulag, Leyte</string>
+  <string>Dumalag, Capiz</string>
+  <string>Dumalinao, Zamboanga del Sur</string>
+  <string>Dumalneg, Ilocos Norte</string>
+  <string>Dumangas, Iloilo</string>
+  <string>Dumanjug, Cebu</string>
+  <string>Dumaran, Palawan</string>
+  <string>Dumarao, Capiz</string>
+  <string>Dumingag, Zamboanga del Sur</string>
+  <string>Dupax del Norte, Nueva Vizcaya</string>
+  <string>Dupax del Sur, Nueva Vizcaya</string>
+  <string>Echague, Isabela</string>
+  <string>El Nido, Palawan</string>
+  <string>Enrile, Cagayan</string>
+  <string>Enrique B. Magalona, Negros Occidental</string>
+  <string>Enrique Villanueva, Siquijor</string>
+  <string>Esperanza, Agusan del Sur</string>
+  <string>Esperanza, Masbate</string>
+  <string>Esperanza, Sultan Kudarat</string>
+  <string>Estancia, Iloilo</string>
+  <string>Famy, Laguna</string>
+  <string>Ferrol, Romblon</string>
+  <string>Flora, Apayao</string>
+  <string>Floridablanca, Pampanga</string>
+  <string>Gabaldon, Nueva Ecija</string>
+  <string>Gainza, Camarines Sur</string>
+  <string>Galimuyod, Ilocos Sur</string>
+  <string>Gamay, Northern Samar</string>
+  <string>Gamu, Isabela</string>
+  <string>Ganassi, Lanao del Sur</string>
+  <string>Gandara, Samar</string>
+  <string>Garchitorena, Camarines Sur</string>
+  <string>Garcia Hernandez, Bohol</string>
+  <string>Gasan, Marinduque</string>
+  <string>Gattaran, Cagayan</string>
+  <string>General Emilio Aguinaldo, Cavite</string>
+  <string>General Luna, Quezon</string>
+  <string>General Luna, Surigao del Norte</string>
+  <string>General MacArthur, Eastern Samar</string>
+  <string>General Mamerto Natividad, Nueva Ecija</string>
+  <string>General Mariano Alvarez, Cavite</string>
+  <string>General Nakar, Quezon</string>
+  <string>General Salipada K. Pendatun, Maguindanao</string>
+  <string>General Tinio, Nueva Ecija</string>
+  <string>General Trias, Cavite</string>
+  <string>Gerona, Tarlac</string>
+  <string>Getafe, Bohol</string>
+  <string>Gigaquit, Surigao del Norte</string>
+  <string>Gigmoto, Catanduanes</string>
+  <string>Ginatilan, Cebu</string>
+  <string>Giporlos, Eastern Samar</string>
+  <string>Gitagum, Misamis Oriental</string>
+  <string>Glan, Sarangani</string>
+  <string>Gloria, Oriental Mindoro</string>
+  <string>Goa, Camarines Sur</string>
+  <string>Godod, Zamboanga del Norte</string>
+  <string>Gonzaga, Cagayan</string>
+  <string>Governor Generoso, Davao Oriental</string>
+  <string>Gregorio Del Pilar, Ilocos Sur</string>
+  <string>Guagua, Pampanga</string>
+  <string>Gubat, Sorsogon</string>
+  <string>Guiguinto, Bulacan</string>
+  <string>Guimba, Nueva Ecija</string>
+  <string>Guimbal, Iloilo</string>
+  <string>Guinayangan, Quezon</string>
+  <string>Guindulman, Bohol</string>
+  <string>Guindulungan, Maguindanao</string>
+  <string>Guinobatan, Albay</string>
+  <string>Guinsiliban, Camiguin</string>
+  <string>Guipos, Zamboanga del Sur</string>
+  <string>Guiuan, Eastern Samar</string>
+  <string>Gumaca, Quezon</string>
+  <string>Gutalac, Zamboanga del Norte</string>
+  <string>Hadji Mohammad Ajul, Basilan</string>
+  <string>Hadji Muhtamad, Basilan</string>
+  <string>Hadji Panglima Tahil, Sulu</string>
+  <string>Hagonoy, Bulacan</string>
+  <string>Hagonoy, Davao del Sur</string>
+  <string>Hamtic, Antique</string>
+  <string>Hermosa, Bataan</string>
+  <string>Hernani, Eastern Samar</string>
+  <string>Hilongos, Leyte</string>
+  <string>Hinabangan, Samar</string>
+  <string>Hinatuan, Surigao del Sur</string>
+  <string>Hindang, Leyte</string>
+  <string>Hingyon, Ifugao</string>
+  <string>Hinigaran, Negros Occidental</string>
+  <string>Hinoba-an, Negros Occidental</string>
+  <string>Hinunangan, Southern Leyte</string>
+  <string>Hinundayan, Southern Leyte</string>
+  <string>Hungduan, Ifugao</string>
+  <string>Iba, Zambales</string>
+  <string>Ibaan, Batangas</string>
+  <string>Ibajay, Aklan</string>
+  <string>Igbaras, Iloilo</string>
+  <string>Iguig, Cagayan</string>
+  <string>Ilog, Negros Occidental</string>
+  <string>Imelda, Zamboanga Sibugay</string>
+  <string>Impasug-ong, Bukidnon</string>
+  <string>Inabanga, Bohol</string>
+  <string>Indanan, Sulu</string>
+  <string>Indang, Cavite</string>
+  <string>Infanta, Pangasinan</string>
+  <string>Infanta, Quezon</string>
+  <string>Initao, Misamis Oriental</string>
+  <string>Inopacan, Leyte</string>
+  <string>Ipil, Zamboanga Sibugay</string>
+  <string>Irosin, Sorsogon</string>
+  <string>Isabel, Leyte</string>
+  <string>Isabela, Negros Occidental</string>
+  <string>Isulan, Sultan Kudarat</string>
+  <string>Itbayat, Batanes</string>
+  <string>Itogon, Benguet</string>
+  <string>Ivana, Batanes</string>
+  <string>Ivisan, Capiz</string>
+  <string>Jabonga, Agusan del Norte</string>
+  <string>Jaen, Nueva Ecija</string>
+  <string>Jagna, Bohol</string>
+  <string>Jalajala, Rizal</string>
+  <string>Jamindan, Capiz</string>
+  <string>Janiuay, Iloilo</string>
+  <string>Jaro, Leyte</string>
+  <string>Jasaan, Misamis Oriental</string>
+  <string>Javier, Leyte</string>
+  <string>Jiabong, Samar</string>
+  <string>Jimalalud, Negros Oriental</string>
+  <string>Jimenez, Misamis Occidental</string>
+  <string>Jipapad, Eastern Samar</string>
+  <string>Jolo, Sulu</string>
+  <string>Jomalig, Quezon</string>
+  <string>Jones, Isabela</string>
+  <string>Jordan, Guimaras</string>
+  <string>Jose Abad Santos, Davao del Sur</string>
+  <string>Jose Dalman, Zamboanga del Norte</string>
+  <string>Jose Panganiban, Camarines Norte</string>
+  <string>Josefina, Zamboanga del Sur</string>
+  <string>Jovellar, Albay</string>
+  <string>Juban, Sorsogon</string>
+  <string>Julita, Leyte</string>
+  <string>Kabacan, Cotabato</string>
+  <string>Kabasalan, Zamboanga Sibugay</string>
+  <string>Kabayan, Benguet</string>
+  <string>Kabugao, Apayao</string>
+  <string>Kabuntalan, Maguindanao</string>
+  <string>Kadingilan, Bukidnon</string>
+  <string>Kalamansig, Sultan Kudarat</string>
+  <string>Kalawit, Zamboanga del Norte</string>
+  <string>Kalayaan, Laguna</string>
+  <string>Kalayaan, Palawan</string>
+  <string>Kalibo, Aklan</string>
+  <string>Kalilangan, Bukidnon</string>
+  <string>Kalingalan Caluang, Sulu</string>
+  <string>Kananga, Leyte</string>
+  <string>Kapai, Lanao del Sur</string>
+  <string>Kapalong, Davao del Norte</string>
+  <string>Kapangan, Benguet</string>
+  <string>Kapatagan, Lanao del Norte</string>
+  <string>Kapatagan, Lanao del Sur</string>
+  <string>Kasibu, Nueva Vizcaya</string>
+  <string>Katipunan, Zamboanga del Norte</string>
+  <string>Kauswagan, Lanao del Norte</string>
+  <string>Kawayan, Biliran</string>
+  <string>Kawit, Cavite</string>
+  <string>Kayapa, Nueva Vizcaya</string>
+  <string>Kiamba, Sarangani</string>
+  <string>Kiangan, Ifugao</string>
+  <string>Kibawe, Bukidnon</string>
+  <string>Kiblawan, Davao del Sur</string>
+  <string>Kibungan, Benguet</string>
+  <string>Kinoguitan, Misamis Oriental</string>
+  <string>Kitaotao, Bukidnon</string>
+  <string>Kitcharao, Agusan del Norte</string>
+  <string>Kolambugan, Lanao del Norte</string>
+  <string>Kumalarang, Zamboanga del Sur</string>
+  <string>La Castellana, Negros Occidental</string>
+  <string>La Libertad, Negros Oriental</string>
+  <string>La Libertad, Zamboanga del Norte</string>
+  <string>La Paz, Abra</string>
+  <string>La Paz, Agusan del Sur</string>
+  <string>La Paz, Leyte</string>
+  <string>La Paz, Tarlac</string>
+  <string>La Trinidad, Benguet</string>
+  <string>Laak, Compostela Valley</string>
+  <string>Labangan, Zamboanga del Sur</string>
+  <string>Labason, Zamboanga del Norte</string>
+  <string>Labo, Camarines Norte</string>
+  <string>Labrador, Pangasinan</string>
+  <string>Lacub, Abra</string>
+  <string>Lagangilang, Abra</string>
+  <string>Lagawe, Ifugao</string>
+  <string>Lagayan, Abra</string>
+  <string>Lagonglong, Misamis Oriental</string>
+  <string>Lagonoy, Camarines Sur</string>
+  <string>Laguindingan, Misamis Oriental</string>
+  <string>Lake Sebu, South Cotabato</string>
+  <string>Lakewood, Zamboanga del Sur</string>
+  <string>Lal-lo, Cagayan</string>
+  <string>Lala, Lanao del Norte</string>
+  <string>Lambayong, Sultan Kudarat</string>
+  <string>Lambunao, Iloilo</string>
+  <string>Lamut, Ifugao</string>
+  <string>Langiden, Abra</string>
+  <string>Languyan, Tawi-Tawi</string>
+  <string>Lantapan, Bukidnon</string>
+  <string>Lantawan, Basilan</string>
+  <string>Lanuza, Surigao del Sur</string>
+  <string>Laoac, Pangasinan</string>
+  <string>Laoang, Northern Samar</string>
+  <string>Lapinig, Northern Samar</string>
+  <string>Lapuyan, Zamboanga del Sur</string>
+  <string>Larena, Siquijor</string>
+  <string>Las Navas, Northern Samar</string>
+  <string>Las Nieves, Agusan del Norte</string>
+  <string>Lasam, Cagayan</string>
+  <string>Laua-an, Antique</string>
+  <string>Laur, Nueva Ecija</string>
+  <string>Laurel, Batangas</string>
+  <string>Lavezares, Northern Samar</string>
+  <string>Lawaan, Eastern Samar</string>
+  <string>Lazi, Siquijor</string>
+  <string>Lebak, Sultan Kudarat</string>
+  <string>Leganes, Iloilo</string>
+  <string>Lemery, Batangas</string>
+  <string>Lemery, Iloilo</string>
+  <string>Leon, Iloilo</string>
+  <string>Leyte, Leyte</string>
+  <string>Lezo, Aklan</string>
+  <string>Lian, Batangas</string>
+  <string>Lianga, Surigao del Sur</string>
+  <string>Libacao, Aklan</string>
+  <string>Libagon, Southern Leyte</string>
+  <string>Libertad, Antique</string>
+  <string>Libertad, Misamis Oriental</string>
+  <string>Libjo (Albor), Dinagat Islands</string>
+  <string>Libjo, Surigao del Norte</string>
+  <string>Libmanan, Camarines Sur</string>
+  <string>Libon, Albay</string>
+  <string>Libona, Bukidnon</string>
+  <string>Libungan, Cotabato</string>
+  <string>Licab, Nueva Ecija</string>
+  <string>Licuan-Baay, Abra</string>
+  <string>Lidlidda, Ilocos Sur</string>
+  <string>Lila, Bohol</string>
+  <string>Liliw, Laguna</string>
+  <string>Liloan, Cebu</string>
+  <string>Liloan, Southern Leyte</string>
+  <string>Liloy, Zamboanga del Norte</string>
+  <string>Limasawa, Southern Leyte</string>
+  <string>Limay, Bataan</string>
+  <string>Linamon, Lanao del Norte</string>
+  <string>Linapacan, Palawan</string>
+  <string>Lingayen, Pangasinan</string>
+  <string>Lingig, Surigao del Sur</string>
+  <string>Llanera, Nueva Ecija</string>
+  <string>Llorente, Eastern Samar</string>
+  <string>Loay, Bohol</string>
+  <string>Lobo, Batangas</string>
+  <string>Loboc, Bohol</string>
+  <string>Looc, Occidental Mindoro</string>
+  <string>Looc, Romblon</string>
+  <string>Loon, Bohol</string>
+  <string>Lope de Vega, Northern Samar</string>
+  <string>Lopez Jaena, Misamis Occidental</string>
+  <string>Lopez, Quezon</string>
+  <string>Loreto, Agusan del Sur</string>
+  <string>Loreto, Dinagat Islands</string>
+  <string>Loreto, Surigao del Norte</string>
+  <string>Los Baños, Laguna</string>
+  <string>Luba, Abra</string>
+  <string>Lubang, Occidental Mindoro</string>
+  <string>Lubao, Pampanga</string>
+  <string>Lubuagan, Kalinga</string>
+  <string>Lucban, Quezon</string>
+  <string>Lugait, Misamis Oriental</string>
+  <string>Lugus, Sulu</string>
+  <string>Luisiana, Laguna</string>
+  <string>Lumba-Bayabao, Lanao del Sur</string>
+  <string>Lumbaca-Unayan, Lanao del Sur</string>
+  <string>Lumban, Laguna</string>
+  <string>Lumbatan, Lanao del Sur</string>
+  <string>Lumbayanague, Lanao del Sur</string>
+  <string>Luna, Apayao</string>
+  <string>Luna, Isabela</string>
+  <string>Luna, La Union</string>
+  <string>Lupao, Nueva Ecija</string>
+  <string>Lupi, Camarines Sur</string>
+  <string>Lupon, Davao Oriental</string>
+  <string>Lutayan, Sultan Kudarat</string>
+  <string>Luuk, Sulu</string>
+  <string>M'lang, Cotabato</string>
+  <string>Ma-ayon, Capiz</string>
+  <string>Maasim, Sarangani</string>
+  <string>Maasin, Iloilo</string>
+  <string>Mabinay, Negros Oriental</string>
+  <string>Mabini, Batangas</string>
+  <string>Mabini, Bohol</string>
+  <string>Mabini, Compostela Valley</string>
+  <string>Mabini, Pangasinan</string>
+  <string>Mabitac, Laguna</string>
+  <string>Mabuhay, Zamboanga Sibugay</string>
+  <string>MacArthur, Leyte</string>
+  <string>Macabebe, Pampanga</string>
+  <string>Macalelon, Quezon</string>
+  <string>Maco, Compostela Valley</string>
+  <string>Maconacon, Isabela</string>
+  <string>Macrohon, Southern Leyte</string>
+  <string>Madalag, Aklan</string>
+  <string>Madalum, Lanao del Sur</string>
+  <string>Madamba, Lanao del Sur</string>
+  <string>Maddela, Quirino</string>
+  <string>Madrid, Surigao del Sur</string>
+  <string>Madridejos, Cebu</string>
+  <string>Magalang, Pampanga</string>
+  <string>Magallanes, Agusan del Norte</string>
+  <string>Magallanes, Cavite</string>
+  <string>Magallanes, Sorsogon</string>
+  <string>Magarao, Camarines Sur</string>
+  <string>Magdalena, Laguna</string>
+  <string>Magdiwang, Romblon</string>
+  <string>Magpet, Cotabato</string>
+  <string>Magsaysay, Davao del Sur</string>
+  <string>Magsaysay, Lanao del Norte</string>
+  <string>Magsaysay, Misamis Oriental</string>
+  <string>Magsaysay, Occidental Mindoro</string>
+  <string>Magsaysay, Palawan</string>
+  <string>Magsingal, Ilocos Sur</string>
+  <string>Maguing, Lanao del Sur</string>
+  <string>Mahaplag, Leyte</string>
+  <string>Mahatao, Batanes</string>
+  <string>Mahayag, Zamboanga del Sur</string>
+  <string>Mahinog, Camiguin</string>
+  <string>Maigo, Lanao del Norte</string>
+  <string>Maimbung, Sulu</string>
+  <string>Mainit, Surigao del Norte</string>
+  <string>Maitum, Sarangani</string>
+  <string>Majayjay, Laguna</string>
+  <string>Makato, Aklan</string>
+  <string>Makilala, Cotabato</string>
+  <string>Malabang, Lanao del Sur</string>
+  <string>Malabuyoc, Cebu</string>
+  <string>Malalag, Davao del Sur</string>
+  <string>Malangas, Zamboanga Sibugay</string>
+  <string>Malapatan, Sarangani</string>
+  <string>Malasiqui, Pangasinan</string>
+  <string>Malay, Aklan</string>
+  <string>Malibcong, Abra</string>
+  <string>Malilipot, Albay</string>
+  <string>Malimono, Surigao del Norte</string>
+  <string>Malinao, Aklan</string>
+  <string>Malinao, Albay</string>
+  <string>Malita, Davao del Sur</string>
+  <string>Malitbog, Bukidnon</string>
+  <string>Malitbog, Southern Leyte</string>
+  <string>Mallig, Isabela</string>
+  <string>Malungon, Sarangani</string>
+  <string>Maluso, Basilan</string>
+  <string>Malvar, Batangas</string>
+  <string>Mamasapano, Maguindanao</string>
+  <string>Mambajao, Camiguin</string>
+  <string>Mamburao, Occidental Mindoro</string>
+  <string>Mambusao, Capiz</string>
+  <string>Manabo, Abra</string>
+  <string>Manaoag, Pangasinan</string>
+  <string>Manapla, Negros Occidental</string>
+  <string>Manay, Davao Oriental</string>
+  <string>Mandaon, Masbate</string>
+  <string>Mangaldan, Pangasinan</string>
+  <string>Mangatarem, Pangasinan</string>
+  <string>Mangudadatu, Maguindanao</string>
+  <string>Manito, Albay</string>
+  <string>Manjuyod, Negros Oriental</string>
+  <string>Mankayan, Benguet</string>
+  <string>Manolo Fortich, Bukidnon</string>
+  <string>Mansalay, Oriental Mindoro</string>
+  <string>Manticao, Misamis Oriental</string>
+  <string>Manukan, Zamboanga del Norte</string>
+  <string>Mapanas, Northern Samar</string>
+  <string>Mapandan, Pangasinan</string>
+  <string>Mapun, Tawi-Tawi</string>
+  <string>Marabut, Samar</string>
+  <string>Maragondon, Cavite</string>
+  <string>Maragusan, Compostela Valley</string>
+  <string>Maramag, Bukidnon</string>
+  <string>Marantao, Lanao del Sur</string>
+  <string>Marcos, Ilocos Norte</string>
+  <string>Margosatubig, Zamboanga del Sur</string>
+  <string>Maria Aurora, Aurora</string>
+  <string>Maria, Siquijor</string>
+  <string>Maribojoc, Bohol</string>
+  <string>Marihatag, Surigao del Sur</string>
+  <string>Marilao, Bulacan</string>
+  <string>Maripipi, Biliran</string>
+  <string>Mariveles, Bataan</string>
+  <string>Marogong, Lanao del Sur</string>
+  <string>Masantol, Pampanga</string>
+  <string>Masinloc, Zambales</string>
+  <string>Masiu, Lanao del Sur</string>
+  <string>Maslog, Eastern Samar</string>
+  <string>Mataas na Kahoy, Batangas</string>
+  <string>Matag-ob, Leyte</string>
+  <string>Matalam, Cotabato</string>
+  <string>Matalom, Leyte</string>
+  <string>Matanao, Davao del Sur</string>
+  <string>Matanog, Maguindanao</string>
+  <string>Matnog, Sorsogon</string>
+  <string>Matuguinao, Samar</string>
+  <string>Matungao, Lanao del Norte</string>
+  <string>Mauban, Quezon</string>
+  <string>Mawab, Compostela Valley</string>
+  <string>Mayantoc, Tarlac</string>
+  <string>Maydolong, Eastern Samar</string>
+  <string>Mayorga, Leyte</string>
+  <string>Mayoyao, Ifugao</string>
+  <string>Medellin, Cebu</string>
+  <string>Medina, Misamis Oriental</string>
+  <string>Mendez, Cavite</string>
+  <string>Mercedes, Camarines Norte</string>
+  <string>Mercedes, Eastern Samar</string>
+  <string>Merida, Leyte</string>
+  <string>Mexico, Pampanga</string>
+  <string>Miagao, Iloilo</string>
+  <string>Midsalip, Zamboanga del Sur</string>
+  <string>Midsayap, Cotabato</string>
+  <string>Milagros, Masbate</string>
+  <string>Milaor, Camarines Sur</string>
+  <string>Mina, Iloilo</string>
+  <string>Minalabac, Camarines Sur</string>
+  <string>Minalin, Pampanga</string>
+  <string>Minglanilla, Cebu</string>
+  <string>Moalboal, Cebu</string>
+  <string>Mobo, Masbate</string>
+  <string>Mogpog, Marinduque</string>
+  <string>Moises Padilla, Negros Occidental</string>
+  <string>Molave, Zamboanga del Sur</string>
+  <string>Moncada, Tarlac</string>
+  <string>Mondragon, Northern Samar</string>
+  <string>Monkayo, Compostela Valley</string>
+  <string>Monreal, Masbate</string>
+  <string>Montevista, Compostela Valley</string>
+  <string>Morong, Bataan</string>
+  <string>Morong, Rizal</string>
+  <string>Motiong, Samar</string>
+  <string>Mulanay, Quezon</string>
+  <string>Mulondo, Lanao del Sur</string>
+  <string>Munai, Lanao del Norte</string>
+  <string>Murcia, Negros Occidental</string>
+  <string>Mutia, Zamboanga del Norte</string>
+  <string>Naawan, Misamis Oriental</string>
+  <string>Nabas, Aklan</string>
+  <string>Nabua, Camarines Sur</string>
+  <string>Nabunturan, Compostela Valley</string>
+  <string>Naga, Zamboanga Sibugay</string>
+  <string>Nagbukel, Ilocos Sur</string>
+  <string>Nagcarlan, Laguna</string>
+  <string>Nagtipunan, Quirino</string>
+  <string>Naguilian, Isabela</string>
+  <string>Naguilian, La Union</string>
+  <string>Naic, Cavite</string>
+  <string>Nampicuan, Nueva Ecija</string>
+  <string>Narra, Palawan</string>
+  <string>Narvacan, Ilocos Sur</string>
+  <string>Nasipit, Agusan del Norte</string>
+  <string>Nasugbu, Batangas</string>
+  <string>Natividad, Pangasinan</string>
+  <string>Natonin, Mountain Province</string>
+  <string>Naujan, Oriental Mindoro</string>
+  <string>Naval, Biliran</string>
+  <string>New Bataan, Compostela Valley</string>
+  <string>New Corella, Davao del Norte</string>
+  <string>New Lucena, Iloilo</string>
+  <string>New Washington, Aklan</string>
+  <string>Norala, South Cotabato</string>
+  <string>Northern Kabuntalan, Maguindanao</string>
+  <string>Norzagaray, Bulacan</string>
+  <string>Noveleta, Cavite</string>
+  <string>Nueva Era, Ilocos Norte</string>
+  <string>Nueva Valencia, Guimaras</string>
+  <string>Numancia, Aklan</string>
+  <string>Nunungan, Lanao del Norte</string>
+  <string>Oas, Albay</string>
+  <string>Obando, Bulacan</string>
+  <string>Ocampo, Camarines Sur</string>
+  <string>Odiongan, Romblon</string>
+  <string>Old Panamao, Sulu</string>
+  <string>Olutanga, Zamboanga Sibugay</string>
+  <string>Omar, Sulu</string>
+  <string>Opol, Misamis Oriental</string>
+  <string>Orani, Bataan</string>
+  <string>Oras, Eastern Samar</string>
+  <string>Orion, Bataan</string>
+  <string>Oslob, Cebu</string>
+  <string>Oton, Iloilo</string>
+  <string>Padada, Davao del Sur</string>
+  <string>Padre Burgos, Quezon</string>
+  <string>Padre Burgos, Southern Leyte</string>
+  <string>Padre Garcia, Batangas</string>
+  <string>Paete, Laguna</string>
+  <string>Pagalungan, Maguindanao</string>
+  <string>Pagayawan, Lanao del Sur</string>
+  <string>Pagbilao, Quezon</string>
+  <string>Paglat, Maguindanao</string>
+  <string>Pagsanghan, Samar</string>
+  <string>Pagsanjan, Laguna</string>
+  <string>Pagudpud, Ilocos Norte</string>
+  <string>Pakil, Laguna</string>
+  <string>Palanan, Isabela</string>
+  <string>Palanas, Masbate</string>
+  <string>Palapag, Northern Samar</string>
+  <string>Palauig, Zambales</string>
+  <string>Palimbang, Sultan Kudarat</string>
+  <string>Palo, Leyte</string>
+  <string>Palompon, Leyte</string>
+  <string>Paluan, Occidental Mindoro</string>
+  <string>Pambujan, Northern Samar</string>
+  <string>Pamplona, Cagayan</string>
+  <string>Pamplona, Camarines Sur</string>
+  <string>Pamplona, Negros Oriental</string>
+  <string>Panaon, Misamis Occidental</string>
+  <string>Panay, Capiz</string>
+  <string>Pandag, Maguindanao</string>
+  <string>Pandami, Sulu</string>
+  <string>Pandan, Antique</string>
+  <string>Pandan, Catanduanes</string>
+  <string>Pandi, Bulacan</string>
+  <string>Panganiban, Catanduanes</string>
+  <string>Pangantucan, Bukidnon</string>
+  <string>Pangil, Laguna</string>
+  <string>Panglao, Bohol</string>
+  <string>Panglima Estino, Sulu</string>
+  <string>Panglima Sugala, Tawi-Tawi</string>
+  <string>Pangutaran, Sulu</string>
+  <string>Paniqui, Tarlac</string>
+  <string>Panitan, Capiz</string>
+  <string>Pantabangan, Nueva Ecija</string>
+  <string>Pantao Ragat, Lanao del Norte</string>
+  <string>Pantar, Lanao del Norte</string>
+  <string>Pantukan, Compostela Valley</string>
+  <string>Panukulan, Quezon</string>
+  <string>Paoay, Ilocos Norte</string>
+  <string>Paombong, Bulacan</string>
+  <string>Paracale, Camarines Norte</string>
+  <string>Paracelis, Mountain Province</string>
+  <string>Paranas, Samar</string>
+  <string>Parang, Maguindanao</string>
+  <string>Parang, Sulu</string>
+  <string>Pasacao, Camarines Sur</string>
+  <string>Pasil, Kalinga</string>
+  <string>Pastrana, Leyte</string>
+  <string>Pasuquin, Ilocos Norte</string>
+  <string>Pata, Sulu</string>
+  <string>Pateros, Metro Manila</string>
+  <string>Patikul, Sulu</string>
+  <string>Patnanungan, Quezon</string>
+  <string>Patnongon, Antique</string>
+  <string>Pavia, Iloilo</string>
+  <string>Payao, Zamboanga Sibugay</string>
+  <string>Perez, Quezon</string>
+  <string>Peñablanca, Cagayan</string>
+  <string>Peñaranda, Nueva Ecija</string>
+  <string>Peñarrubia, Abra</string>
+  <string>Piagapo, Lanao del Sur</string>
+  <string>Piat, Cagayan</string>
+  <string>Picong, Lanao del Sur</string>
+  <string>Piddig, Ilocos Norte</string>
+  <string>Pidigan, Abra</string>
+  <string>Pigkawayan, Cotabato</string>
+  <string>Pikit, Cotabato</string>
+  <string>Pila, Laguna</string>
+  <string>Pilar, Abra</string>
+  <string>Pilar, Bataan</string>
+  <string>Pilar, Bohol</string>
+  <string>Pilar, Capiz</string>
+  <string>Pilar, Cebu</string>
+  <string>Pilar, Sorsogon</string>
+  <string>Pilar, Surigao del Norte</string>
+  <string>Pili, Camarines Sur</string>
+  <string>Pililla, Rizal</string>
+  <string>Pinabacdao, Samar</string>
+  <string>Pinamalayan, Oriental Mindoro</string>
+  <string>Pinamungahan, Cebu</string>
+  <string>Pinili, Ilocos Norte</string>
+  <string>Pintuyan, Southern Leyte</string>
+  <string>Pinukpuk, Kalinga</string>
+  <string>Pio Duran, Albay</string>
+  <string>Pio V. Corpuz, Masbate</string>
+  <string>Pitogo, Quezon</string>
+  <string>Pitogo, Zamboanga del Sur</string>
+  <string>Piñan, Zamboanga del Norte</string>
+  <string>Placer, Masbate</string>
+  <string>Placer, Surigao del Norte</string>
+  <string>Plaridel, Bulacan</string>
+  <string>Plaridel, Misamis Occidental</string>
+  <string>Plaridel, Quezon</string>
+  <string>Pola, Oriental Mindoro</string>
+  <string>Polanco, Zamboanga del Norte</string>
+  <string>Polangui, Albay</string>
+  <string>Polillo, Quezon</string>
+  <string>Polomolok, South Cotabato</string>
+  <string>Pontevedra, Capiz</string>
+  <string>Pontevedra, Negros Occidental</string>
+  <string>Poona Bayabao, Lanao del Sur</string>
+  <string>Poona Piagapo, Lanao del Norte</string>
+  <string>Porac, Pampanga</string>
+  <string>Poro, Cebu</string>
+  <string>Pototan, Iloilo</string>
+  <string>Pozzorubio, Pangasinan</string>
+  <string>Presentacion, Camarines Sur</string>
+  <string>President Carlos P. Garcia, Bohol</string>
+  <string>President Manuel A. Roxas, Zamboanga del Norte</string>
+  <string>President Quirino, Sultan Kudarat</string>
+  <string>President Roxas, Capiz</string>
+  <string>President Roxas, Cotabato</string>
+  <string>Prieto Diaz, Sorsogon</string>
+  <string>Prosperidad, Agusan del Sur</string>
+  <string>Pualas, Lanao del Sur</string>
+  <string>Pudtol, Apayao</string>
+  <string>Puerto Galera, Oriental Mindoro</string>
+  <string>Pugo, La Union</string>
+  <string>Pulilan, Bulacan</string>
+  <string>Pulupandan, Negros Occidental</string>
+  <string>Pura, Tarlac</string>
+  <string>Quezon, Bukidnon</string>
+  <string>Quezon, Isabela</string>
+  <string>Quezon, Nueva Ecija</string>
+  <string>Quezon, Nueva Vizcaya</string>
+  <string>Quezon, Palawan</string>
+  <string>Quezon, Quezon</string>
+  <string>Quinapondan, Eastern Samar</string>
+  <string>Quirino, Ilocos Sur</string>
+  <string>Quirino, Isabela</string>
+  <string>Ragay, Camarines Sur</string>
+  <string>Rajah Buayan, Maguindanao</string>
+  <string>Ramon Magsaysay, Zamboanga del Sur</string>
+  <string>Ramon, Isabela</string>
+  <string>Ramos, Tarlac</string>
+  <string>Rapu-Rapu, Albay</string>
+  <string>Real, Quezon</string>
+  <string>Reina Mercedes, Isabela</string>
+  <string>Remedios T. Romualdez, Agusan del Norte</string>
+  <string>Rizal, Cagayan</string>
+  <string>Rizal, Kalinga</string>
+  <string>Rizal, Laguna</string>
+  <string>Rizal, Nueva Ecija</string>
+  <string>Rizal, Occidental Mindoro</string>
+  <string>Rizal, Palawan</string>
+  <string>Rizal, Zamboanga del Norte</string>
+  <string>Rodriguez, Rizal</string>
+  <string>Romblon, Romblon</string>
+  <string>Ronda, Cebu</string>
+  <string>Rosales, Pangasinan</string>
+  <string>Rosario, Agusan del Sur</string>
+  <string>Rosario, Batangas</string>
+  <string>Rosario, Cavite</string>
+  <string>Rosario, La Union</string>
+  <string>Rosario, Northern Samar</string>
+  <string>Roseller Lim, Zamboanga Sibugay</string>
+  <string>Roxas, Isabela</string>
+  <string>Roxas, Oriental Mindoro</string>
+  <string>Roxas, Palawan</string>
+  <string>Sabangan, Mountain Province</string>
+  <string>Sablan, Benguet</string>
+  <string>Sablayan, Occidental Mindoro</string>
+  <string>Sabtang, Batanes</string>
+  <string>Sadanga, Mountain Province</string>
+  <string>Sagada, Mountain Province</string>
+  <string>Sagay, Camiguin</string>
+  <string>Sagbayan, Bohol</string>
+  <string>Saguday, Quirino</string>
+  <string>Saguiaran, Lanao del Sur</string>
+  <string>Sagñay, Camarines Sur</string>
+  <string>Saint Bernard, Southern Leyte</string>
+  <string>Salay, Misamis Oriental</string>
+  <string>Salcedo, Eastern Samar</string>
+  <string>Salcedo, Ilocos Sur</string>
+  <string>Sallapadan, Abra</string>
+  <string>Salug, Zamboanga del Norte</string>
+  <string>Salvador Benedicto, Negros Occidental</string>
+  <string>Salvador, Lanao del Norte</string>
+  <string>Samal, Bataan</string>
+  <string>Samboan, Cebu</string>
+  <string>Sampaloc, Quezon</string>
+  <string>San Agustin, Isabela</string>
+  <string>San Agustin, Romblon</string>
+  <string>San Agustin, Surigao del Sur</string>
+  <string>San Andres, Catanduanes</string>
+  <string>San Andres, Quezon</string>
+  <string>San Andres, Romblon</string>
+  <string>San Antonio, Northern Samar</string>
+  <string>San Antonio, Nueva Ecija</string>
+  <string>San Antonio, Quezon</string>
+  <string>San Antonio, Zambales</string>
+  <string>San Benito, Surigao del Norte</string>
+  <string>San Clemente, Tarlac</string>
+  <string>San Dionisio, Iloilo</string>
+  <string>San Emilio, Ilocos Sur</string>
+  <string>San Enrique, Iloilo</string>
+  <string>San Enrique, Negros Occidental</string>
+  <string>San Esteban, Ilocos Sur</string>
+  <string>San Fabian, Pangasinan</string>
+  <string>San Felipe, Zambales</string>
+  <string>San Fernando, Bukidnon</string>
+  <string>San Fernando, Camarines Sur</string>
+  <string>San Fernando, Cebu</string>
+  <string>San Fernando, Masbate</string>
+  <string>San Fernando, Romblon</string>
+  <string>San Francisco, Agusan del Sur</string>
+  <string>San Francisco, Cebu</string>
+  <string>San Francisco, Quezon</string>
+  <string>San Francisco, Southern Leyte</string>
+  <string>San Francisco, Surigao del Norte</string>
+  <string>San Gabriel, La Union</string>
+  <string>San Guillermo, Isabela</string>
+  <string>San Ildefonso, Bulacan</string>
+  <string>San Ildefonso, Ilocos Sur</string>
+  <string>San Isidro, Abra</string>
+  <string>San Isidro, Bohol</string>
+  <string>San Isidro, Davao Oriental</string>
+  <string>San Isidro, Davao del Norte</string>
+  <string>San Isidro, Isabela</string>
+  <string>San Isidro, Leyte</string>
+  <string>San Isidro, Northern Samar</string>
+  <string>San Isidro, Nueva Ecija</string>
+  <string>San Isidro, Surigao del Norte</string>
+  <string>San Jacinto, Masbate</string>
+  <string>San Jacinto, Pangasinan</string>
+  <string>San Joaquin, Iloilo</string>
+  <string>San Jorge, Samar</string>
+  <string>San Jose De Buan, Samar</string>
+  <string>San Jose, Antique</string>
+  <string>San Jose, Batangas</string>
+  <string>San Jose, Camarines Sur</string>
+  <string>San Jose, Dinagat Islands</string>
+  <string>San Jose, Negros Oriental</string>
+  <string>San Jose, Northern Samar</string>
+  <string>San Jose, Occidental Mindoro</string>
+  <string>San Jose, Romblon</string>
+  <string>San Jose, Surigao del Norte</string>
+  <string>San Jose, Tarlac</string>
+  <string>San Juan, Abra</string>
+  <string>San Juan, Batangas</string>
+  <string>San Juan, Ilocos Sur</string>
+  <string>San Juan, La Union</string>
+  <string>San Juan, Siquijor</string>
+  <string>San Juan, Southern Leyte</string>
+  <string>San Julian, Eastern Samar</string>
+  <string>San Leonardo, Nueva Ecija</string>
+  <string>San Lorenzo Ruiz, Camarines Norte</string>
+  <string>San Lorenzo, Guimaras</string>
+  <string>San Luis, Agusan del Sur</string>
+  <string>San Luis, Aurora</string>
+  <string>San Luis, Batangas</string>
+  <string>San Luis, Pampanga</string>
+  <string>San Manuel, Isabela</string>
+  <string>San Manuel, Pangasinan</string>
+  <string>San Manuel, Tarlac</string>
+  <string>San Marcelino, Zambales</string>
+  <string>San Mariano, Isabela</string>
+  <string>San Mateo, Isabela</string>
+  <string>San Mateo, Rizal</string>
+  <string>San Miguel, Bohol</string>
+  <string>San Miguel, Bulacan</string>
+  <string>San Miguel, Catanduanes</string>
+  <string>San Miguel, Iloilo</string>
+  <string>San Miguel, Leyte</string>
+  <string>San Miguel, Surigao del Sur</string>
+  <string>San Miguel, Zamboanga del Sur</string>
+  <string>San Narciso, Quezon</string>
+  <string>San Narciso, Zambales</string>
+  <string>San Nicolas, Batangas</string>
+  <string>San Nicolas, Ilocos Norte</string>
+  <string>San Nicolas, Pangasinan</string>
+  <string>San Pablo, Isabela</string>
+  <string>San Pablo, Zamboanga del Sur</string>
+  <string>San Pascual, Batangas</string>
+  <string>San Pascual, Masbate</string>
+  <string>San Pedro, Laguna</string>
+  <string>San Policarpo, Eastern Samar</string>
+  <string>San Quintin, Abra</string>
+  <string>San Quintin, Pangasinan</string>
+  <string>San Rafael, Bulacan</string>
+  <string>San Rafael, Iloilo</string>
+  <string>San Remigio, Antique</string>
+  <string>San Remigio, Cebu</string>
+  <string>San Ricardo, Southern Leyte</string>
+  <string>San Roque, Northern Samar</string>
+  <string>San Sebastian, Samar</string>
+  <string>San Simon, Pampanga</string>
+  <string>San Teodoro, Oriental Mindoro</string>
+  <string>San Vicente, Camarines Norte</string>
+  <string>San Vicente, Ilocos Sur</string>
+  <string>San Vicente, Northern Samar</string>
+  <string>San Vicente, Palawan</string>
+  <string>Sanchez-Mira, Cagayan</string>
+  <string>Santa Ana, Cagayan</string>
+  <string>Santa Ana, Pampanga</string>
+  <string>Santa Barbara, Iloilo</string>
+  <string>Santa Barbara, Pangasinan</string>
+  <string>Santa Catalina, Ilocos Sur</string>
+  <string>Santa Catalina, Negros Oriental</string>
+  <string>Santa Cruz, Davao del Sur</string>
+  <string>Santa Cruz, Ilocos Sur</string>
+  <string>Santa Cruz, Laguna</string>
+  <string>Santa Cruz, Marinduque</string>
+  <string>Santa Cruz, Occidental Mindoro</string>
+  <string>Santa Cruz, Zambales</string>
+  <string>Santa Elena, Camarines Norte</string>
+  <string>Santa Fe, Cebu</string>
+  <string>Santa Fe, Leyte</string>
+  <string>Santa Fe, Nueva Vizcaya</string>
+  <string>Santa Fe, Romblon</string>
+  <string>Santa Ignacia, Tarlac</string>
+  <string>Santa Josefa, Agusan del Sur</string>
+  <string>Santa Lucia, Ilocos Sur</string>
+  <string>Santa Magdalena, Sorsogon</string>
+  <string>Santa Marcela, Apayao</string>
+  <string>Santa Margarita, Samar</string>
+  <string>Santa Maria, Bulacan</string>
+  <string>Santa Maria, Davao del Sur</string>
+  <string>Santa Maria, Ilocos Sur</string>
+  <string>Santa Maria, Isabela</string>
+  <string>Santa Maria, Laguna</string>
+  <string>Santa Maria, Pangasinan</string>
+  <string>Santa Maria, Romblon</string>
+  <string>Santa Monica, Surigao del Norte</string>
+  <string>Santa Praxedes, Cagayan</string>
+  <string>Santa Rita, Pampanga</string>
+  <string>Santa Rita, Samar</string>
+  <string>Santa Rosa, Nueva Ecija</string>
+  <string>Santa Teresita, Batangas</string>
+  <string>Santa Teresita, Cagayan</string>
+  <string>Santa, Ilocos Sur</string>
+  <string>Santander, Cebu</string>
+  <string>Santiago, Agusan del Norte</string>
+  <string>Santiago, Ilocos Sur</string>
+  <string>Santo Domingo, Albay</string>
+  <string>Santo Domingo, Ilocos Sur</string>
+  <string>Santo Domingo, Nueva Ecija</string>
+  <string>Santo Niño, Cagayan</string>
+  <string>Santo Niño, Samar</string>
+  <string>Santo Niño, South Cotabato</string>
+  <string>Santo Tomas, Batangas</string>
+  <string>Santo Tomas, Davao del Norte</string>
+  <string>Santo Tomas, Isabela</string>
+  <string>Santo Tomas, La Union</string>
+  <string>Santo Tomas, Pampanga</string>
+  <string>Santo Tomas, Pangasinan</string>
+  <string>Santol, La Union</string>
+  <string>Sapa-Sapa, Tawi-Tawi</string>
+  <string>Sapad, Lanao del Norte</string>
+  <string>Sapang Dalaga, Misamis Occidental</string>
+  <string>Sapi-an, Capiz</string>
+  <string>Sara, Iloilo</string>
+  <string>Sarangani, Davao del Sur</string>
+  <string>Sariaya, Quezon</string>
+  <string>Sarrat, Ilocos Norte</string>
+  <string>Sasmuan, Pampanga</string>
+  <string>Sebaste, Antique</string>
+  <string>Senator Ninoy Aquino, Sultan Kudarat</string>
+  <string>Sergio Osmeña Sr., Zamboanga del Norte</string>
+  <string>Sevilla, Bohol</string>
+  <string>Shariff Aguak, Maguindanao</string>
+  <string>Shariff Saydona Mustapha, Maguindanao</string>
+  <string>Siasi, Sulu</string>
+  <string>Siaton, Negros Oriental</string>
+  <string>Siay, Zamboanga Sibugay</string>
+  <string>Siayan, Zamboanga del Norte</string>
+  <string>Sibagat, Agusan del Sur</string>
+  <string>Sibalom, Antique</string>
+  <string>Sibonga, Cebu</string>
+  <string>Sibuco, Zamboanga del Norte</string>
+  <string>Sibulan, Negros Oriental</string>
+  <string>Sibunag, Guimaras</string>
+  <string>Sibutad, Zamboanga del Norte</string>
+  <string>Sibutu, Tawi-Tawi</string>
+  <string>Sierra Bullones, Bohol</string>
+  <string>Sigay, Ilocos Sur</string>
+  <string>Sigma, Capiz</string>
+  <string>Sikatuna, Bohol</string>
+  <string>Silago, Southern Leyte</string>
+  <string>Silang, Cavite</string>
+  <string>Silvino Lobos, Northern Samar</string>
+  <string>Simunul, Tawi-Tawi</string>
+  <string>Sinacaban, Misamis Occidental</string>
+  <string>Sinait, Ilocos Sur</string>
+  <string>Sindangan, Zamboanga del Norte</string>
+  <string>Siniloan, Laguna</string>
+  <string>Siocon, Zamboanga del Norte</string>
+  <string>Sipocot, Camarines Sur</string>
+  <string>Siquijor, Siquijor</string>
+  <string>Sirawai, Zamboanga del Norte</string>
+  <string>Siruma, Camarines Sur</string>
+  <string>Sison, Pangasinan</string>
+  <string>Sison, Surigao del Norte</string>
+  <string>Sitangkai, Tawi-Tawi</string>
+  <string>Socorro, Oriental Mindoro</string>
+  <string>Socorro, Surigao del Norte</string>
+  <string>Sofronio Española, Palawan</string>
+  <string>Sogod, Cebu</string>
+  <string>Sogod, Southern Leyte</string>
+  <string>Solana, Cagayan</string>
+  <string>Solano, Nueva Vizcaya</string>
+  <string>Solsona, Ilocos Norte</string>
+  <string>Sominot, Zamboanga del Sur</string>
+  <string>South Ubian, Tawi-Tawi</string>
+  <string>South Upi, Maguindanao</string>
+  <string>Sual, Pangasinan</string>
+  <string>Subic, Zambales</string>
+  <string>Sudipen, La Union</string>
+  <string>Sugbongcogon, Misamis Oriental</string>
+  <string>Sugpon, Ilocos Sur</string>
+  <string>Sulat, Eastern Samar</string>
+  <string>Sulop, Davao del Sur</string>
+  <string>Sultan Dumalondong, Lanao del Sur</string>
+  <string>Sultan Kudarat, Maguindanao</string>
+  <string>Sultan Mastura, Maguindanao</string>
+  <string>Sultan Naga Dimaporo, Lanao del Norte</string>
+  <string>Sultan sa Barongis, Maguindanao</string>
+  <string>Sumilao, Bukidnon</string>
+  <string>Sumisip, Basilan</string>
+  <string>Surallah, South Cotabato</string>
+  <string>Suyo, Ilocos Sur</string>
+  <string>T'boli, South Cotabato</string>
+  <string>Taal, Batangas</string>
+  <string>Tabango, Leyte</string>
+  <string>Tabina, Zamboanga del Sur</string>
+  <string>Tabogon, Cebu</string>
+  <string>Tabontabon, Leyte</string>
+  <string>Tabuan-Lasa, Basilan</string>
+  <string>Tabuelan, Cebu</string>
+  <string>Tadian, Mountain Province</string>
+  <string>Taft, Eastern Samar</string>
+  <string>Tagana-an, Surigao del Norte</string>
+  <string>Tagapul-an, Samar</string>
+  <string>Tagbina, Surigao del Sur</string>
+  <string>Tagkawayan, Quezon</string>
+  <string>Tago, Surigao del Sur</string>
+  <string>Tagoloan II, Lanao del Sur</string>
+  <string>Tagoloan, Lanao del Norte</string>
+  <string>Tagoloan, Misamis Oriental</string>
+  <string>Tagudin, Ilocos Sur</string>
+  <string>Talacogon, Agusan del Sur</string>
+  <string>Talaingod, Davao del Norte</string>
+  <string>Talakag, Bukidnon</string>
+  <string>Talalora, Samar</string>
+  <string>Talavera, Nueva Ecija</string>
+  <string>Talayan, Maguindanao</string>
+  <string>Talibon, Bohol</string>
+  <string>Talipao, Sulu</string>
+  <string>Talisay, Batangas</string>
+  <string>Talisay, Camarines Norte</string>
+  <string>Talisayan, Misamis Oriental</string>
+  <string>Talitay, Maguindanao</string>
+  <string>Talugtug, Nueva Ecija</string>
+  <string>Talusan, Zamboanga Sibugay</string>
+  <string>Tambulig, Zamboanga del Sur</string>
+  <string>Tampakan, South Cotabato</string>
+  <string>Tamparan, Lanao del Sur</string>
+  <string>Tampilisan, Zamboanga del Norte</string>
+  <string>Tanauan, Leyte</string>
+  <string>Tanay, Rizal</string>
+  <string>Tandubas, Tawi-Tawi</string>
+  <string>Tangalan, Aklan</string>
+  <string>Tangcal, Lanao del Norte</string>
+  <string>Tantangan, South Cotabato</string>
+  <string>Tanudan, Kalinga</string>
+  <string>Tanza, Cavite</string>
+  <string>Tapaz, Capiz</string>
+  <string>Tapul, Sulu</string>
+  <string>Taraka, Lanao del Sur</string>
+  <string>Tarangnan, Samar</string>
+  <string>Tarragona, Davao Oriental</string>
+  <string>Tayasan, Negros Oriental</string>
+  <string>Taysan, Batangas</string>
+  <string>Taytay, Palawan</string>
+  <string>Taytay, Rizal</string>
+  <string>Tayug, Pangasinan</string>
+  <string>Tayum, Abra</string>
+  <string>Teresa, Rizal</string>
+  <string>Ternate, Cavite</string>
+  <string>Tiaong, Quezon</string>
+  <string>Tibiao, Antique</string>
+  <string>Tigaon, Camarines Sur</string>
+  <string>Tigbao, Zamboanga del Sur</string>
+  <string>Tigbauan, Iloilo</string>
+  <string>Tinambac, Camarines Sur</string>
+  <string>Tineg, Abra</string>
+  <string>Tinglayan, Kalinga</string>
+  <string>Tingloy, Batangas</string>
+  <string>Tinoc, Ifugao</string>
+  <string>Tipo-Tipo, Basilan</string>
+  <string>Titay, Zamboanga Sibugay</string>
+  <string>Tiwi, Albay</string>
+  <string>Tobias Fornier, Antique</string>
+  <string>Toboso, Negros Occidental</string>
+  <string>Tolosa, Leyte</string>
+  <string>Tomas Oppus, Southern Leyte</string>
+  <string>Torrijos, Marinduque</string>
+  <string>Trento, Agusan del Sur</string>
+  <string>Trinidad, Bohol</string>
+  <string>Tuao, Cagayan</string>
+  <string>Tuba, Benguet</string>
+  <string>Tubajon, Dinagat Islands</string>
+  <string>Tubajon, Surigao del Norte</string>
+  <string>Tubao, La Union</string>
+  <string>Tubaran, Lanao del Sur</string>
+  <string>Tubay, Agusan del Norte</string>
+  <string>Tubigon, Bohol</string>
+  <string>Tublay, Benguet</string>
+  <string>Tubo, Abra</string>
+  <string>Tubod, Lanao del Norte</string>
+  <string>Tubod, Surigao del Norte</string>
+  <string>Tubungan, Iloilo</string>
+  <string>Tuburan, Basilan</string>
+  <string>Tuburan, Cebu</string>
+  <string>Tudela, Cebu</string>
+  <string>Tudela, Misamis Occidental</string>
+  <string>Tugaya, Lanao del Sur</string>
+  <string>Tukuran, Zamboanga del Sur</string>
+  <string>Tulunan, Cotabato</string>
+  <string>Tumauini, Isabela</string>
+  <string>Tunga, Leyte</string>
+  <string>Tungawan, Zamboanga Sibugay</string>
+  <string>Tupi, South Cotabato</string>
+  <string>Turtle Islands, Tawi-Tawi</string>
+  <string>Tuy, Batangas</string>
+  <string>Ubay, Bohol</string>
+  <string>Umingan, Pangasinan</string>
+  <string>Ungkaya Pukan, Basilan</string>
+  <string>Unisan, Quezon</string>
+  <string>Upi, Maguindanao</string>
+  <string>Urbiztondo, Pangasinan</string>
+  <string>Uson, Masbate</string>
+  <string>Uyugan, Batanes</string>
+  <string>Valderrama, Antique</string>
+  <string>Valencia, Bohol</string>
+  <string>Valencia, Negros Oriental</string>
+  <string>Valladolid, Negros Occidental</string>
+  <string>Vallehermoso, Negros Oriental</string>
+  <string>Veruela, Agusan del Sur</string>
+  <string>Victoria, Laguna</string>
+  <string>Victoria, Northern Samar</string>
+  <string>Victoria, Oriental Mindoro</string>
+  <string>Victoria, Tarlac</string>
+  <string>Viga, Catanduanes</string>
+  <string>Villaba, Leyte</string>
+  <string>Villanueva, Misamis Oriental</string>
+  <string>Villareal, Samar</string>
+  <string>Villasis, Pangasinan</string>
+  <string>Villaverde, Nueva Vizcaya</string>
+  <string>Villaviciosa, Abra</string>
+  <string>Vincenzo A. Sagun, Zamboanga del Sur</string>
+  <string>Vintar, Ilocos Norte</string>
+  <string>Vinzons, Camarines Norte</string>
+  <string>Virac, Catanduanes</string>
+  <string>Wao, Lanao del Sur</string>
+  <string>Zamboanguita, Negros Oriental</string>
+  <string>Zaragoza, Nueva Ecija</string>
+  <string>Zarraga, Iloilo</string>
+  <string>Zumarraga, Samar</string>
+</strings>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <name>Zambales</name>
+  <cities type="array">
+    <city>Olongapo City</city>
+  </cities>
+  <municipalities type="array">
+    <municipality>Botolan</municipality>
+    <municipality>Cabangan</municipality>
+    <municipality>Candelaria</municipality>
+    <municipality>Castillejos</municipality>
+    <municipality>Iba</municipality>
+    <municipality>Masinloc</municipality>
+    <municipality>Palauig</municipality>
+    <municipality>San Antonio</municipality>
+    <municipality>San Felipe</municipality>
+    <municipality>San Marcelino</municipality>
+    <municipality>San Narciso</municipality>
+    <municipality>Santa Cruz</municipality>
+    <municipality>Subic</municipality>
+  </municipalities>
+</hash>

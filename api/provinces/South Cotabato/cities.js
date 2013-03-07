@@ -1,0 +1,1 @@
+["General Santos City","Koronadal City"]
